@@ -44,10 +44,10 @@ export function Timeline({ sightings }: { sightings: Sighting[] }) {
 
   const maxCount = Math.max(1, ...Object.values(yearCounts));
   const W = 1200;
-  const H = 320;
+  const H = 380;
   const PAD_L = 30;
   const PAD_R = 30;
-  const PAD_T = 90;
+  const PAD_T = 130;
   const PAD_B = 50;
   const innerW = W - PAD_L - PAD_R;
   const innerH = H - PAD_T - PAD_B;
@@ -110,49 +110,69 @@ export function Timeline({ sightings }: { sightings: Sighting[] }) {
             </g>
           ))}
 
-          {/* historical event markers */}
-          {HISTORICAL_EVENTS.filter((e) => e.year >= range[0] && e.year <= range[1]).map((e, i) => {
-            const x = xFor(e.year);
-            const color =
-              e.tone === "red"
-                ? "var(--status-anomaly)"
-                : e.tone === "cyan"
-                ? "var(--cyan)"
-                : "var(--amber)";
-            // Stagger label heights so they don't overlap
-            const stagger = (i % 3) * 16;
-            return (
-              <g key={`ev-${e.year}-${i}`}>
-                <line
-                  x1={x}
-                  x2={x}
-                  y1={PAD_T - 8}
-                  y2={PAD_T + innerH}
-                  stroke={color}
-                  strokeWidth={0.5}
-                  strokeDasharray="2 3"
-                  opacity={0.5}
-                />
-                <circle cx={x} cy={PAD_T - 8} r={3} fill={color} />
-                <text
-                  x={x}
-                  y={PAD_T - 16 - stagger}
-                  textAnchor="middle"
-                  className="font-mono"
-                  fontSize={9}
-                  fill={color}
-                  letterSpacing="0.08em"
-                >
-                  <tspan x={x} dy={0}>
-                    {e.year}
-                  </tspan>
-                  <tspan x={x} dy={11} fill="var(--fg-secondary)" letterSpacing="0.04em">
-                    {e.label}
-                  </tspan>
-                </text>
-              </g>
-            );
-          })}
+          {/* historical event markers — lane-staggered so dense periods don't overlap */}
+          {(() => {
+            const events = HISTORICAL_EVENTS.filter(
+              (e) => e.year >= range[0] && e.year <= range[1],
+            ).sort((a, b) => a.year - b.year);
+            // Assign each event to a lane (0..N) such that no two events in the
+            // same lane are within MIN_YEAR_GAP years horizontally.
+            const MIN_YEAR_GAP = 5;
+            const LANE_HEIGHT = 26;
+            const laneEnd: number[] = [];
+            const laneFor = events.map((e) => {
+              for (let i = 0; i < laneEnd.length; i++) {
+                if (e.year - laneEnd[i] >= MIN_YEAR_GAP) {
+                  laneEnd[i] = e.year;
+                  return i;
+                }
+              }
+              laneEnd.push(e.year);
+              return laneEnd.length - 1;
+            });
+
+            return events.map((e, i) => {
+              const x = xFor(e.year);
+              const color =
+                e.tone === "red"
+                  ? "var(--status-anomaly)"
+                  : e.tone === "cyan"
+                  ? "var(--cyan)"
+                  : "var(--amber)";
+              const stagger = laneFor[i] * LANE_HEIGHT;
+              return (
+                <g key={`ev-${e.year}-${i}`}>
+                  <line
+                    x1={x}
+                    x2={x}
+                    y1={PAD_T - 8}
+                    y2={PAD_T + innerH}
+                    stroke={color}
+                    strokeWidth={0.5}
+                    strokeDasharray="2 3"
+                    opacity={0.5}
+                  />
+                  <circle cx={x} cy={PAD_T - 8} r={3} fill={color} />
+                  <text
+                    x={x}
+                    y={PAD_T - 16 - stagger}
+                    textAnchor="middle"
+                    className="font-mono"
+                    fontSize={9}
+                    fill={color}
+                    letterSpacing="0.08em"
+                  >
+                    <tspan x={x} dy={0}>
+                      {e.year}
+                    </tspan>
+                    <tspan x={x} dy={11} fill="var(--fg-secondary)" letterSpacing="0.04em">
+                      {e.label}
+                    </tspan>
+                  </text>
+                </g>
+              );
+            });
+          })()}
 
           {/* sighting bars (corpus data) */}
           {yearsList.map((y) => {
