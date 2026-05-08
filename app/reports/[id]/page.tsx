@@ -3,7 +3,9 @@ import { notFound } from "next/navigation";
 import { TopNav } from "../../../components/TopNav";
 import { Panel } from "../../../components/Panel";
 import { getDocument, getSightingsForDoc, loadDocuments } from "../../../lib/data";
-import { AGENCY_COLORS, shortId } from "../../../lib/format";
+import { AGENCY_COLORS, isOcrPending, shortId } from "../../../lib/format";
+
+export const dynamicParams = true;
 
 export async function generateStaticParams() {
   const docs = await loadDocuments();
@@ -26,6 +28,7 @@ export default async function ReportReader({ params }: { params: Promise<{ id: s
   if (!doc) notFound();
   const sightings = await getSightingsForDoc(id);
   const accent = AGENCY_COLORS[doc.agency] ?? "var(--fg-muted)";
+  const ocrPending = isOcrPending(doc.summary);
 
   return (
     <>
@@ -106,6 +109,25 @@ export default async function ReportReader({ params }: { params: Promise<{ id: s
           >
             {doc.title}
           </h1>
+          {ocrPending && (
+            <div
+              className="font-mono mt-3"
+              style={{
+                fontSize: "10px",
+                letterSpacing: "0.22em",
+                textTransform: "uppercase",
+                color: "var(--status-anomaly)",
+                background: "rgba(217,84,58,0.08)",
+                border: "1px solid var(--status-anomaly)",
+                padding: "8px 12px",
+                borderRadius: "var(--r-sm)",
+                display: "inline-block",
+              }}
+            >
+              ⚠ OCR pending — encrypted scan, content extracted is metadata only.
+              Open at source for full document.
+            </div>
+          )}
         </div>
 
         {/* 60/40 split */}

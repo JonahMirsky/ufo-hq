@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-05-08T20:38:09.800015Z",
+  "generated_at": "2026-05-08T20:41:59.154749Z",
   "headline": {
-    "TM_01_total_sightings": 140,
-    "TM_02_total_documents": 98,
-    "TM_02_total_pages": 1396,
+    "TM_01_total_sightings": 145,
+    "TM_02_total_documents": 103,
+    "TM_02_total_pages": 1808,
     "TM_03_date_range": "1944\u20132025",
     "TM_03_years_covered": 82,
-    "TM_04_unresolved_pct": 92.9,
+    "TM_04_unresolved_pct": 93.1,
     "TM_05_top_shape": "formation",
-    "TM_05_top_shape_count": 25,
+    "TM_05_top_shape_count": 26,
     "TM_06_most_active_year": 1999,
     "TM_06_most_active_year_count": 23,
     "TM_07_active_hotspot": "US",
-    "TM_07_active_hotspot_count": 31,
+    "TM_07_active_hotspot_count": 33,
     "TM_08_top_speed_mph": 4000,
     "TM_09_most_cited": "FBI",
-    "TM_09_most_cited_count": 36,
-    "extra_aviator_pct": 60.7
+    "TM_09_most_cited_count": 37,
+    "extra_aviator_pct": 59.3
   },
   "by_year": {
     "1944": 12,
     "1945": 3,
-    "1947": 5,
-    "1948": 3,
+    "1947": 7,
+    "1948": 6,
     "1949": 3,
     "1950": 1,
     "1952": 2,
@@ -48,29 +48,30 @@
     "2025": 13
   },
   "by_shape": {
-    "formation": 25,
-    "light": 22,
+    "formation": 26,
+    "light": 24,
     "orb": 22,
     "disk": 19,
     "sphere": 11,
-    "triangle": 4,
+    "triangle": 5,
     "cigar": 3,
     "cylinder": 2,
     "diamond": 2,
     "boomerang": 1
   },
   "by_country": {
-    "US": 31,
+    "US": 33,
     "FR": 8,
     "SY": 8,
     "IR": 5,
     "DE": 4,
     "PG": 3,
     "IQ": 3,
+    "CA": 2,
+    "FI": 2,
     "GB": 1,
     "NL": 1,
     "SE": 1,
-    "CA": 1,
     "MX": 1,
     "KZ": 1,
     "GR": 1,
@@ -78,20 +79,20 @@
     "DJ": 1
   },
   "by_agency_docs": {
-    "DoW": 44,
-    "FBI": 35,
+    "DoW": 47,
+    "FBI": 37,
     "NASA": 8,
     "DoS": 7,
     "Other": 4
   },
   "by_doctype": {
-    "case_file": 36,
+    "case_file": 38,
     "MISREP": 30,
     "transcript": 7,
+    "memo": 6,
     "range_fouler_debrief": 6,
     "cable": 5,
     "report": 4,
-    "memo": 3,
     "email": 3,
     "sketch": 1,
     "other": 1,
@@ -99,9 +100,9 @@
     "slide_deck": 1
   },
   "by_evidence_type": {
-    "visual": 138,
+    "visual": 143,
     "video": 36,
-    "photographic": 28,
+    "photographic": 29,
     "infrared": 17,
     "radar": 6,
     "electronic_signature": 3,
@@ -111,6 +112,6 @@
   "lag_distribution": {
     "median_years": 26.3,
     "max_years": 81.1,
-    "count": 97
+    "count": 101
   }
 }

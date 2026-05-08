@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import type { UfoDocument } from "../lib/types";
-import { AGENCY_COLORS, shortId } from "../lib/format";
+import { AGENCY_COLORS, isOcrPending, shortId } from "../lib/format";
 
 const AGENCIES = ["All", "DoW", "FBI", "NASA", "DoS", "Other"] as const;
 
@@ -128,6 +128,7 @@ export function ReportsGrid({ docs }: { docs: UfoDocument[] }) {
 function ReportCard({ doc }: { doc: UfoDocument }) {
   const accent = AGENCY_COLORS[doc.agency] ?? "var(--fg-muted)";
   const sightCount = doc.incident_refs?.length ?? 0;
+  const ocrPending = isOcrPending(doc.summary);
 
   return (
     <Link
@@ -227,12 +228,22 @@ function ReportCard({ doc }: { doc: UfoDocument }) {
           <span
             className="status-dot"
             style={{
-              background: sightCount > 0 ? "var(--amber)" : "var(--fg-disabled)",
-              boxShadow: sightCount > 0 ? "0 0 4px var(--amber-glow)" : "none",
+              background: ocrPending
+                ? "var(--status-anomaly)"
+                : sightCount > 0
+                ? "var(--amber)"
+                : "var(--fg-disabled)",
+              boxShadow: ocrPending
+                ? "0 0 4px rgba(217,84,58,0.4)"
+                : sightCount > 0
+                ? "0 0 4px var(--amber-glow)"
+                : "none",
             }}
           />
           <span>
-            {sightCount} {sightCount === 1 ? "sighting" : "sightings"}
+            {ocrPending
+              ? "OCR PENDING"
+              : `${sightCount} ${sightCount === 1 ? "sighting" : "sightings"}`}
           </span>
         </div>
         <span style={{ color: "var(--amber)" }}>OPEN →</span>

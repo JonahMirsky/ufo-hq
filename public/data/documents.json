@@ -164,6 +164,72 @@
     "pdf_url_local": "/reports/059uap00013.pdf"
   },
   {
+    "id": "18_100754__general_1946-7_vol_2",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "RG 18 (Army Air Forces HQ) General File 1946-47, Vol. 2",
+    "agency": "DoW",
+    "document_type": "memo",
+    "published_at": "2026-05-08",
+    "date_authored": "1946-01-01",
+    "lag_years": 80.4,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 28,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/18_100754_ general 1946-7_vol_2.pdf",
+    "summary": "[heavily image-based scan; OCR pending]",
+    "key_findings": [],
+    "incident_refs": [],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "HQ Army Air Forces"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/18_100754__general_1946-7_vol_2.pdf"
+  },
+  {
+    "id": "18_6369445_general_1948_vol_1",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "RG 18 (Army Air Forces HQ) General File 1948, Vol. 1",
+    "agency": "DoW",
+    "document_type": "memo",
+    "published_at": "2026-05-08",
+    "date_authored": "1948-01-01",
+    "lag_years": 78.4,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 28,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/18_6369445_general_1948_vol_1.pdf",
+    "summary": "[heavily image-based scan; OCR pending]",
+    "key_findings": [],
+    "incident_refs": [],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "HQ Army Air Forces"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/18_6369445_general_1948_vol_1.pdf"
+  },
+  {
     "id": "2024-04-30-composite-sketch",
     "source": "DoW-PURSUE",
     "external_id": null,
@@ -543,6 +609,39 @@
     "pdf_url_local": "/reports/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf"
   },
   {
+    "id": "341_110677_numerical_file_5-2500",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "RG 341 (HQ USAF) Numerical File 5-2500",
+    "agency": "DoW",
+    "document_type": "memo",
+    "published_at": "2026-05-08",
+    "date_authored": null,
+    "lag_years": null,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 10,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/341_110677_numerical_file_5-2500.pdf",
+    "summary": "[heavily image-based scan; OCR pending]",
+    "key_findings": [],
+    "incident_refs": [],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "HQ USAF"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/341_110677_numerical_file_5-2500.pdf"
+  },
+  {
     "id": "342_hs1-416511228_box186_319.1-flying-discs-1949",
     "source": "DoW-PURSUE",
     "external_id": "RG 342, Box 186, File 319.1 'Flying Discs' (1949)",
@@ -600,6 +699,83 @@
     "redaction_codes": [],
     "notable_quotes": [],
     "pdf_url_local": "/reports/342_hs1-416511228_box186_319.1-flying-discs-1949.pdf"
+  },
+  {
+    "id": "38_143685_box7_incident_summaries_1-100",
+    "source": "DoW-PURSUE",
+    "external_id": "S78-1(126) / D20240 30614",
+    "title": "Project SIGN Era \u2014 UFO Incident Summaries 1-100 (Box 7, File 38_143685)",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1948-01-01",
+    "lag_years": 78.4,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [
+      "RESTRICTED"
+    ],
+    "redaction_pct": 0,
+    "page_count": 209,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_1-100.pdf",
+    "summary": "Bound archive of standardized 'CHECK-LIST \u2014 UNIDENTIFIED FLYING OBJECTS' incident summaries numbered 1 through 100, covering early Project SIGN-era U.S. military investigations of 1947-1948 UFO sightings. Each incident is logged on a 26-field form (date, time, location, observer, occupation, number of objects, distance, time in sight, altitude, speed, direction, tactics, sound, size, color, shape, odor, apparent construction, exhaust trails, weather, effect on clouds, sketches, manner of disappearance, remarks). Many incidents include narrative continuation pages with witness quotes and Project SIGN evaluations. Sample extraction from 209-page incident-summaries archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Document is a standardized 'CHECK-LIST \u2014 UNIDENTIFIED FLYING OBJECTS' Project SIGN/GRUDGE-era incident-summary set covering Incidents #1 through #100 (with sub-letters such as 45a/45b/48a/48b/45d, etc.).",
+      "Sightings span mid-1947 through early-January 1948; geographic range includes the continental U.S. (Idaho, Ohio, California/Mojave) and overseas observations from Finland sourced via the U.S. Military Attach\u00e9, Helsinki.",
+      "Witness pool is mixed: civilian and commercial-aviation observers (e.g., UAL pilot, Pan American Airways station mechanic) alongside U.S. Army Air Forces personnel (Control Tower corporals at Clinton County AAF, Wilmington OH).",
+      "Reported objects are predominantly described as silver/white/shining disc-like or triangular shapes, with several formation flights (e.g., 9-object loose formation over Boise, ID, 4 July 1947).",
+      "Each form follows an identical 26-field structure, making the corpus highly suitable for structured per-incident extraction in a phase-2 pass.",
+      "Many incidents include extensive narrative pages with witness quotes, evaluator comments ('Evaluation: Confirmed by other sources'), cross-references to other incidents, and Project SIGN analyst notes ruling out weather balloons, birds, and conventional aircraft.",
+      "Cover page bears DECLASSIFIED stamp (Authority NND 917033) over crossed-out CONFIDENTIAL/RESTRICTED markings, with archival reference S78-1(126) / D20240 30614.",
+      "Multiple Finnish incidents (e.g., Incidents #99 Vaasa and #100 Pietarsaari, 3-5 Jan 1948) were collected by the U.S. Military Attach\u00e9 in Helsinki via Helsinki press reporting \u2014 part of the early-1948 Scandinavian 'ghost rocket' / shining-object reporting wave."
+    ],
+    "incident_refs": [
+      "38_143685_box7_incident_summaries_1-100#0",
+      "38_143685_box7_incident_summaries_1-100#1",
+      "38_143685_box7_incident_summaries_1-100#2",
+      "38_143685_box7_incident_summaries_1-100#3",
+      "38_143685_box7_incident_summaries_1-100#4"
+    ],
+    "person_refs": [
+      "Capt E. J. Smith (UAL pilot)",
+      "Robert W. Leidy (Pan American Airways Station Mechanic)",
+      "Cpl James H. Hudson (Clinton County AAF Control Tower)",
+      "Joseph Hervole",
+      "S/Sgt. Gerald E. Newman"
+    ],
+    "unit_refs": [
+      "Clinton County Army Air Field Control Tower",
+      "United Air Lines Boise Office",
+      "Pan American Airways"
+    ],
+    "agency_refs": [
+      "U.S. Military Attach\u00e9, Helsinki",
+      "Project SIGN",
+      "USAAF",
+      "Embassy of the United States, Helsinki, Finland"
+    ],
+    "operation_refs": [
+      "Project SIGN"
+    ],
+    "platform_refs": [],
+    "location_refs": [
+      "Harmon Field, Newfoundland",
+      "Boise, Idaho",
+      "Clinton County AAF, Wilmington, Ohio",
+      "Mojave, California",
+      "Pietarsaari, Finland",
+      "Vaasa, Finland",
+      "Helsinki, Finland"
+    ],
+    "declassified_date": null,
+    "declassified_by": "NND 917033 (declassification authority stamp on cover)",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "9 - 5 at first, then 4 more ... preserved 'loose formation' ... Northwest",
+      "2 silver-colored disc-like objects flying toward Mojave, Calif., at a speed of about 300 to 400 MPH at an altitude of approximately 8,000 ft.",
+      "Hovered then moved with great speed ... White changing to red to green ... Triangle"
+    ],
+    "pdf_url_local": "/reports/38_143685_box7_incident_summaries_1-100.pdf"
   },
   {
     "id": "59_214434_sp_16_7.18.1963",
@@ -984,6 +1160,71 @@
       "We hesitate to make this report concerning our pilot balloon observations in regards to a flying disk because of the considerable national skepticism."
     ],
     "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_serial_130.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_serial_164",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Serial 164",
+    "title": "FBI HQ Case File 62-HQ-83894 Serial 164 \u2014 USAF Air Intelligence Requirements Memorandum No. 4 (Unconventional Aircraft), 15 Feb 1949",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1949-02-15",
+    "lag_years": 77.2,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [
+      "RESTRICTED"
+    ],
+    "redaction_pct": 2,
+    "page_count": 137,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_164.pdf",
+    "summary": "FBI HQ administrative file 62-HQ-83894, Serial 164 \u2014 \"DO NOT DESTROY\" Bureau jacket holding the FBI's file copy plus multiple mimeographed duplicates of \"Air Intelligence Requirements Memorandum Number 4 - UNCONVENTIONAL AIRCRAFT,\" Department of the Air Force, HQ USAF, Directorate of Intelligence, Washington 25 D.C., dated 15 February 1949 and signed by Major General C.P. Cabell, Director of Intelligence, Office of Deputy Chief of Staff (Operations). The cover memo establishes the early USAF reporting requirements and procedures for sightings of unconventional aircraft and unidentified flying objects (\"so-called Flying Discs\"), and lists the Director of the FBI as a designated distributee. Sample extraction from 137-page archive (mostly duplicate copies of the same 7-page memorandum); full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Cover memo: USAF Air Intelligence Requirements Memorandum Number 4, \"UNCONVENTIONAL AIRCRAFT,\" 15 February 1949, signed by Maj. Gen. C.P. Cabell (Director of Intelligence, USAF DCS Operations). Marked RESTRICTED with form ID C9-4892 AF.",
+      "Purpose: (a) enunciate continuing Air Force requirements for information on sightings of \"unconventional aircraft and unidentified flying objects, including the so-called Flying Discs\"; (b) establish reporting procedures.",
+      "Rescinds: Department of the Army Collection Memorandum Number 7 (21 January 1948) and letter CSGID 425.1 (25 March 1948), both transferred to Air Force as part of the AAF-to-USAF transition.",
+      "Reporting chain: initial cabled reports go to Director of Intelligence, HQ USAF, with phrase \"Pass to COMGENAMC WRIGHT-PATTERSON AFB, DAYTON, OHIO, ATTN: MCIAXO-3\" (Air Materiel Command, the Project Sign / Project Grudge office). Written reports on AF Form 112.",
+      "Part II Requirements catalog is the canonical 1949 USAF UFO observation checklist: 20 detailed observation fields (date/time, position air/ground/sea, number, formation, distance, time-in-sight, color, shape, construction, size, direction, tactics/maneuvers, exhaust, lights, support, propulsion, control surfaces, ducts, speed, sound, manner of disappearance) plus observer and radar sub-sections.",
+      "Tactics field explicitly includes: \"Vertical ascent or descent, horizontal, oscillating, fluttering, evasive, aggressive, erratic, etc.\"",
+      "Distribution list: Commanding Generals of all Major Air Commands (ZI and Overseas), all U.S. Air Attaches, Director of Central Intelligence, State Dept Special Assistant for Research and Intelligence, Director of Intelligence GSUSA, Chief of Naval Intelligence, Commandant (INT) U.S. Coast Guard, and Director, Federal Bureau of Investigation.",
+      "Includes evidence-collection instructions: secure soil samples around landing depressions, use Geiger counters on aircraft surfaces if object came near, secure signed witness statements, obtain photos/negatives or sketches, obtain physical fragments where possible. Notably checks \"Canadian activity if close to that border.\""
+    ],
+    "incident_refs": [],
+    "person_refs": [
+      "Maj. Gen. C.P. Cabell"
+    ],
+    "unit_refs": [
+      "USAF Directorate of Intelligence",
+      "Air Materiel Command (MCIAXO-3, Wright-Patterson AFB)"
+    ],
+    "agency_refs": [
+      "FBI",
+      "USAF",
+      "CIA (Director of Central Intelligence)",
+      "State Department",
+      "Department of the Army (GSUSA)",
+      "U.S. Navy (Chief of Naval Intelligence)",
+      "U.S. Coast Guard"
+    ],
+    "operation_refs": [
+      "Project Sign",
+      "Project Grudge"
+    ],
+    "platform_refs": [],
+    "location_refs": [
+      "Wright-Patterson AFB, Dayton, Ohio",
+      "Washington 25, D.C."
+    ],
+    "declassified_date": "2007-05-24",
+    "declassified_by": "FBI Automatic Declassification Guide (issued May 24, 2007)",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "Sightings of unconventional aircraft and unidentified flying objects, including the so-called \"Flying Discs.\"",
+      "Vertical ascent or descent, horizontal, oscillating, fluttering, evasive, aggressive, erratic, etc.",
+      "Pass to COMGENAMC WRIGHT-PATTERSON AFB, DAYTON, OHIO, ATTN: MCIAXO-3."
+    ],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_serial_164.pdf"
   },
   {
     "id": "65_hs1-834228961_62-hq-83894_serial_220",

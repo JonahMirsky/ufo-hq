@@ -24,6 +24,11 @@ export function fmtCount(n: number): string {
   return new Intl.NumberFormat("en-US").format(n);
 }
 
+export function isOcrPending(summary: string | undefined | null): boolean {
+  if (!summary) return false;
+  return /\bOCR pending\b|heavily image-based scan/i.test(summary);
+}
+
 export function fmtDate(iso: string | null): string {
   if (!iso) return "—";
   const d = new Date(iso);
