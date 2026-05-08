@@ -5,38 +5,66 @@
 /* === UFO HQ design tokens (build spec §5) ============================== */
 
 :root {
-  /* Foundation */
-  --bg-void:           #050608;
-  --bg-panel:          #0B0D11;
-  --bg-elevated:       #12151B;
-  --bg-overlay:        #1A1D24;
+  /* COVERT PALETTE — black primary, greys, single phosphor-green accent */
 
-  /* Borders */
-  --border-faint:      #1F232C;
-  --border-strong:     #2A2F3A;
-  --border-rail:       #3A4153;
-  --grid-line:         #1A1D24;
-  --grid-line-bright:  #2F3540;
+  /* Foundation — near-black */
+  --bg-void:           #060606;
+  --bg-panel:          #0d0d0e;
+  --bg-elevated:       #16171a;
+  --bg-overlay:        #1c1d20;
+  --abyss:             #050506;
+  --orbit:             #101012;
 
-  /* Text */
-  --fg-primary:        #E8ECEF;
-  --fg-secondary:      #8B939E;
-  --fg-muted:          #4A5160;
-  --fg-disabled:       #2F3540;
+  /* Borders — dark hairlines */
+  --border-faint:      #1f2024;
+  --border-strong:     #2a2c30;
+  --border-rail:       #3a3d42;
+  --grid-line:         #1c1d20;
+  --grid-line-bright:  #25272b;
+  --meridian:          #1f2024;
+  --hairline:          #2a2c30;
 
-  /* Accents */
-  --amber:             #E8B547;
-  --amber-glow:        rgba(232, 181, 71, 0.25);
-  --amber-soft:        rgba(232, 181, 71, 0.08);
-  --cyan:              #6BC2D9;
-  --cyan-glow:         rgba(107, 194, 217, 0.25);
-  --cyan-soft:         rgba(107, 194, 217, 0.08);
+  /* Text — off-white through dark grey */
+  --fg-primary:        #e0e2e0;
+  --fg-secondary:      #9a9c9a;
+  --fg-muted:          #5f615e;
+  --fg-disabled:       #353634;
+  --starlight:         #e0e2e0;
+  --moondust:          #9a9c9a;
+  --penumbra:          #5f615e;
+  --eclipse:           #353634;
 
-  /* Semantic */
-  --status-resolved:   #5BD9A0;
-  --status-anomaly:    #D9543A;
-  --status-pending:    #E8B547;
-  --status-monitoring: #6BC2D9;
+  /* Phosphor green — the only accent. Used sparingly for active state,
+     primary data, and the rare alert. Matrix CRT phosphor. */
+  --plasma-100:        #c5fcd1;
+  --plasma-300:        #6ef088;
+  --plasma:            #2ee06a;
+  --plasma-700:        #1c9043;
+  --plasma-900:        #0d4a23;
+  /* Backwards-compat aliases — the rest of the app reads these */
+  --cyan:              #2ee06a;
+  --cyan-glow:         rgba(46, 224, 106, 0.28);
+  --cyan-soft:         rgba(46, 224, 106, 0.07);
+
+  /* "Amber" tokens kept for compat but now neutral grey — orange is gone */
+  --amber:             #b8b8b6;
+  --amber-300:         #d4d4d2;
+  --amber-700:         #6a6a68;
+  --amber-glow:        rgba(184, 184, 182, 0.20);
+  --amber-soft:        rgba(184, 184, 182, 0.05);
+
+  /* Semantic / classification — restrained */
+  --verified:          #2ee06a;
+  --classified:        #c64545;          /* desaturated red, sparse use */
+  --unknown:           #6a6a68;          /* dim grey, not purple */
+  --ink:               #1a1a1c;
+  --ink-glow:          #2a2c30;
+
+  /* Status (kept for compat) */
+  --status-resolved:   var(--verified);
+  --status-anomaly:    var(--classified);
+  --status-pending:    #b8b8b6;
+  --status-monitoring: var(--plasma);
 
   /* Type */
   --font-display: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
@@ -65,26 +93,31 @@ html, body {
   margin: 0;
 }
 
-/* Background system */
+/* Background system — covert: dim grid + faint phosphor wash */
 body::before {
   content: '';
   position: fixed; inset: 0; z-index: 0; pointer-events: none;
-  background-image:
-    linear-gradient(var(--grid-line) 1px, transparent 1px),
-    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
-  background-size: 40px 40px;
-  opacity: 0.3;
+  background:
+    radial-gradient(ellipse at 50% 0%,  rgba(46, 224, 106, 0.025), transparent 60%),
+    radial-gradient(ellipse at 50% 100%, rgba(46, 224, 106, 0.015), transparent 60%);
+  animation: nebulaDrift 90s ease-in-out infinite alternate;
 }
 body::after {
   content: '';
   position: fixed; inset: 0; z-index: 0; pointer-events: none;
-  background: radial-gradient(800px circle at var(--mx, 50%) var(--my, 30%),
-    var(--amber-soft) 0%, transparent 70%);
-  animation: amberDrift 60s ease-in-out infinite alternate;
+  background-image:
+    linear-gradient(rgba(46, 224, 106, 0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(46, 224, 106, 0.025) 1px, transparent 1px);
+  background-size: 48px 48px;
+  opacity: 0.6;
 }
-@keyframes amberDrift {
-  0%   { --mx: 30%; --my: 20%; }
-  100% { --mx: 70%; --my: 60%; }
+@keyframes nebulaDrift {
+  0%   { transform: translate(0, 0) scale(1); }
+  100% { transform: translate(-30px, 20px) scale(1.05); }
+}
+@keyframes starfieldDrift {
+  0%   { background-position: 0 0; }
+  100% { background-position: -900px -900px; }
 }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: 0.01ms !important; }
@@ -435,3 +468,420 @@ main { position: relative; z-index: 2; }
   font-size: 11px;
   color: var(--fg-muted);
 }
+
+/* ===========================================================
+   Brand-kit chart primitives
+   =========================================================== */
+
+/* Section header — number + sub + h2 + lede */
+.sec-head {
+  display: grid;
+  grid-template-columns: 60px 1fr auto;
+  gap: 20px;
+  align-items: center;
+  margin-bottom: 28px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--meridian);
+}
+.sec-head-rail { display: flex; flex-direction: column; gap: 6px; }
+.sec-num {
+  font-family: var(--font-mono);
+  font-size: 32px; font-weight: 300;
+  color: var(--plasma); line-height: 1;
+  letter-spacing: -0.02em;
+  text-shadow: 0 0 12px rgba(0, 217, 255, 0.4);
+}
+.sec-sub {
+  font-family: var(--font-mono);
+  font-size: 8px;
+  color: var(--penumbra);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+.sec-head-mid h2 {
+  font-family: var(--font-serif);
+  font-size: clamp(24px, 3vw, 32px);
+  font-weight: 300;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  margin-bottom: 4px;
+}
+.sec-head-mid h2 em { font-style: italic; color: var(--amber); }
+.sec-head-mid p {
+  color: var(--moondust);
+  font-size: 13px;
+  line-height: 1.5;
+  max-width: 720px;
+}
+
+/* ===========================================================
+   Bar list — ranked horizontal list with rank/name/bar/value
+   =========================================================== */
+.bar-list { display: flex; flex-direction: column; gap: 4px; }
+.bar-row {
+  display: grid;
+  grid-template-columns: 22px 1fr 90px 50px;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 0;
+  border-bottom: 1px dashed rgba(36, 53, 87, 0.6);
+}
+.bar-row:last-child { border-bottom: none; }
+.bar-row .rank {
+  font-family: var(--font-mono);
+  font-size: 9px;
+  color: var(--penumbra);
+  letter-spacing: 0.05em;
+  font-variant-numeric: tabular-nums;
+}
+.bar-row .name {
+  font-size: 12px;
+  color: var(--starlight);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  line-height: 1.3;
+}
+.bar-row .bar {
+  height: 4px;
+  background: rgba(28, 44, 77, 0.6);
+  border-radius: 2px;
+  overflow: hidden;
+  position: relative;
+}
+.bar-row .bar::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    90deg,
+    transparent, transparent 7px,
+    rgba(36, 53, 87, 0.4) 7px, rgba(36, 53, 87, 0.4) 8px
+  );
+}
+.bar-row .bar span {
+  display: block;
+  height: 100%;
+  background: linear-gradient(to right, var(--plasma-700), var(--plasma));
+  box-shadow: 0 0 6px rgba(0, 217, 255, 0.4);
+  border-radius: 2px;
+  position: relative;
+  z-index: 1;
+}
+.bar-row .bar span.am {
+  background: linear-gradient(to right, var(--amber-700), var(--amber));
+  box-shadow: 0 0 6px rgba(255, 159, 67, 0.4);
+}
+.bar-row .bar span.un {
+  background: linear-gradient(to right, #6644aa, var(--unknown));
+  box-shadow: 0 0 6px rgba(179, 136, 255, 0.4);
+}
+.bar-row .bar span.gn {
+  background: linear-gradient(to right, #2a8050, var(--verified));
+  box-shadow: 0 0 6px rgba(74, 222, 128, 0.4);
+}
+.bar-row .val {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--plasma);
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+.bar-row .val.am { color: var(--amber); }
+.bar-row .val.un { color: var(--unknown); }
+.bar-row .val.gn { color: var(--verified); }
+
+/* ===========================================================
+   Color-stack — horizontal segmented bar
+   =========================================================== */
+.color-stack {
+  display: flex;
+  height: 40px;
+  border-radius: 6px;
+  overflow: hidden;
+  border: 1px solid var(--hairline);
+  position: relative;
+}
+.color-stack span {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ===========================================================
+   Histogram — variable-height bars with gradient
+   =========================================================== */
+.hist {
+  display: flex;
+  align-items: flex-end;
+  gap: 3px;
+  height: 130px;
+}
+.hist span {
+  flex: 1;
+  background: linear-gradient(to top, var(--plasma-900), var(--plasma));
+  border-radius: 1px;
+  box-shadow: 0 0 5px rgba(0, 217, 255, 0.2);
+  transition: opacity 0.3s;
+  min-width: 4px;
+}
+.hist span:hover { opacity: 0.7; }
+.hist span.am {
+  background: linear-gradient(to top, var(--amber-700), var(--amber));
+  box-shadow: 0 0 5px rgba(255, 159, 67, 0.25);
+}
+.hist span.un {
+  background: linear-gradient(to top, #6644aa, var(--unknown));
+  box-shadow: 0 0 5px rgba(179, 136, 255, 0.25);
+}
+.hist-axis {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 8px;
+  font-family: var(--font-mono);
+  font-size: 9px;
+  color: var(--penumbra);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* ===========================================================
+   Shape pictogram — glyph grid sized by count
+   =========================================================== */
+.shape-pict {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 8px;
+}
+.shape-pict .item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 16px 10px 12px;
+  background: linear-gradient(180deg, rgba(15, 26, 48, 0.5), rgba(6, 12, 26, 0.4));
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-sm);
+  transition: all 0.3s var(--ease-cosmic);
+  position: relative;
+  min-height: 150px;
+  justify-content: space-between;
+}
+.shape-pict .item:hover {
+  border-color: var(--plasma);
+  background: rgba(0, 217, 255, 0.04);
+}
+.shape-pict .item .lb {
+  font-family: var(--font-mono);
+  font-size: 9px;
+  color: var(--moondust);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+.shape-pict .item .c {
+  font-family: var(--font-serif);
+  font-size: 22px;
+  font-weight: 300;
+  color: var(--starlight);
+  font-variant-numeric: tabular-nums;
+}
+.shape-pict .item.am .c { color: var(--amber); }
+.shape-pict .item svg { stroke: var(--plasma); fill: none; stroke-width: 1; }
+.shape-pict .item.am svg { stroke: var(--amber); }
+.shape-pict .item .id-tag {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  font-family: var(--font-mono);
+  font-size: 7px;
+  color: var(--penumbra);
+  letter-spacing: 0.12em;
+}
+.shape-pict .item .pct {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  font-family: var(--font-mono);
+  font-size: 9px;
+  color: var(--plasma);
+}
+.shape-pict .item.am .pct { color: var(--amber); }
+
+/* ===========================================================
+   Donut — fixed grid layout (140px ring + legend), no cropping
+   =========================================================== */
+.donut {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 18px;
+  align-items: center;
+  min-width: 0;
+}
+.donut .ring { position: relative; width: 140px; height: 140px; flex-shrink: 0; }
+.donut .ring svg { width: 100%; height: 100%; }
+.donut .ring .ctr {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.donut .ring .ctr .big {
+  font-family: var(--font-serif);
+  font-size: 30px;
+  font-weight: 300;
+  color: var(--starlight);
+  line-height: 1;
+}
+.donut .ring .ctr .sub {
+  font-family: var(--font-mono);
+  font-size: 8px;
+  letter-spacing: 0.22em;
+  color: var(--penumbra);
+  text-transform: uppercase;
+  margin-top: 2px;
+}
+.donut .legend { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.donut .legend .row {
+  display: grid;
+  grid-template-columns: 14px 1fr auto;
+  gap: 10px;
+  align-items: center;
+  padding: 6px 0;
+  border-bottom: 1px dashed rgba(36, 53, 87, 0.5);
+}
+.donut .legend .row:last-child { border-bottom: none; }
+.donut .legend .sb { width: 9px; height: 9px; border-radius: 2px; }
+.donut .legend .lb {
+  font-size: 11px;
+  color: var(--starlight);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.donut .legend .pc {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--moondust);
+  letter-spacing: 0.04em;
+}
+@media (max-width: 600px) {
+  .donut { grid-template-columns: 1fr; justify-items: center; }
+}
+
+/* ===========================================================
+   Big number block — for hero numerics inside panels
+   =========================================================== */
+.big-num { display: flex; flex-direction: column; gap: 4px; padding: 8px 0 4px; }
+.big-num .v {
+  font-family: var(--font-serif);
+  font-size: 48px;
+  font-weight: 300;
+  line-height: 1;
+  color: var(--starlight);
+  font-variant-numeric: tabular-nums;
+}
+.big-num .v.cy { color: var(--plasma); text-shadow: 0 0 14px rgba(0, 217, 255, 0.3); }
+.big-num .v.am { color: var(--amber); }
+.big-num .v.un { color: var(--unknown); }
+.big-num .v.gn { color: var(--verified); }
+.big-num .s {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--moondust);
+  letter-spacing: 0.04em;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
+/* ===========================================================
+   Tag chips — inline pill labels
+   =========================================================== */
+.tag {
+  font-family: var(--font-mono);
+  font-size: 9px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--moondust);
+  padding: 4px 10px;
+  border: 1px solid var(--hairline);
+  border-radius: 4px;
+  background: rgba(15, 26, 48, 0.5);
+  transition: all 0.3s var(--ease-cosmic);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+}
+.tag.active {
+  color: var(--plasma);
+  border-color: rgba(0, 217, 255, 0.5);
+  background: rgba(0, 217, 255, 0.1);
+  box-shadow: 0 0 8px rgba(0, 217, 255, 0.15);
+}
+.tag.am.active {
+  color: var(--amber);
+  border-color: rgba(255, 159, 67, 0.5);
+  background: rgba(255, 159, 67, 0.1);
+}
+
+/* ===========================================================
+   Updated panel — vivid plasma accents instead of muted
+   =========================================================== */
+.panel {
+  background: linear-gradient(180deg, rgba(20, 35, 64, 0.55) 0%, rgba(10, 18, 38, 0.7) 100%);
+}
+.panel::before {
+  background: linear-gradient(to right, transparent, rgba(0, 217, 255, 0.55) 50%, transparent);
+}
+.panel:hover {
+  border-color: rgba(0, 217, 255, 0.32);
+  box-shadow: 0 8px 36px rgba(0, 217, 255, 0.04);
+}
+.panel .br { border-color: var(--plasma); }
+.p-id {
+  color: var(--plasma);
+  background: rgba(0, 217, 255, 0.08);
+  border-color: rgba(0, 217, 255, 0.25);
+}
+.p-title {
+  font-family: var(--font-serif);
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 1.2;
+  letter-spacing: 0;
+}
+
+/* KPI tile — match brand kit exactly */
+.kpi {
+  background: linear-gradient(180deg, rgba(20, 35, 64, 0.6) 0%, rgba(6, 12, 26, 0.7) 100%);
+}
+.kpi::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 14px; right: 14px;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--plasma), transparent);
+  opacity: 0.5;
+}
+.kpi .br {
+  position: absolute;
+  width: 7px; height: 7px;
+  border-color: var(--plasma);
+  opacity: 0.5;
+}
+.kpi .br.tl { top: 4px; left: 4px;  border-top: 1px solid; border-left: 1px solid; }
+.kpi .br.tr { top: 4px; right: 4px; border-top: 1px solid; border-right: 1px solid; }
+.kpi .br.bl { bottom: 4px; left: 4px;  border-bottom: 1px solid; border-left: 1px solid; }
+.kpi .br.br2 { bottom: 4px; right: 4px; border-bottom: 1px solid; border-right: 1px solid; }
+.kpi-num { font-family: var(--font-serif); font-weight: 300; }

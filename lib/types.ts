@@ -144,10 +144,23 @@ export interface Metrics {
     extra_aviator_pct: number;
   };
   by_year: Record<string, number>;
+  by_decade: Record<string, number>;
   by_shape: Record<string, number>;
   by_country: Record<string, number>;
   by_agency_docs: Record<string, number>;
   by_doctype: Record<string, number>;
   by_evidence_type: Record<string, number>;
+  by_maneuver_tag: Record<string, number>;
+  by_color: Record<string, number>;
+  altitude_histogram: Record<string, number>;
+  altitude_max_ft: number | null;
+  witness_histogram: Record<string, number>;
+  witness_split: { aviator: number; civilian: number };
+  media_types: Record<string, number>;
+  has_media_count: number;
+  top_operations: Record<string, number>;
+  top_locations: Record<string, number>;
+  top_units: Record<string, number>;
+  top_speed_mph_values: number[];
   lag_distribution: { median_years: number | null; max_years: number | null; count: number };
 }

@@ -2,471 +2,709 @@ import Link from "next/link";
 import { TopNav } from "../../components/TopNav";
 import { Panel } from "../../components/Panel";
 import { SightingsByYear } from "../../components/SightingsByYear";
-import { HorizontalBars } from "../../components/HorizontalBars";
+import { ShapePictogram } from "../../components/intel/ShapePictogram";
+import { BarList } from "../../components/intel/BarList";
+import { ColorStack } from "../../components/intel/ColorStack";
+import { Histogram } from "../../components/intel/Histogram";
+import { EvidenceDonut } from "../../components/intel/EvidenceDonut";
+import { KpiBand } from "../../components/intel/KpiBand";
+import { SectionHead } from "../../components/intel/SectionHead";
 import { loadDocuments, loadMetrics, loadSightings } from "../../lib/data";
-import { countryName, doctypeLabel, evidenceLabel } from "../../lib/format";
+import { countryName, doctypeLabel } from "../../lib/format";
 
 export const metadata = {
   title: "Intel — UFO HQ",
-  description: "Analytical dashboard over the war.gov PURSUE corpus.",
+  description: "What 178 declassified sightings tell us about the unresolved.",
 };
 
-const KPI_TILES: {
-  id: string;
-  label: string;
-  key: keyof import("../../lib/types").Metrics["headline"];
-  tone?: "am" | "cy";
-  suffix?: string;
-}[] = [
-  { id: "TM-01", label: "Total Sightings", key: "TM_01_total_sightings", tone: "cy" },
-  { id: "TM-02", label: "Total Documents", key: "TM_02_total_documents", tone: "am" },
-  { id: "TM-02b", label: "Total Pages", key: "TM_02_total_pages" },
-  { id: "TM-03", label: "Years Covered", key: "TM_03_years_covered" },
-  { id: "TM-04", label: "Unresolved", key: "TM_04_unresolved_pct", tone: "am", suffix: "%" },
-  { id: "TM-05", label: "Top Shape", key: "TM_05_top_shape" },
-  { id: "TM-06", label: "Most Active Year", key: "TM_06_most_active_year", tone: "cy" },
-  { id: "TM-07", label: "Top Region", key: "TM_07_active_hotspot" },
-  { id: "TM-09", label: "Most Cited", key: "TM_09_most_cited" },
-];
-
-const STUB_SECTIONS: { id: string; label: string; subtitle: string }[] = [
-  { id: "GEO-03", label: "Geographic Patterns", subtitle: "Mapbox-free density layer + hotspots." },
-  { id: "PPL-04", label: "People & Organizations", subtitle: "Top units, agencies, force-graph network." },
-  { id: "OBJ-05", label: "Object Characteristics", subtitle: "Shape/size/speed/altitude distributions." },
-  { id: "EV-06", label: "Sensor & Evidence", subtitle: "Radar/IR/visual/photographic mix." },
-  { id: "DOC-07", label: "Document Meta-Analysis", subtitle: "Redaction matrix, classification stack, release timeline." },
-  { id: "LNG-08", label: "Language & Content", subtitle: "Top n-grams, hedging-vs-definitive, topic clusters." },
-  { id: "CC-09", label: "Cross-Cuts", subtitle: "Apollo/NASA · Naval Aviator · Nuclear · Foreign." },
-];
-
 export default async function IntelPage() {
-  const metrics = await loadMetrics();
-  const docs = await loadDocuments();
-  const sightings = await loadSightings();
+  const [docs, sightings, metrics] = await Promise.all([
+    loadDocuments(),
+    loadSightings(),
+    loadMetrics(),
+  ]);
   const h = metrics.headline;
 
-  const docTypeBars = Object.entries(metrics.by_doctype)
-    .map(([raw, count]) => ({ label: doctypeLabel(raw), count }))
-    .slice(0, 8);
-  const evidenceBars = Object.entries(metrics.by_evidence_type)
-    .map(([raw, count]) => ({ label: evidenceLabel(raw), count }))
-    .slice(0, 8);
-  const countryBars = Object.entries(metrics.by_country)
-    .map(([code, count]) => ({ label: countryName(code), code, count }))
+  // Object characteristics — Section 02
+  const shapeEntries = Object.entries(metrics.by_shape).map(([k, v]) => ({
+    name: k,
+    count: v,
+  }));
+  const totalTyped = shapeEntries.reduce((s, e) => s + e.count, 0);
+
+  const colorEntries = Object.entries(metrics.by_color || {}).map(([k, v]) => ({
+    label: k,
+    count: v,
+  }));
+
+  const maneuverEntries = Object.entries(metrics.by_maneuver_tag || {})
+    .slice(0, 12)
+    .map(([k, v]) => ({ label: k.replace(/_/g, " "), count: v }));
+
+  const altitudeEntries = Object.entries(metrics.altitude_histogram || {}).map(
+    ([k, v]) => ({ label: k, count: v }),
+  );
+
+  // Geographic — Section 03
+  const countryEntries = Object.entries(metrics.by_country)
+    .map(([code, count]) => ({
+      label: countryName(code),
+      code,
+      count,
+    }))
     .slice(0, 10);
+  const totalCountrySightings = countryEntries.reduce((s, e) => s + e.count, 0);
+
+  const operationEntries = Object.entries(metrics.top_operations || {}).map(
+    ([k, v]) => ({ label: k, count: v }),
+  );
+
+  const unitEntries = Object.entries(metrics.top_units || {}).map(([k, v]) => ({
+    label: k,
+    count: v,
+  }));
+
+  const locationEntries = Object.entries(metrics.top_locations || {}).map(
+    ([k, v]) => ({ label: k, count: v }),
+  );
+
+  // Temporal — Section 04
+  const decadeEntries = Object.entries(metrics.by_decade || {}).map(
+    ([k, v]) => ({ label: k, count: v }),
+  );
+
+  // Evidence — Section 05
+  const evidenceEntries = Object.entries(metrics.by_evidence_type)
+    .map(([k, v]) => ({ label: k.replace(/_/g, " "), count: v }))
+    .filter((e) => e.count > 0);
+  const evidenceTotal = evidenceEntries.reduce((s, e) => s + e.count, 0);
+
+  const witnessEntries = Object.entries(metrics.witness_histogram || {}).map(
+    ([k, v]) => ({ label: k, count: v }),
+  );
+
+  const witnessSplit = metrics.witness_split as { aviator: number; civilian: number };
+  const aviatorPct =
+    witnessSplit && (witnessSplit.aviator + witnessSplit.civilian) > 0
+      ? Math.round(
+          (witnessSplit.aviator / (witnessSplit.aviator + witnessSplit.civilian)) * 100,
+        )
+      : 0;
+
+  const mediaTypes = metrics.media_types || {};
+
+  // Top sightings by altitude / speed — picked from raw data
+  const topAltitudeSightings = [...sightings]
+    .filter((s) => s.altitude_ft != null)
+    .sort((a, b) => (b.altitude_ft || 0) - (a.altitude_ft || 0))
+    .slice(0, 5);
 
   return (
     <>
       <TopNav />
-      <div className="max-w-[1440px] mx-auto px-6 py-12">
-        {/* Section 01 — OVERVIEW */}
-        <section className="mb-16">
+      <main className="max-w-[1480px] mx-auto px-6 py-10">
+        {/* HERO + KPI BAND */}
+        <section className="mb-12">
           <div
-            className="font-mono mb-4 inline-flex items-center gap-3"
+            className="font-mono inline-flex items-center gap-3 mb-5"
             style={{
               fontSize: "10px",
               letterSpacing: "0.32em",
               textTransform: "uppercase",
-              color: "var(--amber)",
-              background: "var(--amber-soft)",
-              border: "1px solid var(--amber-glow)",
-              padding: "4px 12px",
-              borderRadius: "4px",
+              color: "var(--plasma)",
+              background: "rgba(0, 217, 255, 0.08)",
+              border: "1px solid rgba(0, 217, 255, 0.30)",
+              padding: "6px 14px",
+              borderRadius: "999px",
             }}
           >
-            <span className="status-dot amber" />
-            <span>DOD UAP RELEASE · CORPUS v0.1 · {h.TM_03_date_range} · STATIC</span>
+            <span
+              style={{
+                width: "7px",
+                height: "7px",
+                borderRadius: "50%",
+                background: "var(--classified)",
+                boxShadow: "0 0 8px var(--classified)",
+                animation: "pulse 1.5s ease-in-out infinite",
+              }}
+            />
+            DoD UAP Release · Corpus v0.1 · {h.TM_03_date_range} · LIVE
           </div>
 
-          <h1
-            className="font-display"
-            style={{
-              fontSize: "clamp(2.5rem, 5vw, 4rem)",
-              fontWeight: 300,
-              letterSpacing: "-0.02em",
-              lineHeight: 1.05,
-              marginTop: "16px",
-            }}
-          >
-            Intelligence on the unresolved.
-          </h1>
-          <p
-            className="font-serif italic mt-4"
-            style={{
-              fontSize: "clamp(1.25rem, 2.4vw, 2rem)",
-              color: "var(--fg-secondary)",
-              maxWidth: "820px",
-              lineHeight: 1.4,
-            }}
-          >
-            Every document, every sighting, every shape.
-          </p>
-          <p
-            className="mt-6"
-            style={{ fontSize: "16px", maxWidth: "660px", color: "var(--fg-secondary)", lineHeight: 1.7 }}
-          >
-            UFO-HQ is an analytical archive of the U.S. Department of War's October
-            2025 UAP disclosure — every PDF, image, and audio record structured,
-            searchable, and aggregable. We do not adjudicate; we surface.
-          </p>
-          <div className="mt-8 flex gap-3 flex-wrap">
-            <Link href="/reports" className="btn btn-primary">
-              <span>BROWSE REPORTS</span>
-              <span className="btn-arrow" aria-hidden>→</span>
-            </Link>
-            <a className="btn btn-ghost" href="/data/documents.json" target="_blank" rel="noopener">
-              <span>DOWNLOAD CORPUS (JSON)</span>
-              <span className="btn-arrow" aria-hidden>↓</span>
-            </a>
+          <div className="flex justify-between items-end gap-6 flex-wrap mb-10">
+            <div>
+              <h1
+                className="font-serif"
+                style={{
+                  fontSize: "clamp(2.5rem, 5vw, 4.25rem)",
+                  fontWeight: 300,
+                  lineHeight: 1.0,
+                  letterSpacing: "-0.02em",
+                  marginBottom: "16px",
+                  maxWidth: "880px",
+                }}
+              >
+                Intelligence on the unresolved.
+              </h1>
+              <p
+                style={{
+                  fontSize: "15px",
+                  lineHeight: 1.7,
+                  color: "var(--moondust)",
+                  maxWidth: "640px",
+                }}
+              >
+                {h.TM_01_total_sightings} declassified sightings, indexed by
+                shape, altitude, witness, evidence and outcome. Every number
+                computed live from {h.TM_02_total_documents} structured
+                documents in the war.gov PURSUE corpus.
+              </p>
+            </div>
+            <div className="flex gap-2 flex-wrap">
+              <Link href="/reports" className="btn btn-primary">
+                <span>BROWSE REPORTS</span>
+                <span className="btn-arrow" aria-hidden>→</span>
+              </Link>
+              <a
+                className="btn btn-ghost"
+                href="/data/sightings.json"
+                target="_blank"
+                rel="noopener"
+              >
+                <span>DOWNLOAD SIGHTINGS (JSON)</span>
+                <span className="btn-arrow" aria-hidden>↓</span>
+              </a>
+            </div>
           </div>
 
-          {/* KPI band */}
+          <KpiBand metrics={metrics} />
+        </section>
+
+        {/* SECTION 02 — OBJECT CHARACTERISTICS */}
+        <section className="mb-16">
+          <SectionHead
+            num="02"
+            sub="OBJECT CHARACTERISTICS"
+            title="The shape of"
+            titleEm="the unidentified"
+            lede="Form, color, altitude, behavior. The irreducible physics of every encounter in the corpus."
+          />
+
+          <div className="mb-4">
+            <Panel
+              id="OBJ-02.1"
+              title="Shape distribution"
+              subtitle={`Glyph size proportional to count · n = ${totalTyped} typed sightings`}
+              footer={
+                <>
+                  <div className="flex items-center gap-2">
+                    <span className="led am" />
+                    <span>{shapeEntries[0]?.name?.toUpperCase()} dominant</span>
+                  </div>
+                  <span>
+                    n = <span className="v cy">{totalTyped}</span> · {shapeEntries.length} types
+                  </span>
+                </>
+              }
+            >
+              <ShapePictogram entries={shapeEntries} total={totalTyped} />
+            </Panel>
+          </div>
+
           <div
-            className="grid gap-3 mt-12"
-            style={{ gridTemplateColumns: "repeat(auto-fit, minmax(160px, 1fr))" }}
+            className="grid gap-4 mb-4"
+            style={{ gridTemplateColumns: "repeat(auto-fit, minmax(360px, 1fr))" }}
           >
-            {KPI_TILES.map((tile) => {
-              const raw = h[tile.key];
-              const value =
-                raw === null || raw === undefined || raw === ""
-                  ? "—"
-                  : `${raw}${tile.suffix ?? ""}`;
-              return (
-                <div className="kpi" key={tile.id}>
-                  <div className="flex items-center justify-between gap-2">
-                    <span
-                      className="font-mono"
-                      style={{
-                        fontSize: "9px",
-                        letterSpacing: "0.22em",
-                        textTransform: "uppercase",
-                        color: "var(--amber)",
-                        background: "var(--amber-soft)",
-                        border: "1px solid var(--amber-glow)",
-                        padding: "2px 6px",
-                        borderRadius: "3px",
-                      }}
-                    >
-                      {tile.id}
-                    </span>
-                    <span
-                      className="status-dot"
-                      style={{
-                        background: tile.tone === "cy" ? "var(--cyan)" : "var(--amber)",
-                        boxShadow:
-                          tile.tone === "cy" ? "0 0 6px var(--cyan-glow)" : "0 0 6px var(--amber-glow)",
-                      }}
-                    />
+            <Panel
+              id="OBJ-02.2"
+              title="Altitude distribution"
+              subtitle="Reported object altitude · feet AGL"
+              footer={
+                <>
+                  <div className="flex items-center gap-2">
+                    <span className="led" />
+                    <span>n = {altitudeEntries.reduce((s, e) => s + e.count, 0)}</span>
                   </div>
-                  <div
-                    className="font-mono mt-3"
-                    style={{
-                      fontSize: "10px",
-                      letterSpacing: "0.18em",
-                      textTransform: "uppercase",
-                      color: "var(--fg-muted)",
-                    }}
-                  >
-                    {tile.label}
+                  <span>
+                    Max <span className="v am">{(metrics.altitude_max_ft ?? 0).toLocaleString()} ft</span>
+                  </span>
+                </>
+              }
+            >
+              <Histogram
+                entries={altitudeEntries}
+                tone="cy"
+                emphasizeMax
+              />
+            </Panel>
+
+            <Panel
+              id="OBJ-02.3"
+              title="Reported color"
+              subtitle="Dominant color in witness account"
+              footer={
+                <>
+                  <div className="flex items-center gap-2">
+                    <span className="led" />
+                    <span>{colorEntries.length} bands</span>
                   </div>
-                  <div
-                    className={`kpi-num ${tile.tone ?? ""}`}
-                    style={{ marginTop: "auto", paddingTop: "16px" }}
-                  >
-                    {value}
-                  </div>
+                  <span>
+                    {colorEntries[0]?.label} <span className="v">{colorEntries[0]?.count}</span>
+                  </span>
+                </>
+              }
+            >
+              <ColorStack entries={colorEntries} />
+              <BarList
+                entries={colorEntries.slice(0, 6).map((e, i) => ({
+                  label: e.label,
+                  count: e.count,
+                  rank: "·",
+                  tone: i === 1 ? "am" : undefined,
+                }))}
+              />
+            </Panel>
+          </div>
+
+          <Panel
+            id="OBJ-02.4"
+            title="Maneuver tags · ranked"
+            subtitle="Behaviors observed · multi-tag enabled"
+            footer={
+              <>
+                <div className="flex items-center gap-2">
+                  <span className="led" />
+                  <span>{maneuverEntries.length} behaviors</span>
                 </div>
-              );
-            })}
+                <span>
+                  Top <span className="v am">{maneuverEntries[0]?.label}</span> ·{" "}
+                  <span className="v">{maneuverEntries[0]?.count}</span>
+                </span>
+              </>
+            }
+          >
+            <div
+              className="grid gap-6"
+              style={{ gridTemplateColumns: "repeat(auto-fit, minmax(320px, 1fr))" }}
+            >
+              <BarList
+                entries={maneuverEntries.slice(0, 6).map((e, i) => ({
+                  label: e.label,
+                  count: e.count,
+                  rank: String(i + 1).padStart(2, "0"),
+                  tone: i === 1 ? "am" : undefined,
+                }))}
+              />
+              <BarList
+                entries={maneuverEntries.slice(6, 12).map((e, i) => ({
+                  label: e.label,
+                  count: e.count,
+                  rank: String(i + 7).padStart(2, "0"),
+                }))}
+              />
+            </div>
+          </Panel>
+        </section>
+
+        {/* SECTION 03 — GEOGRAPHIC */}
+        <section className="mb-16">
+          <SectionHead
+            num="03"
+            sub="GEOGRAPHIC"
+            title="Where the sky"
+            titleEm="has whispered"
+            lede="Country, theatre of operations, and the units that filed the reports."
+          />
+          <div
+            className="grid gap-4 mb-4"
+            style={{ gridTemplateColumns: "repeat(auto-fit, minmax(380px, 1fr))" }}
+          >
+            <Panel
+              id="GEO-03.1"
+              title="Top countries"
+              subtitle={`Sightings with a known country · ${totalCountrySightings} of ${sightings.length}`}
+              footer={
+                <>
+                  <div className="flex items-center gap-2">
+                    <span className="led cy" />
+                    <span>Top {countryEntries.length} of {Object.keys(metrics.by_country).length}</span>
+                  </div>
+                  <span>
+                    {sightings.length - totalCountrySightings} unlocated
+                  </span>
+                </>
+              }
+            >
+              <BarList
+                entries={countryEntries.map((e, i) => ({
+                  label: e.label,
+                  rank: String(i + 1).padStart(2, "0"),
+                  count: e.count,
+                  code: e.code,
+                  tone: i === 1 ? "am" : undefined,
+                }))}
+              />
+            </Panel>
+
+            <Panel
+              id="GEO-03.2"
+              title="Top theatres / operations"
+              subtitle="Operations referenced across documents"
+              footer={
+                <>
+                  <div className="flex items-center gap-2">
+                    <span className="led am" />
+                    <span>{operationEntries.length} operations</span>
+                  </div>
+                  <span>
+                    Top <span className="v am">{operationEntries[0]?.label}</span>
+                  </span>
+                </>
+              }
+            >
+              <BarList
+                entries={operationEntries.slice(0, 8).map((e, i) => ({
+                  label: e.label,
+                  rank: String(i + 1).padStart(2, "0"),
+                  count: e.count,
+                  tone: "am",
+                }))}
+              />
+            </Panel>
+          </div>
+
+          <div
+            className="grid gap-4"
+            style={{ gridTemplateColumns: "repeat(auto-fit, minmax(380px, 1fr))" }}
+          >
+            <Panel
+              id="GEO-03.3"
+              title="Top filing units"
+              subtitle="Squadrons / commands / installations"
+              footer={
+                <>
+                  <div className="flex items-center gap-2">
+                    <span className="led" />
+                    <span>{Object.keys(metrics.top_units || {}).length} units</span>
+                  </div>
+                  <span>
+                    Top <span className="v cy">{unitEntries[0]?.label}</span>
+                  </span>
+                </>
+              }
+            >
+              <BarList
+                entries={unitEntries.slice(0, 8).map((e, i) => ({
+                  label: e.label,
+                  rank: String(i + 1).padStart(2, "0"),
+                  count: e.count,
+                }))}
+              />
+            </Panel>
+
+            <Panel
+              id="GEO-03.4"
+              title="Top specific locations"
+              subtitle="Place-names referenced across documents"
+              footer={
+                <>
+                  <div className="flex items-center gap-2">
+                    <span className="led" />
+                    <span>{Object.keys(metrics.top_locations || {}).length} hotspots</span>
+                  </div>
+                  <span>
+                    Top <span className="v cy">{locationEntries[0]?.label}</span>
+                  </span>
+                </>
+              }
+            >
+              <BarList
+                entries={locationEntries.slice(0, 8).map((e, i) => ({
+                  label: e.label,
+                  rank: String(i + 1).padStart(2, "0"),
+                  count: e.count,
+                }))}
+              />
+            </Panel>
           </div>
         </section>
 
-        {/* Section 02 — TEMPORAL */}
+        {/* SECTION 04 — TEMPORAL */}
         <section className="mb-16">
-          <SectionHead num="02" prefix="TEMP" title="The shape of seven decades." subtitle="When did these incidents occur, and when did the public see them?" />
+          <SectionHead
+            num="04"
+            sub="TEMPORAL"
+            title="The shape of"
+            titleEm="seven decades"
+            lede="When did the unresolved show up — and how long did it take to admit it?"
+          />
 
-          <div className="grid gap-4 mt-6">
+          <div className="mb-4">
             <Panel
-              id="TS-02.1"
+              id="TS-04.1"
               title="Sightings per year"
-              subtitle="By incident year · top 3 peak years annotated in cyan"
+              subtitle="By incident year · top 3 peak years annotated"
               footer={
                 <>
                   <div className="flex items-center gap-2">
                     <span className="led am" />
                     <span>Annual series</span>
                   </div>
-                  <span className="v am">{sightings.length} sightings</span>
+                  <span>
+                    n = <span className="v cy">{sightings.length}</span> · peak{" "}
+                    <span className="v am">{h.TM_06_most_active_year}</span>
+                  </span>
                 </>
               }
             >
               <SightingsByYear byYear={metrics.by_year} />
             </Panel>
-
-            <div className="grid gap-4" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(360px, 1fr))" }}>
-              <Panel
-                id="TS-02.4"
-                title="Disclosure lag"
-                subtitle="Years between incident and public release"
-                footer={
-                  <>
-                    <div className="flex items-center gap-2">
-                      <span className="led cy" />
-                      <span>{metrics.lag_distribution.count} of {docs.length} docs</span>
-                    </div>
-                    <span>Excludes docs without a date_authored</span>
-                  </>
-                }
-              >
-                {metrics.lag_distribution.count > 0 ? (
-                  <LagSummary
-                    median={metrics.lag_distribution.median_years}
-                    max={metrics.lag_distribution.max_years}
-                  />
-                ) : (
-                  <div
-                    className="font-mono text-center py-6"
-                    style={{ fontSize: "10px", letterSpacing: "0.22em", color: "var(--fg-muted)" }}
-                  >
-                    Awaiting more docs with both authored and release dates
-                  </div>
-                )}
-              </Panel>
-
-              <Panel
-                id="TS-02.5"
-                title="Documents by type"
-                subtitle={`Of ${docs.length} structured records`}
-                footer={
-                  <>
-                    <div className="flex items-center gap-2">
-                      <span className="led am" />
-                      <span>Top {docTypeBars.length}</span>
-                    </div>
-                    <span>{docs.length} total</span>
-                  </>
-                }
-              >
-                <HorizontalBars entries={docTypeBars} />
-              </Panel>
-            </div>
           </div>
-        </section>
 
-        {/* Section 03 (partial) — GEOGRAPHIC quick view */}
-        <section className="mb-16">
-          <SectionHead num="03" prefix="GEO" title="Where they happened." subtitle="Country distribution by sighting count. Map view pending the open-source engine." />
-          <div className="grid gap-4" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(360px, 1fr))" }}>
+          <div
+            className="grid gap-4"
+            style={{ gridTemplateColumns: "repeat(auto-fit, minmax(360px, 1fr))" }}
+          >
             <Panel
-              id="GEO-03.2"
-              title="Top regions"
-              subtitle={`Sightings with a known country (${countryBars.reduce((s, e) => s + e.count, 0)} of ${sightings.length})`}
+              id="TS-04.2"
+              title="Sightings by decade"
+              subtitle="Aggregated counts · 1940s onward"
+              footer={
+                <>
+                  <div className="flex items-center gap-2">
+                    <span className="led" />
+                    <span>{decadeEntries.length} decades</span>
+                  </div>
+                  <span>
+                    Top <span className="v am">{decadeEntries.slice().sort((a, b) => b.count - a.count)[0]?.label}</span>
+                  </span>
+                </>
+              }
+            >
+              <Histogram
+                entries={decadeEntries}
+                tone="am"
+                emphasizeMax
+              />
+            </Panel>
+
+            <Panel
+              id="TS-04.3"
+              title="Disclosure lag"
+              subtitle="Years between incident and public release"
               footer={
                 <>
                   <div className="flex items-center gap-2">
                     <span className="led cy" />
-                    <span>Top {countryBars.length} of {Object.keys(metrics.by_country).length}</span>
+                    <span>{metrics.lag_distribution.count} of {docs.length} docs</span>
                   </div>
-                  <span>{sightings.length - countryBars.reduce((s, e) => s + e.count, 0)} unlocated</span>
+                  <span>
+                    Median <span className="v am">{metrics.lag_distribution.median_years?.toFixed(1)} yr</span>
+                  </span>
                 </>
               }
             >
-              <HorizontalBars
-                entries={countryBars}
-                accent="var(--cyan)"
-                labelWidth="minmax(140px, 200px)"
-              />
-            </Panel>
-            <Panel
-              id="EV-06.1"
-              title="Evidence types"
-              subtitle="Per-sighting evidence (sightings can carry multiple)"
-              footer={
-                <>
-                  <div className="flex items-center gap-2">
-                    <span className="led am" />
-                    <span>Schema-valid types only</span>
-                  </div>
-                  <span>{evidenceBars.reduce((s, e) => s + e.count, 0)} tags</span>
-                </>
-              }
-            >
-              <HorizontalBars
-                entries={evidenceBars}
-                accent="var(--amber)"
-                labelWidth="minmax(140px, 180px)"
-              />
-            </Panel>
-          </div>
-        </section>
-
-        {/* Stubs */}
-        <section className="mb-16">
-          <SectionHead num="04+" prefix="QUEUED" title="More awaits." subtitle="Sections expand as the corpus grows. Each sub-page below opens once the underlying data is rich enough to be honest." />
-          <div className="grid gap-3 mt-6" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(320px, 1fr))" }}>
-            {STUB_SECTIONS.map((s) => (
-              <div
-                key={s.id}
-                className="panel"
-                style={{ opacity: 0.55, padding: "16px 18px" }}
-              >
-                <span className="br tl" />
-                <span className="br tr" />
-                <span className="br bl" />
-                <span className="br br2" />
-                <div className="flex items-center justify-between mb-2">
-                  <span className="p-id">{s.id}</span>
-                  <span
-                    className="font-mono"
+              <div className="grid grid-cols-2 gap-6">
+                <div>
+                  <div
+                    className="font-mono mb-1"
                     style={{
                       fontSize: "9px",
                       letterSpacing: "0.22em",
                       textTransform: "uppercase",
-                      color: "var(--fg-muted)",
+                      color: "var(--penumbra)",
                     }}
                   >
-                    QUEUED
-                  </span>
+                    Median lag
+                  </div>
+                  <div className="big-num">
+                    <div className="v am">
+                      {metrics.lag_distribution.median_years?.toFixed(1)}{" "}
+                      <span style={{ fontSize: "20px", color: "var(--moondust)" }}>yr</span>
+                    </div>
+                    <div className="s">half of docs took longer</div>
+                  </div>
                 </div>
-                <div className="p-title">{s.label}</div>
-                <div
-                  className="font-mono mt-1"
-                  style={{
-                    fontSize: "10px",
-                    color: "var(--fg-muted)",
-                    letterSpacing: "0.04em",
-                  }}
-                >
-                  {s.subtitle}
+                <div>
+                  <div
+                    className="font-mono mb-1"
+                    style={{
+                      fontSize: "9px",
+                      letterSpacing: "0.22em",
+                      textTransform: "uppercase",
+                      color: "var(--penumbra)",
+                    }}
+                  >
+                    Maximum lag
+                  </div>
+                  <div className="big-num">
+                    <div className="v cy">
+                      {metrics.lag_distribution.max_years?.toFixed(0)}{" "}
+                      <span style={{ fontSize: "20px", color: "var(--moondust)" }}>yr</span>
+                    </div>
+                    <div className="s">oldest case in corpus</div>
+                  </div>
                 </div>
               </div>
-            ))}
+            </Panel>
           </div>
         </section>
-      </div>
+
+        {/* SECTION 05 — WITNESSES & EVIDENCE */}
+        <section className="mb-16">
+          <SectionHead
+            num="05"
+            sub="WITNESSES & EVIDENCE"
+            title="What kind of"
+            titleEm="proof"
+            lede="Who saw it, how many of them, and what survived as record."
+          />
+
+          <div
+            className="grid gap-4 mb-4"
+            style={{ gridTemplateColumns: "repeat(auto-fit, minmax(380px, 1fr))" }}
+          >
+            <Panel
+              id="EV-05.1"
+              title="Evidence type breakdown"
+              subtitle="Multi-sensor cases counted in each applicable category"
+              footer={
+                <>
+                  <div className="flex items-center gap-2">
+                    <span className="led" />
+                    <span>{evidenceEntries.length} types</span>
+                  </div>
+                  <span>
+                    {evidenceTotal} tags · {sightings.length} sightings
+                  </span>
+                </>
+              }
+            >
+              <EvidenceDonut entries={evidenceEntries} total={sightings.length} />
+            </Panel>
+
+            <Panel
+              id="EV-05.2"
+              title="Witnesses per incident"
+              subtitle="Multi-witness corroboration ↑"
+              footer={
+                <>
+                  <div className="flex items-center gap-2">
+                    <span className="led" />
+                    <span>n = {sightings.length}</span>
+                  </div>
+                  <span>
+                    Aviator share <span className="v cy">{aviatorPct}%</span>
+                  </span>
+                </>
+              }
+            >
+              <Histogram entries={witnessEntries} tone="cy" emphasizeMax />
+              <div
+                className="grid grid-cols-2 gap-4"
+                style={{
+                  marginTop: "20px",
+                  paddingTop: "16px",
+                  borderTop: "1px solid var(--meridian)",
+                }}
+              >
+                <div>
+                  <div
+                    className="font-mono mb-1"
+                    style={{
+                      fontSize: "9px",
+                      letterSpacing: "0.22em",
+                      textTransform: "uppercase",
+                      color: "var(--penumbra)",
+                    }}
+                  >
+                    Aviator
+                  </div>
+                  <div className="big-num">
+                    <div className="v cy">
+                      {witnessSplit?.aviator}
+                      <span style={{ fontSize: "16px", color: "var(--moondust)" }}> ({aviatorPct}%)</span>
+                    </div>
+                    <div className="s">military / civilian aviators</div>
+                  </div>
+                </div>
+                <div>
+                  <div
+                    className="font-mono mb-1"
+                    style={{
+                      fontSize: "9px",
+                      letterSpacing: "0.22em",
+                      textTransform: "uppercase",
+                      color: "var(--penumbra)",
+                    }}
+                  >
+                    Civilian / Other
+                  </div>
+                  <div className="big-num">
+                    <div className="v am">
+                      {witnessSplit?.civilian}
+                      <span style={{ fontSize: "16px", color: "var(--moondust)" }}> ({100 - aviatorPct}%)</span>
+                    </div>
+                    <div className="s">archive subjects, ground observers</div>
+                  </div>
+                </div>
+              </div>
+            </Panel>
+          </div>
+
+          {/* Highest-altitude sightings list */}
+          <Panel
+            id="OBJ-05.5"
+            title="Highest-altitude sightings"
+            subtitle="Top reported altitudes from the corpus"
+            footer={
+              <>
+                <div className="flex items-center gap-2">
+                  <span className="led am" />
+                  <span>Top {topAltitudeSightings.length}</span>
+                </div>
+                <span>
+                  Range{" "}
+                  <span className="v cy">
+                    {topAltitudeSightings[topAltitudeSightings.length - 1]?.altitude_ft?.toLocaleString()}–
+                    {topAltitudeSightings[0]?.altitude_ft?.toLocaleString()} ft
+                  </span>
+                </span>
+              </>
+            }
+          >
+            <BarList
+              entries={topAltitudeSightings.map((s, i) => ({
+                rank: String(i + 1).padStart(2, "0"),
+                label: `${s.summary?.slice(0, 80)}${(s.summary?.length || 0) > 80 ? "…" : ""}`,
+                count: s.altitude_ft || 0,
+                tone: s.classification === "anomalous" ? "am" : undefined,
+                href: `/reports/${s.doc_id}`,
+              }))}
+            />
+          </Panel>
+        </section>
+      </main>
 
       <footer
-        className="border-t px-6 py-8"
-        style={{ borderColor: "var(--border-faint)" }}
+        className="border-t px-6 py-8 mt-16"
+        style={{ borderColor: "var(--meridian)" }}
       >
         <div
-          className="max-w-[1440px] mx-auto flex flex-wrap justify-between gap-4 font-mono"
+          className="max-w-[1480px] mx-auto flex flex-wrap justify-between gap-4 font-mono"
           style={{
-            color: "var(--fg-muted)",
+            color: "var(--penumbra)",
             fontSize: "10px",
             letterSpacing: "0.18em",
             textTransform: "uppercase",
           }}
         >
           <span>UFO-HQ aggregates publicly available reports. Inclusion is not endorsement of authenticity.</span>
-          <span>CORPUS v0.1 · GENERATED {metrics.generated_at.slice(0, 10)}</span>
+          <span>
+            CORPUS v0.1 · GENERATED {metrics.generated_at.slice(0, 10)} · ALL FIGURES LIVE
+          </span>
         </div>
       </footer>
     </>
-  );
-}
-
-function SectionHead({
-  num,
-  prefix,
-  title,
-  subtitle,
-}: {
-  num: string;
-  prefix: string;
-  title: string;
-  subtitle: string;
-}) {
-  return (
-    <div className="grid gap-6 items-end" style={{ gridTemplateColumns: "auto 1fr" }}>
-      <div
-        className="font-mono"
-        style={{
-          fontSize: "10px",
-          letterSpacing: "0.32em",
-          textTransform: "uppercase",
-          color: "var(--fg-muted)",
-          lineHeight: 1.4,
-        }}
-      >
-        <div style={{ color: "var(--amber)", fontSize: "32px", lineHeight: 1 }}>{num}</div>
-        <div style={{ marginTop: "4px" }}>{prefix}</div>
-      </div>
-      <div>
-        <h2 className="font-display" style={{ fontSize: "28px", fontWeight: 500, letterSpacing: "-0.01em", lineHeight: 1.1 }}>
-          {title}
-        </h2>
-        <p style={{ marginTop: "6px", color: "var(--fg-secondary)", fontSize: "14px", maxWidth: "640px" }}>
-          {subtitle}
-        </p>
-      </div>
-    </div>
-  );
-}
-
-function LagSummary({
-  median,
-  max,
-}: {
-  median: number | null;
-  max: number | null;
-}) {
-  return (
-    <div className="grid grid-cols-2 gap-6">
-      <Stat
-        label="Median"
-        value={median !== null ? `${median.toFixed(1)} yr` : "—"}
-        tone="am"
-        sub="half of docs took longer"
-      />
-      <Stat
-        label="Maximum"
-        value={max !== null ? `${max.toFixed(0)} yr` : "—"}
-        tone="cy"
-        sub="oldest case in the corpus"
-      />
-    </div>
-  );
-}
-
-function Stat({
-  label,
-  value,
-  tone,
-  sub,
-}: {
-  label: string;
-  value: string;
-  tone?: "am" | "cy";
-  sub?: string;
-}) {
-  return (
-    <div>
-      <div
-        className="font-mono"
-        style={{
-          fontSize: "9px",
-          letterSpacing: "0.22em",
-          textTransform: "uppercase",
-          color: "var(--fg-muted)",
-        }}
-      >
-        {label}
-      </div>
-      <div className={`kpi-num ${tone ?? ""}`} style={{ fontSize: "32px", marginTop: "4px" }}>
-        {value}
-      </div>
-      {sub && (
-        <div
-          style={{
-            fontSize: "11px",
-            color: "var(--fg-muted)",
-            marginTop: "4px",
-          }}
-        >
-          {sub}
-        </div>
-      )}
-    </div>
   );
 }
