@@ -319,9 +319,9 @@ function ShapeIconBox({ shape }: { shape: string }) {
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
-        border: "1px solid rgba(0, 217, 255, 0.25)",
+        border: "1px solid rgba(46, 224, 106, 0.25)",
         borderRadius: "6px",
-        background: "rgba(0, 217, 255, 0.06)",
+        background: "rgba(46, 224, 106, 0.06)",
         flexShrink: 0,
       }}
     >

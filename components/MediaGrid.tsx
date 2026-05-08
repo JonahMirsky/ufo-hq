@@ -291,7 +291,7 @@ function VideoThumb({ item }: { item: MediaItem }) {
         width: "100%",
         height: "100%",
         background:
-          "radial-gradient(circle at 50% 50%, rgba(107,194,217,0.18) 0%, var(--bg-void) 80%)",
+          "radial-gradient(circle at 50% 50%, rgba(46, 224, 106,0.18) 0%, var(--bg-void) 80%)",
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
@@ -306,7 +306,7 @@ function VideoThumb({ item }: { item: MediaItem }) {
           height: "56px",
           borderRadius: "50%",
           border: "1px solid var(--cyan)",
-          background: "rgba(107,194,217,0.08)",
+          background: "rgba(46, 224, 106,0.08)",
           display: "flex",
           alignItems: "center",
           justifyContent: "center",

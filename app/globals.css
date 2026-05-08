@@ -347,22 +347,22 @@ main { position: relative; z-index: 2; }
   border-color: var(--amber);
   color: var(--amber);
   background:
-    linear-gradient(180deg, rgba(232, 181, 71, 0.18) 0%, rgba(232, 181, 71, 0.04) 100%),
+    linear-gradient(180deg, rgba(46, 224, 106, 0.18) 0%, rgba(46, 224, 106, 0.04) 100%),
     var(--bg-panel);
   box-shadow:
-    0 0 0 1px rgba(232, 181, 71, 0.15),
-    0 8px 28px rgba(232, 181, 71, 0.18),
+    0 0 0 1px rgba(46, 224, 106, 0.15),
+    0 8px 28px rgba(46, 224, 106, 0.18),
     inset 0 1px 0 rgba(255, 255, 255, 0.08);
 }
 .btn-primary:hover {
   border-color: var(--amber);
   color: var(--bg-void);
   background:
-    linear-gradient(180deg, var(--amber) 0%, #c89635 100%);
+    linear-gradient(180deg, var(--amber) 0%, var(--plasma-700) 100%);
   box-shadow:
     0 0 0 1px var(--amber),
     0 0 36px var(--amber-glow),
-    0 12px 40px rgba(232, 181, 71, 0.32),
+    0 12px 40px rgba(46, 224, 106, 0.32),
     inset 0 1px 0 rgba(255, 255, 255, 0.20);
 }
 
@@ -371,21 +371,21 @@ main { position: relative; z-index: 2; }
   border-color: var(--cyan);
   color: var(--cyan);
   background:
-    linear-gradient(180deg, rgba(107, 194, 217, 0.16) 0%, rgba(107, 194, 217, 0.03) 100%),
+    linear-gradient(180deg, rgba(46, 224, 106, 0.16) 0%, rgba(46, 224, 106, 0.03) 100%),
     var(--bg-panel);
   box-shadow:
-    0 0 0 1px rgba(107, 194, 217, 0.15),
-    0 8px 24px rgba(107, 194, 217, 0.18),
+    0 0 0 1px rgba(46, 224, 106, 0.15),
+    0 8px 24px rgba(46, 224, 106, 0.18),
     inset 0 1px 0 rgba(255, 255, 255, 0.06);
 }
 .btn-cyan:hover {
   border-color: var(--cyan);
   color: var(--bg-void);
-  background: linear-gradient(180deg, var(--cyan) 0%, #4ea2b8 100%);
+  background: linear-gradient(180deg, var(--cyan) 0%, var(--plasma-700) 100%);
   box-shadow:
     0 0 0 1px var(--cyan),
     0 0 32px var(--cyan-glow),
-    0 12px 36px rgba(107, 194, 217, 0.30),
+    0 12px 36px rgba(46, 224, 106, 0.30),
     inset 0 1px 0 rgba(255, 255, 255, 0.20);
 }
 
@@ -403,8 +403,8 @@ main { position: relative; z-index: 2; }
   border-color: var(--cyan);
   color: var(--cyan);
   box-shadow:
-    0 0 0 1px rgba(107, 194, 217, 0.30),
-    0 8px 22px rgba(107, 194, 217, 0.16);
+    0 0 0 1px rgba(46, 224, 106, 0.30),
+    0 8px 22px rgba(46, 224, 106, 0.16);
 }
 
 /* Small variant — for inline / dense areas like reader headers */
@@ -489,7 +489,7 @@ main { position: relative; z-index: 2; }
   font-size: 32px; font-weight: 300;
   color: var(--plasma); line-height: 1;
   letter-spacing: -0.02em;
-  text-shadow: 0 0 12px rgba(0, 217, 255, 0.4);
+  text-shadow: 0 0 12px rgba(46, 224, 106, 0.4);
 }
 .sec-sub {
   font-family: var(--font-mono);
@@ -603,18 +603,18 @@ main { position: relative; z-index: 2; }
   display: block;
   height: 100%;
   background: linear-gradient(to right, var(--plasma-700), var(--plasma));
-  box-shadow: 0 0 6px rgba(0, 217, 255, 0.4);
+  box-shadow: 0 0 6px rgba(46, 224, 106, 0.4);
   border-radius: 2px;
   position: relative;
   z-index: 1;
 }
 .bar-row .bar span.am {
   background: linear-gradient(to right, var(--amber-700), var(--amber));
-  box-shadow: 0 0 6px rgba(255, 159, 67, 0.4);
+  box-shadow: 0 0 6px rgba(46, 224, 106, 0.4);
 }
 .bar-row .bar span.un {
   background: linear-gradient(to right, #6644aa, var(--unknown));
-  box-shadow: 0 0 6px rgba(179, 136, 255, 0.4);
+  box-shadow: 0 0 6px rgba(106, 106, 104, 0.4);
 }
 .bar-row .bar span.gn {
   background: linear-gradient(to right, #2a8050, var(--verified));
@@ -669,18 +669,18 @@ main { position: relative; z-index: 2; }
   flex: 1;
   background: linear-gradient(to top, var(--plasma-900), var(--plasma));
   border-radius: 1px;
-  box-shadow: 0 0 5px rgba(0, 217, 255, 0.2);
+  box-shadow: 0 0 5px rgba(46, 224, 106, 0.2);
   transition: opacity 0.3s;
   min-width: 4px;
 }
 .hist span:hover { opacity: 0.7; }
 .hist span.am {
   background: linear-gradient(to top, var(--amber-700), var(--amber));
-  box-shadow: 0 0 5px rgba(255, 159, 67, 0.25);
+  box-shadow: 0 0 5px rgba(46, 224, 106, 0.25);
 }
 .hist span.un {
   background: linear-gradient(to top, #6644aa, var(--unknown));
-  box-shadow: 0 0 5px rgba(179, 136, 255, 0.25);
+  box-shadow: 0 0 5px rgba(106, 106, 104, 0.25);
 }
 .hist-axis {
   display: flex;
@@ -717,7 +717,7 @@ main { position: relative; z-index: 2; }
 }
 .shape-pict .item:hover {
   border-color: var(--plasma);
-  background: rgba(0, 217, 255, 0.04);
+  background: rgba(46, 224, 106, 0.04);
 }
 .shape-pict .item .lb {
   font-family: var(--font-mono);
@@ -831,7 +831,7 @@ main { position: relative; z-index: 2; }
   color: var(--starlight);
   font-variant-numeric: tabular-nums;
 }
-.big-num .v.cy { color: var(--plasma); text-shadow: 0 0 14px rgba(0, 217, 255, 0.3); }
+.big-num .v.cy { color: var(--plasma); text-shadow: 0 0 14px rgba(46, 224, 106, 0.3); }
 .big-num .v.am { color: var(--amber); }
 .big-num .v.un { color: var(--unknown); }
 .big-num .v.gn { color: var(--verified); }
@@ -865,14 +865,14 @@ main { position: relative; z-index: 2; }
 }
 .tag.active {
   color: var(--plasma);
-  border-color: rgba(0, 217, 255, 0.5);
-  background: rgba(0, 217, 255, 0.1);
-  box-shadow: 0 0 8px rgba(0, 217, 255, 0.15);
+  border-color: rgba(46, 224, 106, 0.5);
+  background: rgba(46, 224, 106, 0.1);
+  box-shadow: 0 0 8px rgba(46, 224, 106, 0.15);
 }
 .tag.am.active {
   color: var(--amber);
-  border-color: rgba(255, 159, 67, 0.5);
-  background: rgba(255, 159, 67, 0.1);
+  border-color: rgba(46, 224, 106, 0.5);
+  background: rgba(46, 224, 106, 0.1);
 }
 
 /* ===========================================================
@@ -882,17 +882,17 @@ main { position: relative; z-index: 2; }
   background: linear-gradient(180deg, rgba(20, 35, 64, 0.55) 0%, rgba(10, 18, 38, 0.7) 100%);
 }
 .panel::before {
-  background: linear-gradient(to right, transparent, rgba(0, 217, 255, 0.55) 50%, transparent);
+  background: linear-gradient(to right, transparent, rgba(46, 224, 106, 0.55) 50%, transparent);
 }
 .panel:hover {
-  border-color: rgba(0, 217, 255, 0.32);
-  box-shadow: 0 8px 36px rgba(0, 217, 255, 0.04);
+  border-color: rgba(46, 224, 106, 0.32);
+  box-shadow: 0 8px 36px rgba(46, 224, 106, 0.04);
 }
 .panel .br { border-color: var(--plasma); }
 .p-id {
   color: var(--plasma);
-  background: rgba(0, 217, 255, 0.08);
-  border-color: rgba(0, 217, 255, 0.25);
+  background: rgba(46, 224, 106, 0.08);
+  border-color: rgba(46, 224, 106, 0.25);
 }
 .p-title {
   font-family: var(--font-serif);

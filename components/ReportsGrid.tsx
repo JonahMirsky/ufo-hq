@@ -117,7 +117,7 @@ export function ReportsGrid({ docs }: { docs: UfoDocument[] }) {
               padding: "5px 12px",
               borderRadius: "var(--r-sm)",
               border: `1px solid ${hideOcrPending ? "var(--status-anomaly)" : "var(--border-strong)"}`,
-              background: hideOcrPending ? "rgba(217,84,58,0.08)" : "transparent",
+              background: hideOcrPending ? "rgba(198, 69, 69,0.08)" : "transparent",
               color: hideOcrPending ? "var(--status-anomaly)" : "var(--fg-secondary)",
               cursor: "pointer",
               transition: "all 200ms var(--ease-cosmic)",
@@ -278,7 +278,7 @@ function ReportCard({ doc }: { doc: UfoDocument }) {
                 ? "var(--amber)"
                 : "var(--fg-disabled)",
               boxShadow: ocrPending
-                ? "0 0 4px rgba(217,84,58,0.4)"
+                ? "0 0 4px rgba(198, 69, 69,0.4)"
                 : sightCount > 0
                 ? "0 0 4px var(--amber-glow)"
                 : "none",

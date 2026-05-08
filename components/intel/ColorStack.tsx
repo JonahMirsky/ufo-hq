@@ -4,14 +4,14 @@ interface Entry {
 }
 
 const COLOR_MAP: Record<string, { fill: string; ink: string }> = {
-  "white / silver": { fill: "#e8eaed", ink: "#001017" },
+  "white / silver": { fill: "#e8eaed", ink: "var(--bg-void)" },
   metallic: { fill: "#5d6c8c", ink: "#fff" },
-  "orange / amber": { fill: "var(--amber)", ink: "#1a0e00" },
+  "orange / amber": { fill: "var(--amber)", ink: "var(--bg-void)" },
   "red / crimson": { fill: "var(--classified)", ink: "#1a0000" },
   "dark / black": { fill: "#1a2238", ink: "var(--moondust)" },
-  green: { fill: "var(--verified)", ink: "#00200f" },
-  blue: { fill: "var(--plasma)", ink: "#001017" },
-  "multi-color": { fill: "var(--unknown)", ink: "#150033" },
+  green: { fill: "var(--verified)", ink: "var(--bg-void)" },
+  blue: { fill: "var(--plasma)", ink: "var(--bg-void)" },
+  "multi-color": { fill: "var(--unknown)", ink: "var(--bg-void)" },
 };
 
 export function ColorStack({ entries }: { entries: Entry[] }) {

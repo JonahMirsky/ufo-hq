@@ -108,7 +108,7 @@ export default async function ReportReader({ params }: { params: Promise<{ id: s
                 letterSpacing: "0.22em",
                 textTransform: "uppercase",
                 color: "var(--status-anomaly)",
-                background: "rgba(217,84,58,0.08)",
+                background: "rgba(198, 69, 69,0.08)",
                 border: "1px solid var(--status-anomaly)",
                 padding: "8px 12px",
                 borderRadius: "var(--r-sm)",

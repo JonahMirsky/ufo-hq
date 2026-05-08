@@ -113,8 +113,8 @@ export default async function IntelPage() {
               letterSpacing: "0.32em",
               textTransform: "uppercase",
               color: "var(--plasma)",
-              background: "rgba(0, 217, 255, 0.08)",
-              border: "1px solid rgba(0, 217, 255, 0.30)",
+              background: "rgba(46, 224, 106, 0.08)",
+              border: "1px solid rgba(46, 224, 106, 0.30)",
               padding: "6px 14px",
               borderRadius: "999px",
             }}
