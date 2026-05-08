@@ -34,18 +34,9 @@ export default async function ReportReader({ params }: { params: Promise<{ id: s
     <>
       <TopNav />
       <div className="max-w-[1440px] mx-auto px-6 py-8">
-        <Link
-          href="/reports"
-          className="font-mono inline-block mb-6"
-          style={{
-            fontSize: "10px",
-            letterSpacing: "0.22em",
-            textTransform: "uppercase",
-            color: "var(--fg-secondary)",
-            textDecoration: "none",
-          }}
-        >
-          ← BACK TO LIBRARY
+        <Link href="/reports" className="btn btn-ghost btn-sm btn-back mb-6">
+          <span className="btn-arrow" aria-hidden>←</span>
+          <span>BACK TO LIBRARY</span>
         </Link>
 
         {/* Header strip */}
@@ -184,7 +175,8 @@ export default async function ReportReader({ params }: { params: Promise<{ id: s
                   className="btn btn-primary"
                   style={{ marginTop: "8px" }}
                 >
-                  OPEN AT SOURCE ↗
+                  <span>OPEN AT SOURCE</span>
+                  <span className="btn-arrow" aria-hidden>↗</span>
                 </a>
                 <div
                   className="font-mono"

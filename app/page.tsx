@@ -61,11 +61,14 @@ export default async function HomePage() {
         </div>
 
         <div className="mt-10 flex gap-4 flex-wrap justify-center">
-          <a className="btn btn-primary" href="/intel">
-            OPEN CONSOLE
+          <a className="btn btn-primary btn-lg" href="/intel">
+            <span className="btn-dot" aria-hidden />
+            <span>OPEN CONSOLE</span>
+            <span className="btn-arrow" aria-hidden>→</span>
           </a>
-          <a className="btn btn-ghost" href="/reports">
-            BROWSE REPORTS
+          <a className="btn btn-ghost btn-lg" href="/reports">
+            <span>BROWSE REPORTS</span>
+            <span className="btn-arrow" aria-hidden>→</span>
           </a>
         </div>
       </section>

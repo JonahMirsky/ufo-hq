@@ -111,10 +111,12 @@ export default async function IntelPage() {
           </p>
           <div className="mt-8 flex gap-3 flex-wrap">
             <Link href="/reports" className="btn btn-primary">
-              BROWSE REPORTS
+              <span>BROWSE REPORTS</span>
+              <span className="btn-arrow" aria-hidden>→</span>
             </Link>
             <a className="btn btn-ghost" href="/data/documents.json" target="_blank" rel="noopener">
-              DOWNLOAD CORPUS (JSON)
+              <span>DOWNLOAD CORPUS (JSON)</span>
+              <span className="btn-arrow" aria-hidden>↓</span>
             </a>
           </div>
 
