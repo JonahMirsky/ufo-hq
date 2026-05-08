@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-05-08T19:00:08.481268Z",
+  "headline": {
+    "TM_01_total_sightings": 37,
+    "TM_02_total_documents": 24,
+    "TM_02_total_pages": 82,
+    "TM_03_date_range": "1969\u20132025",
+    "TM_03_years_covered": 57,
+    "TM_04_unresolved_pct": 91.9,
+    "TM_05_top_shape": "formation",
+    "TM_05_top_shape_count": 8,
+    "TM_06_most_active_year": 2025,
+    "TM_06_most_active_year_count": 12,
+    "TM_07_active_hotspot": "US",
+    "TM_07_active_hotspot_count": 15,
+    "TM_08_top_speed_mph": 575,
+    "TM_09_most_cited": "AARO",
+    "TM_09_most_cited_count": 16,
+    "extra_aviator_pct": 56.8
+  },
+  "by_year": {
+    "1969": 1,
+    "1985": 3,
+    "1994": 1,
+    "2016": 1,
+    "2020": 6,
+    "2022": 4,
+    "2023": 4,
+    "2024": 1,
+    "2025": 12
+  },
+  "by_shape": {
+    "formation": 8,
+    "orb": 6,
+    "light": 5,
+    "sphere": 5,
+    "triangle": 2,
+    "cylinder": 1,
+    "cigar": 1,
+    "diamond": 1
+  },
+  "by_country": {
+    "US": 15,
+    "SY": 4,
+    "PG": 3,
+    "IQ": 3,
+    "KZ": 1
+  },
+  "by_agency_docs": {
+    "DoW": 15,
+    "DoS": 4,
+    "NASA": 2,
+    "Other": 2,
+    "FBI": 1
+  },
+  "by_doctype": {
+    "MISREP": 7,
+    "range_fouler_debrief": 6,
+    "cable": 4,
+    "transcript": 2,
+    "email": 1,
+    "other": 1,
+    "case_file": 1,
+    "statement": 1,
+    "slide_deck": 1
+  },
+  "by_evidence_type": {
+    "visual": 36,
+    "video": 14,
+    "infrared": 11,
+    "radar": 2,
+    "photographic": 1,
+    "electronic_signature": 1
+  },
+  "lag_distribution": {
+    "median_years": 5.4,
+    "max_years": 56.5,
+    "count": 24
+  }
+}

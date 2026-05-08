@@ -1,0 +1,1439 @@
+[
+  {
+    "id": "059uap00011",
+    "source": "DoW-PURSUE",
+    "external_id": "01 MOSCOW 13169",
+    "title": "UFOS Over Georgia: Strange Encounters of an MFA Kind (US Embassy Moscow Cable)",
+    "agency": "DoS",
+    "document_type": "cable",
+    "published_at": "2026-02-25",
+    "date_authored": "2001-10-30",
+    "lag_years": 24.4,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 5,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/059uap00011.pdf",
+    "summary": "U.S. Embassy Moscow cable (300000Z OCT 01) reporting an Ambassador Vershbow / Deputy Foreign Minister Mamedov meeting on alleged Russian airspace violations and bombings of the Kodori Gorge in Abkhazia. The 'UFO' reference is rhetorical: MFA Georgia Desk Chief Tereoken said reports of planes in the area 'might as well have been about UFOs', and the Embassy's comment notes positing the planes were UFOs would be humorous if not for the seriousness of the violations. No actual aerial-object observation is described.",
+    "key_findings": [
+      "U.S. Embassy Moscow cable on alleged Russian airspace violations and bombing of Kodori Gorge, Abkhazia, 28-29 OCT 2001.",
+      "Russian MoD denied any Russian planes flew over or bombed the Kodori Gorge; MFA echoed the denial.",
+      "MFA Georgia Desk Chief Tereoken said reports of planes 'might as well have been about UFOs' \u2014 the cable's UFO reference is rhetorical, not an observation.",
+      "Embassy comment assesses Russian denials reflect a 'traditional Russian penchant to avoid an awkward admission with a bold lie'.",
+      "Cable also covers Gudauta base withdrawal: 1 trainload of equipment departed for Russia 29 OCT, 2 more trains loaded awaiting Abkhaz permission; ~600 Russian personnel remain at Gudauta.",
+      "Declassified in full / Release in full by John Powers, Acting-Director, US Department of State, 2/25/2026.",
+      "No aerial-object sightings present in document; included in DoW-PURSUE corpus as diplomatic background."
+    ],
+    "incident_refs": [],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "U.S. Department of State",
+      "AMEMBASSY MOSCOW",
+      "AMEMBASSY TBILISI",
+      "Russian Ministry of Defense",
+      "Russian MFA"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Kodori Gorge, Abkhazia, Georgia",
+      "Gudauta base",
+      "Sukhumi",
+      "Moscow",
+      "Tbilisi"
+    ],
+    "declassified_date": "2026-02-25",
+    "declassified_by": "John Powers, Acting-Director, US Department of State",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "reports of planes in the area might as well have been about 'UFOs.'",
+      "to posit that they could be UFOs would be humorous if it were not for the seriousness of the violations."
+    ],
+    "pdf_url_local": "/reports/059uap00011.pdf"
+  },
+  {
+    "id": "059uap00012",
+    "source": "DoW-PURSUE",
+    "external_id": "04 ASHGABAT 1028",
+    "title": "Turkmenistan, Civil Society and UFOs (US Embassy Ashgabat Cable)",
+    "agency": "DoS",
+    "document_type": "cable",
+    "published_at": "2026-02-25",
+    "date_authored": "2004-11-12",
+    "lag_years": 21.5,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [
+      "SBU"
+    ],
+    "redaction_pct": 0,
+    "page_count": 5,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf",
+    "summary": "U.S. Embassy Ashgabat cable describing the Union of UFOlogists (UOU) of Turkmenabat, an NGO originally founded to study extraterrestrial life that has become a reliable USG implementing partner for SME registration, humanitarian assistance distribution, and NGO capacity building. UOU President Ovezberdy Muradov stated explicitly that there have been no confirmed sightings of UFOs in Turkmenistan. No aerial-object observations described.",
+    "key_findings": [
+      "Union of UFOlogists (UOU) of Turkmenabat, Lebap Welayet, founded 1992 \u2014 first NGO to register after Turkmen independence; first to re-register under 2003 NGO law.",
+      "UOU has over 1000 members across multiple welayets and is an umbrella for 9+ member organizations.",
+      "USAID is considering a $15,000 capacity-building grant via Counterpart International; UOU also requested a $30k printing-equipment grant for a planned independent newsletter (capped at 999 copies to avoid Turkmen licensing).",
+      "UOU President Muradov said Turkmen military and government authorities had consulted him about mysterious occurrences in Turkmen airspace, but stated there had been no confirmed sightings of UFOs in Turkmenistan.",
+      "UOU has assisted 187 enterprises pro bono with registration; runs for-fee courses including UFOlogy and massage; partnered with State Dept-funded CHAP humanitarian assistance for Tajik and Afghan refugees.",
+      "Embassy comment: 'Crazy? Like a fox; and worthy of USG attention and support.'",
+      "Released in full by John Powers, Acting-Director, US Department of State, 2/25/2026.",
+      "No aerial-object sightings present in document; included in DoW-PURSUE corpus as background."
+    ],
+    "incident_refs": [],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "U.S. Department of State",
+      "AMEMBASSY ASHGABAT",
+      "USAID",
+      "Counterpart International",
+      "Union of UFOlogists (UOU) of Turkmenabat"
+    ],
+    "operation_refs": [
+      "CHAP humanitarian assistance"
+    ],
+    "platform_refs": [],
+    "location_refs": [
+      "Turkmenabat, Lebap Welayet, Turkmenistan",
+      "Ashgabat"
+    ],
+    "declassified_date": "2026-02-25",
+    "declassified_by": "John Powers, Acting-Director, US Department of State",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "everyone is interested in UFOs.",
+      "there had been no confirmed sightings of UFOs in Turkmenistan.",
+      "Crazy? Like a fox; and worthy of USG attention and support."
+    ],
+    "pdf_url_local": "/reports/059uap00012.pdf"
+  },
+  {
+    "id": "dos-uap-d1-cable-1-papua-new-guinea-january-1985",
+    "source": "DoW-PURSUE",
+    "external_id": "85 PORT MORESBY 199 / CSP-2025-00040 / B-00002707027",
+    "title": "Cable \u2014 AMEMBASSY PORT MORESBY: Papua New Guinea Inquiry re Overflights, 28 January 1985",
+    "agency": "DoS",
+    "document_type": "cable",
+    "published_at": "2026-03-02",
+    "date_authored": "1985-01-28",
+    "lag_years": 41.1,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [
+      "LIMITED OFFICIAL USE"
+    ],
+    "redaction_pct": 0,
+    "page_count": 3,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf",
+    "summary": "Limited Official Use cable from US Embassy Port Moresby (Ambassador Gardner) to USCINCPAC reporting that the PNG National Intelligence Organization formally inquired about high-altitude, high-speed overflight sightings over PNG on the night of 24 January 1985. Embassy denied any US (B-52 or other) overflights and requested USCINCPAC confirmation. PNG Prime Minister attended a public meeting in Wewak on the matter.",
+    "key_findings": [
+      "PNG National Intelligence Organization formally asked the US Embassy on 28 Jan 1985 to confirm whether US aircraft overflew PNG on the evening of 24 Jan 1985.",
+      "Reports included fast-moving objects with lights, contrails and noise; Wewak residents 'frightened' enough that the Prime Minister attended a public meeting on the subject.",
+      "Air Niugini pilot's onboard radar picked up an aircraft transiting south-to-north at high altitude/speed while the airliner was over Angoram (vic 4\u00b0S 144\u00b0E).",
+      "Visual contrail sightings: one aircraft moving N-to-S at 1900 local; six-to-eight aircraft S-to-N at 2200 local on 24 Jan 1985.",
+      "Embassy and 43 SW (Andersen AFB Guam) found no record of B-52 or other US aircraft in PNG airspace that night; embassy requested USCINCPAC confirmation."
+    ],
+    "incident_refs": [
+      "dos-uap-d1-cable-1-papua-new-guinea-january-1985#0",
+      "dos-uap-d1-cable-1-papua-new-guinea-january-1985#1",
+      "dos-uap-d1-cable-1-papua-new-guinea-january-1985#2"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "43 SW Andersen AFB Guam"
+    ],
+    "agency_refs": [
+      "AMEMBASSY PORT MORESBY",
+      "USCINCPAC",
+      "USCINCLANT",
+      "SECSTATE",
+      "PNG National Intelligence Organization (NIO)",
+      "Air Niugini"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "Air Niugini civilian airliner (radar-equipped)"
+    ],
+    "location_refs": [
+      "Papua New Guinea",
+      "Wewak",
+      "Angoram (vic 4\u00b0S 144\u00b0E)",
+      "Port Moresby"
+    ],
+    "declassified_date": "2026-02-25",
+    "declassified_by": "John Powers, Acting-Director, US Department of State",
+    "approved_for_release_to": "Public (Released in Full)",
+    "redaction_codes": [],
+    "notable_quotes": [
+      "Local residents had been frightened by overflights.",
+      "Reports of fast-moving objects with lights, contrails, and noise."
+    ],
+    "pdf_url_local": "/reports/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf"
+  },
+  {
+    "id": "dos-uap-d2-cable-2-kazakhstan-january-1994",
+    "source": "DoW-PURSUE",
+    "external_id": "94 DUSHANBE 259 / CSP-2025-00040 / B-00002707028",
+    "title": "Cable \u2014 AMEMBASSY DUSHANBE: Tajik Air Pilots Report Unidentified Flying Object, 31 January 1994",
+    "agency": "DoS",
+    "document_type": "cable",
+    "published_at": "2026-03-02",
+    "date_authored": "1994-01-31",
+    "lag_years": 32.1,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 3,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf",
+    "summary": "Unclassified cable from US Embassy Dushanbe (Ambassador Escudero) reporting that the Tajik Air chief pilot (American citizen Ed Rhodes) and two American colleagues encountered an unidentified flying object on 27 January 1994 while flying a Boeing 747SP at 41,000 ft over Kazakhstan (45\u00b0N 55\u00b0E). Crew watched the object maneuver in circles, corkscrews and 90-degree turns at high G for ~40 minutes; ~45 min after initial sighting their aircraft flew under contrails the crew estimated at ~100,000 ft altitude.",
+    "key_findings": [
+      "American Tajik Air aircrew encountered a UFO at FL410 over Kazakhstan (45\u00b0N 55\u00b0E) on 27 Jan 1994.",
+      "Object first appeared as a bright light of enormous intensity approaching from the east at much higher altitude and great speed.",
+      "Crew watched the object maneuver in circles, corkscrews and 90-degree turns at high G for approximately 40 minutes.",
+      "After initial sighting, aircraft flew under contrails the crew estimated at ~100,000 ft, with paths reflecting the observed maneuvers; aircraft was making over 500 KTS.",
+      "Crew rejected meteor explanation citing extensive PanAm experience with falling stars and space junk; pilot opined object was extraterrestrial and under intelligent control.",
+      "Captain Rhodes took several photos with a pocket Olympus camera and offered to send copies to the embassy and Tajikistan desk if they came out.",
+      "Embassy comment: 'WE HAVE NO OPINION AND REPORT THE ABOVE FOR WHAT IT MAY BE WORTH.'"
+    ],
+    "incident_refs": [
+      "dos-uap-d2-cable-2-kazakhstan-january-1994#0"
+    ],
+    "person_refs": [
+      "Tajik Air chief pilot (AMCIT, last name in cable)"
+    ],
+    "unit_refs": [],
+    "agency_refs": [
+      "AMEMBASSY DUSHANBE",
+      "SECSTATE",
+      "AMEMBASSY MOSCOW",
+      "CIA WASHDC",
+      "DIA WASHDC",
+      "Tajik Air"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "Boeing 747SP (Tajik Air)"
+    ],
+    "location_refs": [
+      "Kazakhstan",
+      "45\u00b0N 55\u00b0E"
+    ],
+    "declassified_date": "2026-02-25",
+    "declassified_by": "John Powers, Acting-Director, US Department of State",
+    "approved_for_release_to": "Public (Released in Full)",
+    "redaction_codes": [],
+    "notable_quotes": [
+      "Maneuvered in circles, corkscrews and made 90-degree turns at rapid rates of speed.",
+      "We have no opinion and report the above for what it may be worth."
+    ],
+    "pdf_url_local": "/reports/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf"
+  },
+  {
+    "id": "dow-uap-d10-mission-report-middle-east-may-2022",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 25-0093 / JS-250710-TM8S",
+    "title": "USCENTCOM Mission Report \u2014 Middle East, 6 May 2022 (ISR REC/XCAS)",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2022-05-06",
+    "lag_years": 4.0,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 35,
+    "page_count": 6,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d10-mission-report-middle-east-may-2022.pdf",
+    "summary": "Single-aircraft ISR sortie (REC/XCAS, FMV+SIGINT) ISO Operation Inherent Resolve. From 1514Z to 1934Z the asset observed 5 UAP cross its FMV field of view; the first matched the visual signature of a possible missile, the four that followed fit the profile of birds. DGS1 exploited the FMV.",
+    "key_findings": [
+      "Single ISR aircraft launched 0246Z 6MAY22 supporting target development on a redacted operation.",
+      "From 1514Z to 1934Z the platform observed 5 UAP fly across the FMV screen.",
+      "First object (1514Z) had visual signature of a possible (redacted) missile flying across FOV.",
+      "Four subsequent UAP fit the profile of possible birds.",
+      "Dust hindered most FMV ground collection; SIGINT collection ran 0958Z-2036Z.",
+      "Supported unit MAG; full motion video exploited by DGS1."
+    ],
+    "incident_refs": [
+      "dow-uap-d10-mission-report-middle-east-may-2022#0",
+      "dow-uap-d10-mission-report-middle-east-may-2022#1"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "432 AEW",
+      "379 AEW",
+      "ISRD"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AFCENT",
+      "AARO",
+      "609 CAOC",
+      "DGS1",
+      "MAG"
+    ],
+    "operation_refs": [
+      "OPERATION INHERENT RESOLVE"
+    ],
+    "platform_refs": [
+      "ISR aircraft (FMV/SIGINT)"
+    ],
+    "location_refs": [
+      "38SMC grid (redacted)"
+    ],
+    "declassified_date": "2025-10-07",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "130b"
+    ],
+    "notable_quotes": [
+      "OBSERVED A UAP WITH THE VISRECCE OF A POSSIBLE [redacted] MISSILE FLY ACROSS THE FOV.",
+      "ALL 4X REMAINING UAP FIT CLOSER TO THE PROFILE OF POSSIBLE BIRDS."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d10-mission-report-middle-east-may-2022.pdf"
+  },
+  {
+    "id": "dow-uap-d12-mission-report-iraq-may-2022",
+    "source": "DoW-PURSUE",
+    "external_id": "MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S",
+    "title": "USCENTCOM Mission Report \u2014 Iraq, 20 May 2022 (ISR Recon, Op Phantom Flex)",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2022-05-20",
+    "lag_years": 4.0,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 30,
+    "page_count": 6,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d12-mission-report-iraq-may-2022.pdf",
+    "summary": "Single ISR aircraft from 196 ATKS launched OKAS 0542Z 20MAY22 ISO Operation Inherent Resolve, supporting OP PHANTOM FLEX for MAG. At 2043Z observed 1 UAP in FMV that flew north to northeast and could not be positively ID'd by the screener.",
+    "key_findings": [
+      "ISR aircraft from 196 ATKS / 163 AW conducted reconnaissance ISO Operation Inherent Resolve in killbox 89AS, supporting OP PHANTOM FLEX for MAG.",
+      "Asset on station 0927Z-2121Z conducting FMV and SI; AHv2 (AIRHANDLER v2) and ANDAS4 sensor used.",
+      "At 2043Z observed 1 UAP at unknown altitude flying north to northeast; followed as long as possible.",
+      "Screener could not get a positive ID on the UAP.",
+      "Friendly aircraft at FL180 at time of contact; FMV exploited by DGS1.",
+      "Weather not a factor; mission effective for tasked intel gap."
+    ],
+    "incident_refs": [
+      "dow-uap-d12-mission-report-iraq-may-2022#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "196 ATKS",
+      "163 AW",
+      "609 AOC",
+      "12 AF PAROC"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AFCENT",
+      "ACC",
+      "AARO",
+      "609 CAOC",
+      "DGS1",
+      "MAG"
+    ],
+    "operation_refs": [
+      "OPERATION INHERENT RESOLVE",
+      "OP PHANTOM FLEX"
+    ],
+    "platform_refs": [
+      "ISR aircraft (FMV/SIGINT)"
+    ],
+    "location_refs": [
+      "OKAS (Ali Al Salem AB, Kuwait)",
+      "killbox 89AS",
+      "38SMC grid (Iraq)"
+    ],
+    "declassified_date": "2025-10-08",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4c",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "OBSERVED A UAP AT 2043Z FLY NORTH TO NORTH EAST AND FOLLOWED AS LONG AS POSSIBLE.",
+      "SCREENER COULD NOT GET A POSITIVE ID ON THE UAP."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d12-mission-report-iraq-may-2022.pdf"
+  },
+  {
+    "id": "dow-uap-d18-mission-report-iraq-december-2022",
+    "source": "DoW-PURSUE",
+    "external_id": "MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S",
+    "title": "USCENTCOM Mission Report \u2014 Iraq, 1 December 2022 (ISR Target Dev IVO Baghdad)",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2022-12-01",
+    "lag_years": 3.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "NOFORN"
+    ],
+    "redaction_pct": 30,
+    "page_count": 6,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d18-mission-report-iraq-december-2022.pdf",
+    "summary": "Single ISR aircraft (482 ATKS) launched OKAS 1206Z 01DEC22 ISO Operation Inherent Resolve, supporting a redacted task force vicinity Baghdad with FMV target development. At 1620Z observed 1 possible UAP/UAV flying west to east at FL180; asset did not follow and continued tasking.",
+    "key_findings": [
+      "ISR aircraft from 482 ATKS / 20 FW conducted target-development ISR vicinity Baghdad supporting a redacted Task Force.",
+      "Sensors: FMV primary, AH (AIRHANDLER) and BLASPHEMY SIGINT secondary; FMV exploited by DGS-AR.",
+      "From 1518Z to 0426Z conducted scans for HVI/POI, POL, ADMs in suits, weapons, convoys/sentry, and personnel.",
+      "At 1620Z observed 1 possible UAP/UAV flying west to east IVO MGRS 38SMB42 83 at FL180.",
+      "Asset did not follow the UAP; continued tasking. No further events observed.",
+      "Weather not a factor; intel gap not filled."
+    ],
+    "incident_refs": [
+      "dow-uap-d18-mission-report-iraq-december-2022#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "482 ATKS",
+      "20 FW",
+      "609 AOC",
+      "603 AOC",
+      "12 AF PAROC"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AFCENT",
+      "ACC",
+      "AARO",
+      "609 CAOC",
+      "DGS-AR"
+    ],
+    "operation_refs": [
+      "OPERATION INHERENT RESOLVE"
+    ],
+    "platform_refs": [
+      "ISR aircraft (FMV/SIGINT)"
+    ],
+    "location_refs": [
+      "OKAS (Ali Al Salem AB, Kuwait)",
+      "Baghdad, Iraq",
+      "MGRS 38SMB grid"
+    ],
+    "declassified_date": "2025-10-08",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4c",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "OBSERVED 1X POSSIBLE UAP/UAV FLYING WEST TO EAST IVO 38SMB42 83.",
+      "DID NOT FOLLOW UAP. CONTINUED THE MISSION AS TASKED, NO FURTHER EVENTS WERE OBSERVED."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d18-mission-report-iraq-december-2022.pdf"
+  },
+  {
+    "id": "dow-uap-d19-mission-report-syria-february-21-2023",
+    "source": "DoW-PURSUE",
+    "external_id": "MDR 25-0094",
+    "title": "USCENTCOM Mission Report \u2014 Syria, 21 February 2023",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2023-02-21",
+    "lag_years": 2.7,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "NOFORN"
+    ],
+    "redaction_pct": 35,
+    "page_count": 10,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d19-mission-report-syria-february-21-2023.pdf",
+    "summary": "F-15E 2-ship from Muwaffaq Salti AB conducted DCA in ESSA killbox vicinity Shaddadi, Syria. Crew observed 3x possible UAP at FL240 and a possible balloon at FL210; both events captured on WSV. A separate 3-minute MFT radar jamming event on APG-82 was logged.",
+    "key_findings": [
+      "F-15E 2-ship observed 3 white IR-significant objects at FL240 vicinity Shaddadi at 0025Z; WSV produced, no radar returns, no health effects.",
+      "Same flight observed 1 possible balloon at FL210 at 0135Z; WSV produced, NFTR.",
+      "Three minutes of MFT radar jamming on APG-82 (8.8-9.9 GHz) experienced at FL270 north of Shaddadi 0021Z-0024Z; working theory is Turkish X-band jammer near SYR/TUR border.",
+      "Mission flown ISO Operation Inherent Resolve in ESSA killbox; tail numbers 169, 188.",
+      "Total mission time 4h55m; weather cloudy."
+    ],
+    "incident_refs": [
+      "dow-uap-d19-mission-report-syria-february-21-2023#0",
+      "dow-uap-d19-mission-report-syria-february-21-2023#1"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "389 EFS",
+      "332 AEW",
+      "89 ATKS",
+      "432 AEW"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AFCENT",
+      "AARO",
+      "609 CAOC"
+    ],
+    "operation_refs": [
+      "OPERATION INHERENT RESOLVE"
+    ],
+    "platform_refs": [
+      "F-15E"
+    ],
+    "location_refs": [
+      "Shaddadi, Syria",
+      "Muwaffaq Salti AB (OJMS), Jordan",
+      "ESSA killbox"
+    ],
+    "declassified_date": "2025-10-08",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "OBS 3X POSS UAP IVO SHADDADI AT FL240. WSV PRODUCED. NFTR.",
+      "2 WHITE OBJECTS IR SIGNIFICANT. NFTR.",
+      "OBS 1X POSS BALLOON IVO SHADDADI AT FL210. WSV PRODUCED. NFTR."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d19-mission-report-syria-february-21-2023.pdf"
+  },
+  {
+    "id": "dow-uap-d20-mission-report-southern-united-states-2020",
+    "source": "DoW-PURSUE",
+    "external_id": "MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S",
+    "title": "USCENTCOM Mission Report \u2014 ESSA Killbox, 31 March 2023 (F-16CM 2-ship, OIR)",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2023-03-31",
+    "lag_years": 3.0,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "NOFORN"
+    ],
+    "redaction_pct": 30,
+    "page_count": 6,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d20-mission-report-southern-united-states-2020.pdf",
+    "summary": "Filename is misleading. Actual document is a 31 Mar 2023 OIR sortie: 2-ship F-16CM from Prince Sultan AB (OEPS) flew DCA in ESSA killbox over Syrian airspace. At 2302Z the flight observed multiple bright objects maneuvering quickly NE of RLZ; possibly 10-20 UAP, transient on targeting pod TV mode, none in formation.",
+    "key_findings": [
+      "F-16CM 2-ship from 77 EFS / 378 AEW launched OEPS 1901Z 31MAR23 ISO Operation Inherent Resolve, DCA in ESSA killbox.",
+      "At 2302:05Z, flight observed several bright objects maneuvering quickly W to E NE of RLZ; estimated 10-20 UAP at FL600+.",
+      "Targeting pod (TV mode) acquired each object for ~20s before object dimmed and disappeared from pod.",
+      "Objects were not in formation \u2014 distinct from prior sorties.",
+      "Aircrew compared targeting pod imagery between possible UAP and a star; results were different.",
+      "No RF/electronic signatures detected; no health effects on aircrew."
+    ],
+    "incident_refs": [
+      "dow-uap-d20-mission-report-southern-united-states-2020#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "77 EFS",
+      "378 AEW"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AFCENT",
+      "AARO",
+      "609 CAOC"
+    ],
+    "operation_refs": [
+      "OPERATION INHERENT RESOLVE"
+    ],
+    "platform_refs": [
+      "F-16CM"
+    ],
+    "location_refs": [
+      "Prince Sultan Air Base (OEPS), Saudi Arabia",
+      "ESSA killbox",
+      "Syria",
+      "RLZ"
+    ],
+    "declassified_date": "2025-10-08",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "FLT OBSERVED SEVERAL BRIGHT OBJECTS MANUEVERING QUICKLY WEST TO EAST NE OF RLZ.",
+      "OBJECT WOULD BECOME DIM AND DISAPPEAR FROM TARGETING POD.",
+      "FLT COMPARED TARGETING POD BETWEEN POSS UAP AND STAR. RESULTS WERE DIFFERENT."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d20-mission-report-southern-united-states-2020.pdf"
+  },
+  {
+    "id": "dow-uap-d28-mission-report-east-china-sea-2024",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 25-0100 thru 25-0103 / JS-250710-TM8S",
+    "title": "USCENTCOM Mission Report \u2014 Ayn Al Asad ROZ RAINDROP, 20 September 2024 (AC-130 Armed Overwatch)",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2024-09-20",
+    "lag_years": 1.6,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 30,
+    "page_count": 6,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d28-mission-report-east-china-sea-2024.pdf",
+    "summary": "Filename is misleading. Document is a SOTU 016 / 16 SOS armed-overwatch sortie (AC-130-style gunship: 30mm, 105mm, AGM-176) operating ROZ RAINDROP at Ayn Al Asad Air Base, Iraq. After PGM release at ~2025Z the WSO/CSO observed a UAP fly through the MX-20 and MX-25 sensor fields of view at high speed, generating an IR lens flare consistent with a significant heat source.",
+    "key_findings": [
+      "Aircraft (16 SOS / 27 SOW, gunship loadout: 1020x30mm, 80x105mm, 1x AGM-176) departed OKAS 1740Z 20SEP24 ISO Operation Inherent Resolve.",
+      "Conducted weapons calibration in ROZ RAINDROP at Ayn Al Asad Airbase (AAAB), Iraq; received call for fire ~2025Z to employ AGM-176.",
+      "At 202027:59Z, between munition release and impact, UAP flew through MX-20 and MX-25 sensors at high rate of speed.",
+      "UAP created IR lens flare on both sensors indicating significant heat source; no RF signature detected.",
+      "It is unknown whether an object detached from the primary UAP immediately before leaving the FOV.",
+      "Observer assessment: benign; no engagement; path appeared predetermined and not in response to aircraft detection.",
+      "Total mission time 7h6m; landed OKAS 0046Z 21SEP24."
+    ],
+    "incident_refs": [
+      "dow-uap-d28-mission-report-east-china-sea-2024#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "SOTU 016",
+      "16 SOS",
+      "27 SOW",
+      "1 SOW",
+      "ACF",
+      "379 AEW"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AFSOC",
+      "AARO",
+      "609 CAOC"
+    ],
+    "operation_refs": [
+      "OPERATION INHERENT RESOLVE"
+    ],
+    "platform_refs": [
+      "AC-130-style gunship (30mm/105mm/AGM-176)"
+    ],
+    "location_refs": [
+      "OKAS (Ali Al Salem AB, Kuwait)",
+      "Ayn Al Asad Airbase (AAAB), Iraq",
+      "ROZ RAINDROP",
+      "MGRS 38SKC grid"
+    ],
+    "declassified_date": "2025-10-24",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "(b)(1) 1.4a",
+      "(b)(1) 1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "UAP FLEW THROUGH [redacted] SENSOR IN BETWEEN MUNITION RELEASE AND MUNITION IMPACT.",
+      "UAP CREATED IR LENS FLARE ON MX-20 & MX-25 SENSORS, INDICATING A SIGNIFICANT HEAT SOURCE.",
+      "PATH OF MOVEMENT APPEARED PREDETERMINED AND NOT IN RESPONSE TO [aircraft] DETECTION."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d28-mission-report-east-china-sea-2024.pdf"
+  },
+  {
+    "id": "dow-uap-d38-range-fouler-debrief-middle-east-may-2020",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 26-0019",
+    "title": "Range Fouler Debrief Form \u2014 Middle East (Working Area 28314), 14 May 2020",
+    "agency": "DoW",
+    "document_type": "range_fouler_debrief",
+    "published_at": "2026-01-26",
+    "date_authored": "2020-05-14",
+    "lag_years": 5.7,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 10,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf",
+    "summary": "Single-page SPEAR Range Fouler Debrief documenting an ISR aircrew sensor observation at 2040Z on 14 May 2020 in Working Area 28314. A solid white round object flew through the FOV at FL200 and appeared to make erratic movements above the water before being lost due to poor track placement.",
+    "key_findings": [
+      "ISR aircrew tracked solid white round object at 20,000 ft over water in Working Area 28314.",
+      "Stable trackfile reported as intermittent; one contact in group; 4x zoom achieved before track was lost.",
+      "Sensor mode ULTN/Black Hot/Lin (IR); object appeared to make erratic movements above the water."
+    ],
+    "incident_refs": [
+      "dow-uap-d38-range-fouler-debrief-middle-east-may-2020#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "USCENTCOM",
+      "SPEAR",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "ISR aircraft"
+    ],
+    "location_refs": [
+      "Working Area 28314"
+    ],
+    "declassified_date": null,
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "3.5c",
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "A solid white object flew through the FOV.",
+      "It appeared to make erratic moments above the water."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf"
+  },
+  {
+    "id": "dow-uap-d42-range-fouler-debrief-japan-2023",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 26-0028",
+    "title": "Range Fouler Debrief Form \u2014 482 ATKS, ISR mission, 31 August 2020",
+    "agency": "DoW",
+    "document_type": "range_fouler_debrief",
+    "published_at": "2026-03-16",
+    "date_authored": "2020-08-31",
+    "lag_years": 5.5,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [
+      "FOUO",
+      "Privacy Act applies"
+    ],
+    "redaction_pct": 15,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d42-range-fouler-debrief-japan-2023.pdf",
+    "summary": "Range Fouler Debrief filed by an O-2 pilot of the 482 ATKS describing an ISR sensor encounter on 31 August 2020 at dusk. Pilot tracked an initial unknown object at FL180; a second object of the same shape but much higher speed surpassed it, and at one point three contacts were on screen simultaneously moving among each other. The filename label 'japan-2023' is inconsistent with the form's date of 31 August 2020.",
+    "key_findings": [
+      "482 ATKS pilot observed multiple unknown contacts on ISR sensor at FL180 (18,000 ft) at dusk on 31 Aug 2020.",
+      "Initial object surpassed by a second of same size/shape but much higher speed; up to three contacts on screen at once moving amongst each other.",
+      "Apparent propulsion checked; 'Other shape' marked; MGRS grid 39RWL2[redacted] given as initial contact location.",
+      "Filename references Japan/2023 but the form's date and content reflect a 31 August 2020 ISR mission."
+    ],
+    "incident_refs": [
+      "dow-uap-d42-range-fouler-debrief-japan-2023#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "482 ATKS"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "SPEAR",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "ISR aircraft"
+    ],
+    "location_refs": [
+      "MGRS 39RWL2 (location redacted)"
+    ],
+    "declassified_date": null,
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "(b)(1) 1.4a",
+      "3.5c",
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "Saw the initial object fly through the screen and started tracking it.",
+      "There were three on the screen at the same time moving amongst each other."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d42-range-fouler-debrief-japan-2023.pdf"
+  },
+  {
+    "id": "dow-uap-d44-range-fouler-arabian-sea-october-2020",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 26-0038 to MDR 26-0046",
+    "title": "Range Fouler Reporting Form \u2014 172 ATKS, Gulf of Aden, 15 October 2020",
+    "agency": "DoW",
+    "document_type": "range_fouler_debrief",
+    "published_at": "2026-03-27",
+    "date_authored": "2020-10-15",
+    "lag_years": 5.4,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 15,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf",
+    "summary": "Range Fouler Reporting Form from a 172 ATKS O-2 aircrew describing a daytime IR sensor encounter on 15 Oct 2020 over the Gulf of Aden. A round, cold (in IR) bright-white object was tracked at 19,073 ft HAT travelling 319\u00b0/20 mph for ~73 seconds; object made several abrupt directional changes.",
+    "key_findings": [
+      "172 ATKS aircrew tracked round, IR-cold bright-white object over the Gulf of Aden on 15 Oct 2020.",
+      "Object speed approx 20 mph at 319\u00b0 heading; sensor slant range 4.06 NM, ground range 4.78 km.",
+      "Object made abrupt directional changes during ~73-second contact; black-hot IR setting (object showed bright white)."
+    ],
+    "incident_refs": [
+      "dow-uap-d44-range-fouler-arabian-sea-october-2020#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "172 ATKS"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "SPEAR",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "ISR aircraft"
+    ],
+    "location_refs": [
+      "MGRS 40Q BD (Gulf of Aden)"
+    ],
+    "declassified_date": null,
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "We tracked a round, cold object in IR traveling 319 degrees at 20 mph.",
+      "It made a few abrupt directional changes during the 1 minute contact."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf"
+  },
+  {
+    "id": "dow-uap-d50-email-correspondence-indopacom-april-2025",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "Email Correspondence \u2014 INDOPACOM UAP Tearline Approval, April 2025",
+    "agency": "DoW",
+    "document_type": "email",
+    "published_at": "2026-05-08",
+    "date_authored": "2025-04-11",
+    "lag_years": 1.1,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "NOFORN"
+    ],
+    "redaction_pct": 60,
+    "page_count": 2,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d50-email-correspondence-indopacom-april-2025.pdf",
+    "summary": "Two-page heavily-redacted email exchange between DoD Office of the Undersecretary of Defense for Intelligence and Security and PAROC/12 AF Det 3 confirming that two UAP tearlines (10APR25 and 11APR25) and the INDOPACOM AOR designation are approved at UNCLASSIFIED. The tearlines describe brief observations of possible UAP by US aircraft.",
+    "key_findings": [
+      "10 APR 2025 tearline: US AIRCRAFT OBSERVED 1X POSS UAP FOR 12 SECONDS AT 2353Z, FLYING AT UNK ALTITUDE AND UNK SPEED, NO INTERFERENCE WAS NOTED.",
+      "11 APR 2025 tearline: US AIRCRAFT OBSERVED 1X POSS UAP FOR 23 SECONDS AT 0007Z, FLYING AT UNK ALTITUDE AND UNK SPEED, NO INTERFERENCE WAS NOTED.",
+      "INDOPACOM cited as the AOR; tearlines and AOR confirmed as UNCLASSIFIED-releasable level by source unit.",
+      "Underlying email chain marked SECRET//NOFORN (struck-through on tearline page); platform identifier and personnel names redacted under (b)(6) and 1.4(a)."
+    ],
+    "incident_refs": [
+      "dow-uap-d50-email-correspondence-indopacom-april-2025#0",
+      "dow-uap-d50-email-correspondence-indopacom-april-2025#1"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "12 AF / Det 3",
+      "PAROC"
+    ],
+    "agency_refs": [
+      "INDOPACOM",
+      "Office of the Undersecretary of Defense for Intelligence and Security",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "US aircraft (type redacted)"
+    ],
+    "location_refs": [
+      "INDOPACOM AOR"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [
+      "1.4(a)",
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "US AIRCRAFT OBSERVED 1X POSS UAP FOR 12 SECONDS AT 2353Z.",
+      "US AIRCRAFT OBSERVED 1X POSS UAP FOR 23 SECONDS AT 0007Z."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d50-email-correspondence-indopacom-april-2025.pdf"
+  },
+  {
+    "id": "dow-uap-d55-mission-report-syria-november-2016",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 26-0038 to MDR 26-0046",
+    "title": "67.1 P-8A Observes Unidentified Low-Flying Object 55 NM Northwest of Latakia, Syria \u2014 18 November 2016",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-03-27",
+    "date_authored": "2016-11-18",
+    "lag_years": 9.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, NATO"
+    ],
+    "redaction_pct": 20,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d55-mission-report-syria-november-2016.pdf",
+    "summary": "Single-page CTG 67.1 mission summary slide describing a US P-8A maritime patrol aircraft observing an unidentified low-flying object 55 NM NW of Latakia in the Eastern Mediterranean on 18 Nov 2016. Object detected via EO/IR sensor, appeared to sea-skim at ~500 KTS on a southeasterly heading outbound from KCTG (Russian carrier task group) for ~2 minutes. CTG 67.1 assessed the activity as standard for the assessed KCTG.",
+    "key_findings": [
+      "P-8A observed unidentified low-flying object 55 NM NW of Latakia, Syria at 1310Z on 18 Nov 2016.",
+      "Object appeared to be in sea-skim mode at approximately 500 KTS on a southeasterly heading outbound from Russian carrier task group (KCTG).",
+      "Object detected via EO/IR sensor; passed between (RUS) INGUL ARS and 1x unidentified vessel before P-8A lost visual at 1312Z.",
+      "Mission commander characterized interaction as safe; assessed as standard activity consistent with KCTG (suggests possible Russian missile launch).",
+      "Assessment classified as REL TO USA, NATO; video footage retained at internal link."
+    ],
+    "incident_refs": [
+      "dow-uap-d55-mission-report-syria-november-2016#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "CTG 67.1"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "P-8A"
+    ],
+    "location_refs": [
+      "Eastern Mediterranean",
+      "Latakia, Syria",
+      "(RUS) INGUL ARS",
+      "KCTG"
+    ],
+    "declassified_date": "2026-03-20",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "P-8A observed an unidentified low-flying object 55 nm northwest of Latakia.",
+      "The possible missile appeared to be in sea skim mode traveling at approximately 500KTS."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d55-mission-report-syria-november-2016.pdf"
+  },
+  {
+    "id": "dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 26-0038 to MDR 26-0046",
+    "title": "Range Fouler Debrief Form \u2014 HSM-73, North Arabian Sea, 24 August 2020",
+    "agency": "DoW",
+    "document_type": "range_fouler_debrief",
+    "published_at": "2026-03-27",
+    "date_authored": "2020-08-24",
+    "lag_years": 5.6,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "NOFORN"
+    ],
+    "redaction_pct": 15,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf",
+    "summary": "Range Fouler Debrief from an O-3 HSM-73 helicopter pilot (side no. 705, BUNO 168122) reporting a night observation of three small unidentified air contacts at 21,440 ft over the North Arabian Sea on 24 Aug 2020 at 0004:30Z. Round, winged objects with no ES/radar/IFF return, all maintaining relative course/speed/altitude on a westerly heading.",
+    "key_findings": [
+      "HSM-73 aircrew (BUNO 168122) observed 3x small unidentified air contacts at 21,440 ft over the North Arabian Sea at 0004:30Z on 24 Aug 2020.",
+      "Negative electronic support, no radar track, no IFF; westerly heading at unknown speed/distance.",
+      "Initial single contact lost behind a cloud; on regaining contact, 2 additional contacts appeared due east at the same course/speed/altitude.",
+      "Witness pilot was on an SSC mission; objects described as round with wings/airframe."
+    ],
+    "incident_refs": [
+      "dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "HSM-73"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "SPEAR",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "MH-60R Seahawk (HSM-73, BUNO 168122)"
+    ],
+    "location_refs": [
+      "North Arabian Sea (Working Area 21440)"
+    ],
+    "declassified_date": null,
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "Observed 3x possible unidentified small air contacts while conducting routine operations in the North Arabian Sea.",
+      "All 3x unknown air contacts appeared to maintain their relative course, speed, and altitude."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf"
+  },
+  {
+    "id": "dow-uap-d57-mission-report-gulf-of-aden-september-2020",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 26-0028",
+    "title": "Range Fouler Reporting Form \u2014 172 ATKS, Gulf of Aden, 4 September 2020",
+    "agency": "DoW",
+    "document_type": "range_fouler_debrief",
+    "published_at": "2026-03-16",
+    "date_authored": "2020-09-04",
+    "lag_years": 5.5,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [
+      "FOUO",
+      "Privacy Act applies"
+    ],
+    "redaction_pct": 15,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf",
+    "summary": "Range Fouler Reporting Form from a 172 ATKS O-3 aircrew describing a night IR sensor encounter on 4 Sep 2020 over the Gulf of Aden. A round, IR-cold, bright-white object was tracked at 23,819 ft HAT travelling 168\u00b0 at 277 mph for ~8 minutes; object made several abrupt directional changes.",
+    "key_findings": [
+      "172 ATKS aircrew tracked a round, IR-cold bright-white object at 23,819 ft HAT over the Gulf of Aden at night on 4 Sep 2020.",
+      "Object travelled 168\u00b0 at 277 mph for 8 minutes; made several abrupt directional changes during the contact.",
+      "Sensor aimed -39\u00b0 below altitude; slant range 6.17 NM, ground range 8.81 km; black-hot IR (object showed bright white)."
+    ],
+    "incident_refs": [
+      "dow-uap-d57-mission-report-gulf-of-aden-september-2020#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "172 ATKS"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "SPEAR",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "ISR aircraft"
+    ],
+    "location_refs": [
+      "Gulf of Aden (MGRS 38P LT)"
+    ],
+    "declassified_date": null,
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "(b)(1) 1.4a",
+      "3.5c",
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "We tracked a round, cold object in IR traveling 168 degrees at 277 mph.",
+      "It made a few abrupt directional changes during the 8 minute contact."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf"
+  },
+  {
+    "id": "dow-uap-d58-range-fouler-debrief-na-october-2020",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 26-0038 to MDR 26-0046",
+    "title": "Range Fouler Debrief Form \u2014 77 EFS, DCA mission, 27 October 2020",
+    "agency": "DoW",
+    "document_type": "range_fouler_debrief",
+    "published_at": "2026-03-27",
+    "date_authored": "2020-10-27",
+    "lag_years": 5.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "NOFORN"
+    ],
+    "redaction_pct": 15,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d58-range-fouler-debrief-na-october-2020.pdf",
+    "summary": "Range Fouler Debrief from a 77 EFS pilot (O-3) describing a night DCA encounter on 27 Oct 2020 at 0112:21Z. Kingpin (JTAC) directed ID of unknown contact; aircraft obtained radar lock and target pod video at 16.9 NM but could not get closer for better ID. Two IR-significant contacts seen \u2014 one circling the other \u2014 disappeared in 1/30th of a second; tally achieved was 2x red blinking strobes; noise jamming received.",
+    "key_findings": [
+      "77 EFS pilot tracked 2x IR-significant range foulers at FL260 on DCA mission, 27 Oct 2020 0112Z.",
+      "One range fouler circled the other; both vanished simultaneously in 1/30th of a second.",
+      "Tally achieved: 2x red blinking strobes; noise jamming received (indicated by two chevrons).",
+      "Radar lock and target pod video obtained; aircraft unable to close inside 16.9 NM for better identification.",
+      "First detection at bullseye ZIM 248/17 (location redacted); objects checked as balloon-shaped/Other shape, metallic, opaque, reflective."
+    ],
+    "incident_refs": [
+      "dow-uap-d58-range-fouler-debrief-na-october-2020#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "77 EFS"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "SPEAR",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "fighter aircraft (radar/TGT pod equipped)"
+    ],
+    "location_refs": [
+      "bullseye ZIM 248/17 (redacted)"
+    ],
+    "declassified_date": null,
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "ONE RANGE FOULER WAS CIRCLING AROUND THE OTHER. IN 1/30TH OF A SECOND, THEY WERE GONE.",
+      "TALLY ACHIEVED WAS 2X RED BLINKING STROBES AND NOISE JAMMING WAS RECIEVED."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d58-range-fouler-debrief-na-october-2020.pdf"
+  },
+  {
+    "id": "dow-uap-pr20",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S",
+    "title": "USCENTCOM Recommendation to AARO \u2014 Cleared sensor still (PR20)",
+    "agency": "DoW",
+    "document_type": "other",
+    "published_at": "2026-03-10",
+    "date_authored": "2025-10-08",
+    "lag_years": 0.5,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 5,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-pr20.pdf",
+    "summary": "Single-page DoD Office of Prepublication and Security Review release dated 10 Mar 2026 attached to USCENTCOM Recommendation to AARO (MDR 25-0094 thru 25-0099). The page is a public-release sensor still (IR/EO imagery) showing a small object circled in red within a wide gray-toned scene; no incident narrative or caption accompanies the image. Recommended on 8 Oct 2025 by MG Richard A. Harrison.",
+    "key_findings": [
+      "Cleared-for-Open-Publication sensor still (IR/EO frame) tied to USCENTCOM MDR 25-0094 thru 25-0099 / JS-250710-TM8S.",
+      "Image shows a small bright object hand-circled in red in the upper portion of the frame; no narrative metadata is present in this PDF.",
+      "Cleared by DoD Office of Prepublication and Security Review on 10 Mar 2026; recommended for release on 8 Oct 2025 by MG Richard A. Harrison."
+    ],
+    "incident_refs": [],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "USCENTCOM",
+      "AARO",
+      "DoD Office of Prepublication and Security Review"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": "2025-10-08",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "Public (Cleared For Open Publication)",
+    "redaction_codes": [],
+    "notable_quotes": [
+      "CLEARED For Open Publication"
+    ],
+    "pdf_url_local": "/reports/dow-uap-pr20.pdf"
+  },
+  {
+    "id": "nasa-uap-d1-apollo-12-transcript-1969",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "Apollo 12 Air-to-Ground Voice Transcription (excerpt)",
+    "agency": "NASA",
+    "document_type": "transcript",
+    "published_at": "2026-05-08",
+    "date_authored": "1969-11-19",
+    "lag_years": 56.5,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 4,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d1-apollo-12-transcript-1969.pdf",
+    "summary": "Excerpts from Apollo 12 air-to-ground voice transcription (Tape 90/3-90/9 and 93/8) covering rendezvous timeframe in lunar orbit. The Lunar Module Pilot describes flashes/particles of light seen through the Alignment Optical Telescope (AOT) in the dark quadrant, initially attributed to water-boiler venting but later described as appearing to escape the Moon. Other discussion covers an AGS DEDA display anomaly (later attributed to EMI) and a CSM tracking-light fault.",
+    "key_findings": [
+      "Intrepid LMP (LM-LMP) reported flashes of light / particles of light visible through AOT quadrant 1 (dark quadrant) coming from behind, sailing off into space, possibly venting from water boiler or 'escaping the Moon'.",
+      "Intrepid LMP reported pulsing 'all 8s flash' on AGS DEDA address and information registers at ~1/5 normal brightness; CC (Houston) and Fredo confirmed they had observed the same phenomenon during Bethpage spacecraft testing \u2014 assessed as EMI on the DEDA, not an aerial object.",
+      "CSM tracking light reported burned out on first nightside pass per CDR-LM; current indicators showed it still drawing current \u2014 investigated.",
+      "Lift-off time uplinked: 142:03:47.",
+      "Transcript covers GET 05:19 through 06:00 (rendezvous and post-undocking activities)."
+    ],
+    "incident_refs": [
+      "nasa-uap-d1-apollo-12-transcript-1969#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "NASA",
+      "MSC Houston",
+      "TRW",
+      "Grumman Bethpage"
+    ],
+    "operation_refs": [
+      "Apollo 12"
+    ],
+    "platform_refs": [
+      "LM Intrepid",
+      "CSM Yankee Clipper"
+    ],
+    "location_refs": [
+      "Lunar orbit"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [],
+    "notable_quotes": [
+      "you can see these lights - particles of light, flashes of light just seem to come from...",
+      "it looks like some of those things are escaping the Moon. They really haul out of here and just press off at the stars.",
+      "we've both seen that phenomena on your DEDA during testing... it's probably an EMI."
+    ],
+    "pdf_url_local": "/reports/nasa-uap-d1-apollo-12-transcript-1969.pdf"
+  },
+  {
+    "id": "nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973",
+    "source": "DoW-PURSUE",
+    "external_id": "MSC-07632",
+    "title": "Apollo 17 Crew Debriefing for Science",
+    "agency": "NASA",
+    "document_type": "transcript",
+    "published_at": "2026-05-08",
+    "date_authored": "1973-01-08",
+    "lag_years": 53.3,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 3,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf",
+    "summary": "NASA MSC-07632 Apollo 17 Crew Debriefing for Science prepared by the Science Requirements Branch, Planetary and Earth Sciences Division. Excerpt visible covers UV astronomy (Henry's discussion of the Coma cluster, North/South Galactic Pole UV observations, Lyman-alpha hydrogen radiation, and Earth spectrum). No discrete aerial-object UAP observations are present in the visible portion of the document.",
+    "key_findings": [
+      "Henry segment discusses search for Lyman-alpha radiation from ionized hydrogen in the Coma cluster \u2014 none detected; lower limit set excludes Coma cluster being held together by ionized hydrogen.",
+      "Apollo 17 UV experiment looked at high galactic latitudes (north and south galactic poles); spectrum observed is above dark-count and may be extragalactic radiation, though most conservative interpretation is starlight reflecting off interstellar dust.",
+      "Lyman-alpha hydrogen radiation data collected on Apollo, expected to clarify whether interstellar hydrogen streams through solar system per Gary Thomas (U Colorado).",
+      "Spectrum of Earth observed from outside the magnetosphere.",
+      "No discrete aerial-object UAP observations are catalogued in the visible portion of this debrief; document is largely a science discussion."
+    ],
+    "incident_refs": [],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "NASA",
+      "Manned Spacecraft Center",
+      "University of Colorado"
+    ],
+    "operation_refs": [
+      "Apollo 17"
+    ],
+    "platform_refs": [
+      "Apollo 17 CSM/LM"
+    ],
+    "location_refs": [
+      "Lunar orbit",
+      "Cislunar space"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "the spectrum that we see is above this dark count.",
+      "it's at least possible that this is extragalactic radiation."
+    ],
+    "pdf_url_local": "/reports/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf"
+  },
+  {
+    "id": "serial-4-redacted_redacted",
+    "source": "DoW-PURSUE",
+    "external_id": "FBI FD-302 (Rev. 5-8-10)",
+    "title": "FBI FD-302 \u2014 Witness Interview re: September 2023 UAP Sighting (LiDAR Test Site)",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "2023-10-01",
+    "lag_years": 2.6,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 35,
+    "page_count": 2,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/serial-4-redacted_redacted.pdf",
+    "summary": "Two-page redacted FBI FD-302 documenting a September 2023 FaceTime interview of a contractor (drone pilot, ten to fifteen hours flight time) who, with three other contractors and a colleague, witnessed an unidentified aerial object during a LiDAR test convoy. Witness saw a linear, metallic/gray object with an extremely bright white light at ~5,000 ft AGL moving east-to-west parallel to the ground; object was visible 5-10 seconds before its light extinguished and it vanished.",
+    "key_findings": [
+      "Witness (drone pilot contractor, 10-15 hrs flight time) observed object during LiDAR test convoy at ~7:30 am on a clear morning in September 2023.",
+      "Object described as linear, metallic/gray, with a bright white light containing visible bands; smaller than a 737, 1-2 Blackhawk-helicopter lengths, larger than a drone.",
+      "Object at ~5,000 ft AGL moving east-to-west parallel to ground; no wings or exhaust observed.",
+      "After 5-10 seconds the light extinguished and the object vanished; witness could not relocate it.",
+      "Witness reported sleep disturbance and 'weird dreams' for two nights afterwards; vehicle electronic interference NOT observed.",
+      "Restricted airspace had been arranged for the planned drone tests; second-vehicle occupant unable to acquire the object before it vanished."
+    ],
+    "incident_refs": [
+      "serial-4-redacted_redacted#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [
+      "LiDAR tests (commercial)"
+    ],
+    "platform_refs": [],
+    "location_refs": [
+      "United States (location redacted)"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [
+      "(b)(6)",
+      "(b)(7)(C)"
+    ],
+    "notable_quotes": [
+      "Saw a linear object with a super bright light on the east side of the object.",
+      "The light went out and the object vanished."
+    ],
+    "pdf_url_local": "/reports/serial-4-redacted_redacted.pdf"
+  },
+  {
+    "id": "usper-statement-redacted",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "USPer Witness Statement (Redacted) \u2014 Mountain-range Aerial Search, 2025",
+    "agency": "Other",
+    "document_type": "statement",
+    "published_at": "2026-05-08",
+    "date_authored": "2025-01-01",
+    "lag_years": 1.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "NOFORN"
+    ],
+    "redaction_pct": 40,
+    "page_count": 3,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf",
+    "summary": "First-person statement by a senior US intelligence official describing a single evening of multiple orb / light-formation sightings during a helicopter aerial search over a redacted mountain range west of a code-named site. The witness flew aboard a state-partner helicopter (CALL SIGN 1) with two pilots and federal partners; sightings were corroborated by a Listening Post / Observation Post (LP/OP) using FLIR and NVG, and by military aircraft conducting a training mission in the airspace.",
+    "key_findings": [
+      "Search prompted by prior eyewitness reports of orbs/lights and audible thuds 'as if something has fallen and hit the ground' near a code-named facility; same day the [redacted] Office completed a successful test of a redacted system.",
+      "At 1751Z helicopter spotted a large cavern entrance and orbited it \u2014 possible debris/cavern context, not a sighting.",
+      "LP/OP described an orb under FLIR as 'super-hot' hovering at ground level before maneuvering at high speed.",
+      "LP/OP reported an orb came within 10 feet of CALL SIGN 1 helicopter and accelerated past the road, an estimated 20 miles away \u2014 the helicopter could not match speed.",
+      "Pilots indicated they were recording with FLIR but many sightings were above the helicopter, outside the FLIR camera angle.",
+      "Witness assessed: 'The orbs appeared to break off from CALL SIGN 1 and pursue the MILITARY AIRCRAFT.'",
+      "Full redaction of dates, coordinates, witness names, partner identities, road and town names; the text retains tactical narrative and timestamps."
+    ],
+    "incident_refs": [
+      "usper-statement-redacted#0",
+      "usper-statement-redacted#1",
+      "usper-statement-redacted#2",
+      "usper-statement-redacted#3",
+      "usper-statement-redacted#4",
+      "usper-statement-redacted#5",
+      "usper-statement-redacted#6",
+      "usper-statement-redacted#7",
+      "usper-statement-redacted#8",
+      "usper-statement-redacted#9"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "US Intelligence Community",
+      "[Federal Partner 1]",
+      "[Federal Partner 2]",
+      "[Federal Partner 3]",
+      "[Federal Partner 4]",
+      "[State Partner Organization]",
+      "JOC"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "State partner helicopter (CALL SIGN 1)",
+      "State partner helicopter (CALL SIGN 2)",
+      "Military aircraft (training)"
+    ],
+    "location_refs": [
+      "[Mountain Range, redacted]",
+      "[Site Code Name]",
+      "[Operations Center]"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "spotted an orb under FLIR and described as 'super-hot' hovering at ground level.",
+      "the orb gained elevation, came within ten feet of CALL SIGN 1.",
+      "The orbs appeared to break off from CALL SIGN 1 and pursue the MILITARY AIRCRAFT."
+    ],
+    "pdf_url_local": "/reports/usper-statement-redacted.pdf"
+  },
+  {
+    "id": "western_us_event_slides_5.08.2026",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "Western U.S. Event Slides \u2014 Federal Law Enforcement Witness Sightings",
+    "agency": "Other",
+    "document_type": "slide_deck",
+    "published_at": "2026-05-08",
+    "date_authored": "2026-05-08",
+    "lag_years": 0.0,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 5,
+    "page_count": 4,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/western_us_event_slides_5.08.2026.pdf",
+    "summary": "Four-slide briefing deck describing Western U.S. UAP encounters by six federal law enforcement special agents (USPER1-USPER7) over multiple days. Categories: 'Orbs Launching Orbs', 'Large Fiery Orb', 'Dark Kite', and 'Transparent Kite'. AARO subsequently gathered measurements that revised initial range/size estimates for the Large Fiery Orb event.",
+    "key_findings": [
+      "Three two-agent teams (USPER1-USPER6) independently witnessed orange 'mother' orbs launching groups of 2-4 red orbs at dusk on two separate days; phenomenon repeated at least five times.",
+      "Red orbs typically moved horizontally away from the orange orb; some moved up at an angle or 'swooped down'.",
+      "USPER5/USPER6 observed a glowing orange 'fiery orb' at dusk, hovering near a rock pinnacle with apparent zero motion; AARO post-measurement assessed range ~1050 m and diameter 12-18 m.",
+      "USPER5/USPER6 observed a 'Dark Kite' object pre-dawn that initially appeared to be a car (red and white lights, 2-3 ft off ground); object moved laterally off-road at 15-20 mph with zero resistance, no altitude change, then turned off lights leaving a thin horizontal line in NVGs (later described to AARO as triangular).",
+      "~30 minutes after the Dark Kite encounter, USPER5/USPER6 (USPER7 did not see) observed a 'Transparent Kite' kite-shaped object ~6 m off the ground, canted from lower right to upper left, drifting with wind; appeared partially transparent in NVGs (stars visible through it); spotlight beam appeared to be 'blocked' at one point in space.",
+      "USPER6 noted the Large Fiery Orb 'almost appeared to have a small spindle or something connecting it from underneath to the rock formation'; no audible sound."
+    ],
+    "incident_refs": [
+      "western_us_event_slides_5.08.2026#0",
+      "western_us_event_slides_5.08.2026#1",
+      "western_us_event_slides_5.08.2026#2",
+      "western_us_event_slides_5.08.2026#3"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "Federal law enforcement",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Western U.S."
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "the orange orb would appear, launch red orbs, then disappear.",
+      "similar to the Eye or [sic] Sauron from Lord of the Rings.",
+      "ill defined, dark kite shape that had some rounded width to the sides."
+    ],
+    "pdf_url_local": "/reports/western_us_event_slides_5.08.2026.pdf"
+  }
+]

@@ -1,0 +1,268 @@
+/* UFO HQ design tokens — drop into app/globals.css when scaffolding the Next.js app.
+ * Source: build spec v2 section 5. Kept verbatim so the visual language stays consistent
+ * across whatever v0 generates and any hand-written pages.
+ */
+
+:root {
+  /* Foundation — deep mission-control darkness */
+  --bg-void:           #050608;
+  --bg-panel:          #0B0D11;
+  --bg-elevated:       #12151B;
+  --bg-overlay:        #1A1D24;
+
+  /* Borders */
+  --border-faint:      #1F232C;
+  --border-strong:     #2A2F3A;
+  --border-rail:       #3A4153;
+  --grid-line:         #1A1D24;
+  --grid-line-bright:  #2F3540;
+
+  /* Text */
+  --fg-primary:        #E8ECEF;
+  --fg-secondary:      #8B939E;
+  --fg-muted:          #4A5160;
+  --fg-disabled:       #2F3540;
+
+  /* Primary accent — Interstellar amber */
+  --amber:             #E8B547;
+  --amber-glow:        rgba(232, 181, 71, 0.25);
+  --amber-soft:        rgba(232, 181, 71, 0.08);
+
+  /* Secondary accent — Arrival cyan */
+  --cyan:              #6BC2D9;
+  --cyan-glow:         rgba(107, 194, 217, 0.25);
+  --cyan-soft:         rgba(107, 194, 217, 0.08);
+
+  /* Semantic */
+  --status-resolved:   #5BD9A0;
+  --status-anomaly:    #D9543A;
+  --status-pending:    #E8B547;
+  --status-monitoring: #6BC2D9;
+
+  /* Introspection (rare, awe moments) */
+  --ink:               #2A1A3A;
+  --ink-glow:          #4A2C66;
+
+  /* Type families — load via next/font */
+  --font-display: var(--font-space-grotesk), system-ui, sans-serif;
+  --font-serif:   var(--font-cormorant), Georgia, serif;
+  --font-body:    var(--font-inter), system-ui, sans-serif;
+  --font-mono:    var(--font-geist-mono), "JetBrains Mono", monospace;
+
+  /* Type scale */
+  --text-xs:    0.75rem;
+  --text-sm:    0.875rem;
+  --text-base:  1rem;
+  --text-lg:    1.25rem;
+  --text-xl:    1.5rem;
+  --text-2xl:   2rem;
+  --text-3xl:   2.5rem;
+  --text-4xl:   3.5rem;
+  --text-5xl:   5rem;
+
+  /* Radii */
+  --r-sm: 6px;
+  --r-md: 12px;
+  --r-lg: 18px;
+  --r-xl: 24px;
+
+  /* Motion */
+  --ease-cosmic:  cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-arrival: cubic-bezier(0.7, 0, 0.3, 1);
+}
+
+/* Background system — four layers */
+
+body {
+  background: var(--bg-void);
+  color: var(--fg-primary);
+  font-family: var(--font-body);
+  letter-spacing: 0.01em;
+  line-height: 1.6;
+  font-feature-settings: "tnum" "calt";
+}
+
+body::before {
+  content: '';
+  position: fixed; inset: 0; z-index: 0; pointer-events: none;
+  background-image:
+    linear-gradient(var(--grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+  background-size: 40px 40px;
+  opacity: 0.3;
+}
+
+body::after {
+  content: '';
+  position: fixed; inset: 0; z-index: 0; pointer-events: none;
+  background: radial-gradient(800px circle at var(--mx, 50%) var(--my, 30%),
+    var(--amber-soft) 0%, transparent 70%);
+  animation: amberDrift 60s ease-in-out infinite alternate;
+}
+
+@keyframes amberDrift {
+  0%   { --mx: 30%; --my: 20%; }
+  100% { --mx: 70%; --my: 60%; }
+}
+
+main { position: relative; z-index: 2; }
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; }
+  body::after { animation: none; }
+}
+
+/* Panel — the primary container (spec §9.2) */
+
+.panel {
+  background: var(--bg-panel);
+  border: 1px solid var(--border-faint);
+  border-radius: var(--r-md);
+  position: relative;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  transition: border-color 0.3s var(--ease-cosmic);
+}
+
+.panel::before {
+  content: '';
+  position: absolute; top: 0; left: 0; right: 0;
+  height: 1px;
+  background: linear-gradient(to right,
+    transparent 8%, rgba(255,255,255,0.04) 50%, transparent 92%);
+}
+
+.panel:hover { border-color: var(--border-strong); }
+
+.panel .br {
+  position: absolute; width: 8px; height: 8px;
+  border-color: var(--amber);
+  opacity: 0.4;
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+.panel:hover .br { opacity: 0.7; }
+.panel .br.tl  { top: 6px;    left: 6px;  border-top: 1px solid; border-left: 1px solid; }
+.panel .br.tr  { top: 6px;    right: 6px; border-top: 1px solid; border-right: 1px solid; }
+.panel .br.bl  { bottom: 6px; left: 6px;  border-bottom: 1px solid; border-left: 1px solid; }
+.panel .br.br2 { bottom: 6px; right: 6px; border-bottom: 1px solid; border-right: 1px solid; }
+
+.p-head {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 11px 18px;
+  border-bottom: 1px solid var(--border-faint);
+  background: var(--bg-elevated);
+  gap: 12px;
+}
+.p-id {
+  font-family: var(--font-mono);
+  font-size: 9px; letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--amber);
+  background: var(--amber-soft);
+  border: 1px solid var(--amber-glow);
+  padding: 3px 8px;
+  border-radius: 4px;
+}
+.p-title {
+  font-family: var(--font-display);
+  font-size: 16px; font-weight: 500;
+  color: var(--fg-primary);
+  letter-spacing: -0.01em;
+}
+.p-sub {
+  font-family: var(--font-mono);
+  font-size: 9px; color: var(--fg-muted);
+  letter-spacing: 0.05em;
+}
+.p-body { padding: 18px; flex: 1; }
+.p-foot {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 8px 18px;
+  border-top: 1px solid var(--border-faint);
+  background: var(--bg-elevated);
+  font-family: var(--font-mono);
+  font-size: 9px; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--fg-muted);
+}
+.p-foot .led {
+  width: 6px; height: 6px; border-radius: 50%;
+  background: var(--status-resolved);
+  box-shadow: 0 0 4px var(--status-resolved);
+  animation: pulse 2s ease-in-out infinite;
+}
+.p-foot .led.am { background: var(--amber); box-shadow: 0 0 4px var(--amber); }
+.p-foot .led.cy { background: var(--cyan);  box-shadow: 0 0 4px var(--cyan); }
+.p-foot .led.cl { background: var(--status-anomaly); box-shadow: 0 0 4px var(--status-anomaly); }
+.p-foot .v.am   { color: var(--amber); }
+.p-foot .v.cy   { color: var(--cyan); }
+.p-foot .v.cl   { color: var(--status-anomaly); }
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0.4; }
+}
+
+/* KPI tile (spec §9.3) */
+
+.kpi {
+  background: var(--bg-panel);
+  border: 1px solid var(--border-faint);
+  border-radius: var(--r-md);
+  padding: 14px;
+  display: flex; flex-direction: column;
+  position: relative;
+  min-height: 144px;
+  overflow: hidden;
+}
+.kpi-num {
+  font-family: var(--font-display);
+  font-size: 36px; font-weight: 300;
+  letter-spacing: -0.02em;
+  color: var(--fg-primary);
+  font-feature-settings: "tnum";
+}
+.kpi-num.am { color: var(--amber); }
+.kpi-num.cy { color: var(--cyan); text-shadow: 0 0 14px var(--cyan-glow); }
+
+/* Buttons */
+
+.btn {
+  height: 44px;
+  padding: 0 24px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  border: 1px solid;
+  border-radius: var(--r-sm);
+  background: transparent;
+  cursor: pointer;
+  transition: all 200ms var(--ease-cosmic);
+}
+.btn-primary       { border-color: var(--amber); color: var(--amber); }
+.btn-primary:hover { background: var(--amber); color: var(--bg-void); box-shadow: 0 0 24px var(--amber-glow); }
+.btn-ghost         { border-color: var(--border-strong); color: var(--fg-secondary); }
+.btn-ghost:hover   { border-color: var(--fg-primary);   color: var(--fg-primary); }
+
+/* Status dots */
+
+.status-dot {
+  display: inline-block;
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  animation: pulse 2s ease-in-out infinite;
+}
+.status-dot.amber { background: var(--amber);          box-shadow: 0 0 6px var(--amber-glow); }
+.status-dot.cyan  { background: var(--cyan);           box-shadow: 0 0 6px var(--cyan-glow); }
+.status-dot.red   { background: var(--status-anomaly); box-shadow: 0 0 6px rgba(217,84,58,0.4); }
+.status-dot.green { background: var(--status-resolved); box-shadow: 0 0 6px rgba(91,217,160,0.4); }
+
+/* Mono uppercase label utility */
+.mono-label {
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  font-size: 11px;
+  color: var(--fg-muted);
+}
