@@ -10,11 +10,18 @@ const AGENCIES = ["All", "DoW", "FBI", "NASA", "DoS", "Other"] as const;
 export function ReportsGrid({ docs }: { docs: UfoDocument[] }) {
   const [agency, setAgency] = useState<(typeof AGENCIES)[number]>("All");
   const [query, setQuery] = useState("");
+  const [hideOcrPending, setHideOcrPending] = useState(false);
+
+  const ocrPendingCount = useMemo(
+    () => docs.filter((d) => isOcrPending(d.summary)).length,
+    [docs],
+  );
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     return docs.filter((d) => {
       if (agency !== "All" && d.agency !== agency) return false;
+      if (hideOcrPending && isOcrPending(d.summary)) return false;
       if (!q) return true;
       const blob = [
         d.title,
@@ -31,7 +38,7 @@ export function ReportsGrid({ docs }: { docs: UfoDocument[] }) {
         .toLowerCase();
       return blob.includes(q);
     });
-  }, [agency, query, docs]);
+  }, [agency, query, hideOcrPending, docs]);
 
   return (
     <>
@@ -94,6 +101,43 @@ export function ReportsGrid({ docs }: { docs: UfoDocument[] }) {
           {filtered.length} / {docs.length}
         </div>
       </div>
+
+      {ocrPendingCount > 0 && (
+        <div
+          className="flex items-center gap-3 mb-4 -mt-1"
+          style={{ fontSize: "11px" }}
+        >
+          <button
+            onClick={() => setHideOcrPending((v) => !v)}
+            className="font-mono"
+            style={{
+              fontSize: "10px",
+              letterSpacing: "0.22em",
+              textTransform: "uppercase",
+              padding: "5px 12px",
+              borderRadius: "var(--r-sm)",
+              border: `1px solid ${hideOcrPending ? "var(--status-anomaly)" : "var(--border-strong)"}`,
+              background: hideOcrPending ? "rgba(217,84,58,0.08)" : "transparent",
+              color: hideOcrPending ? "var(--status-anomaly)" : "var(--fg-secondary)",
+              cursor: "pointer",
+              transition: "all 200ms var(--ease-cosmic)",
+            }}
+          >
+            {hideOcrPending ? "✕ Hiding" : "Hide"} OCR-pending ({ocrPendingCount})
+          </button>
+          <span
+            className="font-mono"
+            style={{
+              fontSize: "10px",
+              letterSpacing: "0.18em",
+              textTransform: "uppercase",
+              color: "var(--fg-muted)",
+            }}
+          >
+            {ocrPendingCount} encrypted scan{ocrPendingCount === 1 ? "" : "s"} have metadata-only extraction
+          </span>
+        </div>
+      )}
 
       {/* Card grid */}
       <div
