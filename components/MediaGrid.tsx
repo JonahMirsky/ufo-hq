@@ -9,7 +9,7 @@ type Filter = (typeof FILTERS)[number];
 
 export function MediaGrid({ items }: { items: MediaItem[] }) {
   const [filter, setFilter] = useState<Filter>("All");
-  const [order, setOrder] = useState<"asc" | "desc">("asc");
+  const [order, setOrder] = useState<"asc" | "desc">("desc");
   const [active, setActive] = useState<MediaItem | null>(null);
 
   const filtered = useMemo(() => {
@@ -17,6 +17,7 @@ export function MediaGrid({ items }: { items: MediaItem[] }) {
     if (filter === "Images") out = out.filter((m) => m.kind === "image");
     if (filter === "Videos") out = out.filter((m) => m.kind === "video");
     if (order === "desc") {
+      // Items arrive sorted oldest→newest from the build; reverse for newest→oldest.
       out = [...out].reverse();
     }
     return out;
