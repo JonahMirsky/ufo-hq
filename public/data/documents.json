@@ -1428,6 +1428,71 @@
     "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_section_4.pdf"
   },
   {
+    "id": "65_hs1-834228961_62-hq-83894_section_5",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Section 5 / Serials 186-245 / FOIPA",
+    "title": "FBI HQ 62-HQ-83894 \u2014 Flying Discs / UFO Master File, Section 5 (Serials 186-245, 1949-1955+)",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1949-07-16",
+    "lag_years": 76.8,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [
+      "CONFIDENTIAL"
+    ],
+    "redaction_pct": null,
+    "page_count": 209,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf",
+    "summary": "Section 5 of FBI HQ master case file 62-HQ-83894, covering Serials 186-245 of the flying-discs file and spanning roughly 1949 through the mid-1950s. Cover envelope marks 'Section 5 / Serials 186-245' and bears the standard Pickett Street / Central Records Center / 'COPIED FOR PA' / 'DO NOT DESTROY' markings. Contents include: a 16 July 1949 FBI Office Memorandum from D.M. Ladd to The Director referencing the Office of the Adjutant Chief of Staff, G-2, Internal Security, Fourth Army (Albuquerque, NM) regarding flying disks and 'a small article which had appeared in the Galveston (Texas) News on 12 July 1949'; a 13 May 1950 FBI memo to Office of Special Investigations (USAF Inspector General, Bolling AFB DC) re flying disks of '4th Army Headquarters Albuquerque, New Mexico' related to an 'M. Edgar Hoover Director, Federal Bureau of Investigation' addressee; a 3 June 1949 letter from the University of California Graduate Department of Journalism to J. Edgar Hoover requesting interview/research data on flying-saucer dissertations and FBI investigative views; and a 26 August 1955 letter from Walter F. Howe of Toronto, Canada to the FBI on flying-disc topics with a Bureau intake stamp. Sample extraction from 209-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Section 5 covers Serials 186-245 of 62-HQ-83894 and extends the master file from mid-1949 into the mid-1950s.",
+      "Section opens with a 16 July 1949 FBI Office Memorandum from D.M. Ladd to The Director re flying disks, referencing G-2 Internal Security correspondence from Fourth Army Headquarters, Albuquerque, New Mexico, and a Galveston (TX) News article dated 12 July 1949.",
+      "Includes 13 May 1950 FBI correspondence to USAF Office of Special Investigations (OSI), Inspector General, Department of the Air Force, Bolling AFB, Washington DC, on flying disks \u2014 illustrating FBI/USAF OSI liaison post-Project SIGN.",
+      "Contains a 3 June 1949 letter from a graduate student at the University of California Graduate Department of Journalism, addressed to J. Edgar Hoover, requesting Bureau materials on flying-saucer dissertations / academic research.",
+      "Includes a 26 August 1955 letter from Walter F. Howe, Toronto, Canada, addressed to The Federal Bureau of Investigation, on flying-disc topics \u2014 example of international civilian correspondence routed to FBI HQ in the post-Robertson Panel era.",
+      "Cover envelope marks 'Section 5 / Serials 186-245' and shows multiple Pickett Street / Privacy Act processing stamps.",
+      "Bureau routing stamps (RECEIVED, AUG 5 1955; etc.) confirm continued central-records processing into mid-1950s.",
+      "Section captures the Bureau's transition from active 1947-49 collection to its post-1949 posture of forwarding civilian disc letters to USAF and replying that 'this matter has not been investigated by the FBI'."
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_section_5#0",
+      "65_hs1-834228961_62-hq-83894_section_5#1",
+      "65_hs1-834228961_62-hq-83894_section_5#2"
+    ],
+    "person_refs": [
+      "D.M. Ladd (FBI Assistant Director)",
+      "J. Edgar Hoover (Director, FBI)",
+      "Walter F. Howe (Toronto, Canada correspondent, 26 Aug 1955)"
+    ],
+    "unit_refs": [
+      "FBI Headquarters Central Records Center",
+      "Fourth Army Headquarters G-2 Internal Security, Albuquerque, NM",
+      "USAF Office of Special Investigations (OSI), Bolling AFB",
+      "USAF Inspector General"
+    ],
+    "agency_refs": [
+      "Federal Bureau of Investigation",
+      "U.S. Army Fourth Army",
+      "U.S. Air Force"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Albuquerque, New Mexico (Fourth Army HQ)",
+      "Bolling AFB, Washington DC",
+      "Berkeley, California (UC Graduate Dept of Journalism)",
+      "Toronto, Ontario, Canada (Walter F. Howe correspondent)",
+      "Galveston, Texas (referenced press article 12 July 1949)"
+    ],
+    "declassified_date": null,
+    "declassified_by": "FOIPA release",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_section_5.pdf"
+  },
+  {
     "id": "65_hs1-834228961_62-hq-83894_section_6",
     "source": "DoW-PURSUE",
     "external_id": "62-HQ-83894 Section 6 (HS1-834228961)",
@@ -1633,6 +1698,66 @@
       "Truman Bethurum"
     ],
     "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_section_8.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_section_9",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Section 9 (HS1-834228961)",
+    "title": "FBI HQ Case 62-HQ-83894 \u2014 Flying Discs / UFO File, Section 9 (1957-1960, Levelland-era 1957 Wave & Joseph Perry MI 1960)",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1957-11-14",
+    "lag_years": 68.5,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [],
+    "redaction_pct": null,
+    "page_count": 290,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf",
+    "summary": "Section 9 of FBI HQ main UFO case file 62-HQ-83894, anchored to the November 1957 Levelland-era U.S. UFO wave and continuing through April 1960. The section opens with a 14 November 1957 Office Memorandum from SAC Dallas (62-1311) to Director, FBI, subject 'FLYING DISCS \u2014 INFORMATION CONCERNING', which states 'Re Kansas City letter 11-8-57. This matter is being referred to OSI without investigation and no other action is being taken in accordance with existing instructions.' Distribution: 2 Bureau / 1 Kansas City (66-2995) / 1 Dallas. The middle of the section contains a 21 April 1960 Office Memorandum from Director Hoover (signed 'JOHN EDGAR HOOVER, Director') to the Office of Special Investigations Air Force (Attention Chief, Counterintelligence Division), subject 'UNIDENTIFIED FLYING OBJECT \u2014 JOSEPH PERRY, GRAND BLANC, MICHIGAN \u2014 COMPLAINANT (NATIONALITIES INTELLIGENCE)' enclosing a copy of a 13 April 1960 letter from Perry plus the Bureau's reply (cc Detroit). Section 9 documents the FBI's standardized late-1950s policy: refer flying-disc reports to USAF OSI without investigation. Sample extraction from 290-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Section 9 anchor records: SAC Dallas memorandum 14 November 1957 (62-83894-385); 21 April 1960 Hoover memorandum to AF OSI on Joseph Perry (Grand Blanc, Michigan) UFO complaint (62-83894-417).",
+      "Codified late-1957 FBI policy on flying disc reports \u2014 'This matter is being referred to OSI without investigation and no other action is being taken in accordance with existing instructions.' (Dallas referencing Kansas City 8 Nov 1957 letter; FBI HQ field offices Bureau, Kansas City 66-2995, Dallas 62-1311).",
+      "Section serial range falls in the 'Levelland Wave' period \u2014 early November 1957 was the peak of the Levelland TX / U.S. nationwide UFO flap (\u2248111 reports filed at NICAP in two-week period); FBI HQ files reflect public mail volume.",
+      "21 April 1960 Hoover memo on 'Joseph Perry, Grand Blanc, Michigan, Complainant' classified under Bureau category 'NATIONALITIES INTELLIGENCE' \u2014 a continuation of FBI inter-agency referral of UFO matters to AF OSI Counterintelligence Division.",
+      "Cover folder shows Section 9 carries serials approximately 322-347 (HS1-834228961 archival numbering visible on file binder).",
+      "FBI continues its 1953-onward policy of forwarding UFO sightings to USAF Project Blue Book / OSI without conducting own investigation."
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_section_9#0",
+      "65_hs1-834228961_62-hq-83894_section_9#1"
+    ],
+    "person_refs": [
+      "John Edgar Hoover (FBI Director)",
+      "SAC Dallas (FBI 62-1311)",
+      "Joseph Perry (Grand Blanc, Michigan complainant)"
+    ],
+    "unit_refs": [
+      "FBI Dallas Field Office (62-1311)",
+      "FBI Kansas City Field Office (66-2995)",
+      "FBI Detroit Field Office"
+    ],
+    "agency_refs": [
+      "FBI Headquarters",
+      "U.S. Air Force Office of Special Investigations (OSI), Counterintelligence Division"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Dallas, Texas",
+      "Kansas City, Missouri/Kansas",
+      "Grand Blanc, Michigan",
+      "Detroit, Michigan"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "referred to OSI without investigation",
+      "FLYING DISCS \u2014 INFORMATION CONCERNING"
+    ],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_section_9.pdf"
   },
   {
     "id": "65_hs1-834228961_62-hq-83894_serial_130",
