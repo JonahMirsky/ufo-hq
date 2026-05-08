@@ -1,16 +1,5 @@
-import { promises as fs } from "node:fs";
-import path from "node:path";
-
-type Metrics = {
-  generated_at: string;
-  headline: Record<string, string | number | null>;
-};
-
-async function loadMetrics(): Promise<Metrics> {
-  const file = path.join(process.cwd(), "public", "data", "metrics.json");
-  const raw = await fs.readFile(file, "utf-8");
-  return JSON.parse(raw) as Metrics;
-}
+import { TopNav } from "../components/TopNav";
+import { loadMetrics } from "../lib/data";
 
 const KPI_ORDER: { key: string; label: string; tone?: "am" | "cy"; suffix?: string }[] = [
   { key: "TM_02_total_documents", label: "Documents", tone: "am" },
@@ -30,8 +19,9 @@ export default async function HomePage() {
 
   return (
     <div className="min-h-screen flex flex-col">
+      <TopNav />
       {/* Hero */}
-      <section className="flex flex-col items-center justify-center text-center px-6 pt-32 pb-24 min-h-[80vh]">
+      <section className="flex flex-col items-center justify-center text-center px-6 pt-32 pb-24 min-h-[70vh]">
         <div className="mono-label" style={{ letterSpacing: "0.32em" }}>
           UFO-HQ
         </div>
