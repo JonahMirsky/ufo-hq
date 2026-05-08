@@ -201,6 +201,114 @@
     "pdf_url_local": "/reports/2024-04-30-composite-sketch.pdf"
   },
   {
+    "id": "255_413270_ufo_s_and_defense_what_should_we_prepare_for",
+    "source": "DoW-PURSUE",
+    "external_id": "RG255-413270",
+    "title": "UFOs and Defense: What Should We Prepare For? (The COMETA Report)",
+    "agency": "NASA",
+    "document_type": "report",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-07-01",
+    "lag_years": 26.8,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 94,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf",
+    "summary": "The COMETA Report \u2014 a 1999 independent French study by an association of senior officers and scientists (mostly former auditors of the Institut des Hautes Etudes de Defense Nationale, IHEDN) that examined the UFO phenomenon and its national-defense implications. The cover memo (handwritten note from Jon Cypher, with letter from Carol Rosin dated April 30, 2001 to recipient \"Dan\") indicates this copy was hand-delivered as a private \u2014 not government \u2014 report supplemented with John Callahan testimony, Mexico City controller Enrique Kolbeck radar section, and other materials. Sample extraction from 94-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Independent French report (private, not government) authored July 1999 by COMETA, an IHEDN-affiliated committee chaired by Air Force General Denis Letty, with foreword by General Bernard Norlain and Prof. Andre Lebeau (former CNES chairman).",
+      "Argues the accumulation of well-documented sightings \u2014 over 500 reported by pilots and air-traffic controllers since the 1940s \u2014 forces serious consideration of the extraterrestrial hypothesis as one possible explanation alongside conventional ones.",
+      "Catalogs five major aeronautical cases (Lakenheath UK 1956, RB-47 USA 1957, Tehran Iran 1976, San Carlos de Bariloche Argentina, plus French AF 3532 1994), three French pilot testimonies (Giraud Mirage IV 1977, Bosc T-33 1976, Duboc Air France 1994), three ground sightings, and four French close encounters.",
+      "Documents radar/visual confirmation, electronic interference, aircraft shadowing, and apparently aggressive UFO conduct \u2014 recurring patterns across hundreds of confirmed aeronautical cases.",
+      "Recommends informing pilots/controllers of reflex responses, expanding GEPAN/SEPRA work at CNES, passive techno-watch on advanced propulsion (magnetohydrodynamics, particle beams), and considering strategic, political, and religious consequences of confirming the extraterrestrial hypothesis.",
+      "Appendix 5 details the Roswell affair as a case of both reducing and amplifying disinformation, citing the 1994 GAO inquiry, destroyed Roswell base administrative records 1945-1949, and Robertson Committee CIA recommendations to strip UFOs of their \"aura of mystery\".",
+      "Specifically calls out Philip Klass (Aviation Week & Space Technology) for unconvincing debunking attempts on Lakenheath 1956, RB-47 1957, and Tehran 1976 cases.",
+      "The cover transmittal notes the package included John Callahan's testimony with supporting documentation (p. 62) and senior Mexico City air-traffic-controller Enrique Kolbeck's account (p. 105) alongside the radar section."
+    ],
+    "incident_refs": [
+      "255_413270_ufo_s_and_defense_what_should_we_prepare_for#0",
+      "255_413270_ufo_s_and_defense_what_should_we_prepare_for#1",
+      "255_413270_ufo_s_and_defense_what_should_we_prepare_for#2",
+      "255_413270_ufo_s_and_defense_what_should_we_prepare_for#3",
+      "255_413270_ufo_s_and_defense_what_should_we_prepare_for#4"
+    ],
+    "person_refs": [
+      "Gen. Denis Letty",
+      "Gen. Bernard Norlain",
+      "Prof. Andre Lebeau",
+      "Jean-Jacques Velasco",
+      "Jean-Charles Duboc",
+      "Valerie Chauffour",
+      "Herve Giraud",
+      "Col. Claude Bosc",
+      "Carol Rosin",
+      "Jon Cypher",
+      "John Callahan",
+      "Enrique Kolbeck",
+      "Philip Klass",
+      "Brad Sparks",
+      "James MacDonald",
+      "J. Allen Hynek"
+    ],
+    "unit_refs": [
+      "IHEDN",
+      "COMETA",
+      "GEPAN",
+      "SEPRA",
+      "CNES",
+      "ONERA",
+      "DGA"
+    ],
+    "agency_refs": [
+      "French Air Force",
+      "Gendarmerie Nationale",
+      "USAF",
+      "RAF",
+      "FAA",
+      "CIA",
+      "NASA"
+    ],
+    "operation_refs": [
+      "Project Blue Book",
+      "Project Mogul",
+      "Robertson Committee"
+    ],
+    "platform_refs": [
+      "Mirage IV",
+      "T-33",
+      "Air France Boeing (AF 3532)",
+      "RB-47",
+      "Venom (RAF night fighter)"
+    ],
+    "location_refs": [
+      "Dijon, France",
+      "Luxeuil AB, France",
+      "Tours, France",
+      "Coulommiers, Seine-et-Marne, France",
+      "Lakenheath, UK",
+      "Bentwaters, UK",
+      "Mississippi, USA",
+      "Louisiana, USA",
+      "Texas, USA",
+      "Tehran, Iran",
+      "San Carlos de Bariloche, Argentina",
+      "Roswell, NM, USA",
+      "Trans-en-Provence, France",
+      "Tilaran range, Costa Rica"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "Stripping the UFO phenomenon of its irrational layer.",
+      "Concrete problems are raised that call for a response in terms of action.",
+      "My machine guns are locked onto him."
+    ],
+    "pdf_url_local": "/reports/255_413270_ufo_s_and_defense_what_should_we_prepare_for.pdf"
+  },
+  {
     "id": "255_t_763_r1b_transcripts",
     "source": "DoW-PURSUE",
     "external_id": "Tape No. T-00763(R1b)",
@@ -260,6 +368,108 @@
       "IT LOOKS LIKE HUNDREDS OF LITTLE PARTICLES GOING BY TO THE LEFT OUT ABOUT THREE OR FOUR MILES"
     ],
     "pdf_url_local": "/reports/255_t_763_r1b_transcripts.pdf"
+  },
+  {
+    "id": "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents",
+    "source": "DoW-PURSUE",
+    "external_id": "SHAEF/AIR/TS.37153/A.2",
+    "title": "SHAEF AIR/TS.37153 \u2014 'Night Phenomenon' / 'Foofighter' / 'Balls of Fire-Red' / Long Cylindrical Object Reports, Dec 1944 - Mar 1945",
+    "agency": "DoW",
+    "document_type": "report",
+    "published_at": "2026-05-08",
+    "date_authored": "1945-03-16",
+    "lag_years": 81.1,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 5,
+    "page_count": 17,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/331_120752_numeric_files_1944\u20131945_37153_german_armament_equipment_documents.pdf",
+    "summary": "Declassified SHAEF (Supreme Headquarters Allied Expeditionary Force) Air Staff file 37153 compiling correspondence between SHAEF, the Air Ministry, USSTAF, IXth TAC, XII Tactical Air Command, and the 415th Night Fighter Squadron concerning unexplained 'foo-fighter' night phenomena (December 1944 - January 1945) over the European Theater, plus a March 1945 report from 67 TAC/R 107 Squadron of an aluminum-colored cylindrical object photographed at 9,000 ft. Air Ministry assessment (March 1945): some objects may be Me 262s, the rest most likely flak rockets, but evidence sketchy and the matter is 'still something of a mystery.' ADI(K) suggests possible 'Flak Bombe' link to A.D.I.(K) Report No. 562/1944 paragraphs 128-129.",
+    "key_findings": [
+      "415th Night Fighter Squadron reports beginning Dec 1944 of lights blinking on/off changing colors, flying formation with Allied aircraft, agitating crews; phenomenon dubbed 'Foofighters'.",
+      "GCI Control consistently reported no bogey aircraft in area when pilots called for confirmation.",
+      "67 TAC/R 107 Squadron pilot photographed an aluminum-colored cylindrical object ~12 ft long x 1 ft diameter floating vertically at 9,000 ft vicinity F-5710 on 1 March 1945; engaged with cannon, partially deflated and red flame without smoke resulted, but cylinder did not disintegrate.",
+      "Photos of the cylindrical object proved unsuccessful (HQ IX TAC report, 14 March 1945).",
+      "Air Ministry attributed some sightings possibly to Me 262 jets, the remainder likely to flak rockets; whole affair remains unexplained.",
+      "Mr. Robertson, Scientific Investigation Division, was asked to consider the problem.",
+      "Pilots were 'becoming slightly worried' by the phenomena per SHAEF Air Staff (11 February 1945).",
+      "Possible 'Flak Bombe' tie-in per ADI(K) Wing Commander S.D. Felkin, 17 February 1945."
+    ],
+    "incident_refs": [
+      "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents#0",
+      "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents#1",
+      "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents#2",
+      "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents#3",
+      "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents#4",
+      "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents#5",
+      "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents#6",
+      "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents#7",
+      "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents#8",
+      "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents#9",
+      "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents#10",
+      "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents#11",
+      "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents#12",
+      "331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents#13"
+    ],
+    "person_refs": [
+      "A/Cdr C.M. Grierson",
+      "Group Captain E.D.M. Hopkins",
+      "Lt-Col T.G. Ames",
+      "Lt-Col Leavitt Corning Jr.",
+      "Col C.A. Young",
+      "Major S.V. Boykin",
+      "Capt F.B. Ringwald",
+      "Wing Commander S.D. Felkin",
+      "Gen Quesada",
+      "Mr. Robertson"
+    ],
+    "unit_refs": [
+      "415th Night Fighter Squadron",
+      "XII Tactical Air Command",
+      "First Tactical Air Force (Prov)",
+      "67 TAC/R Group",
+      "107 Squadron",
+      "HQ IX TAC",
+      "Ninth Air Force"
+    ],
+    "agency_refs": [
+      "SHAEF",
+      "Air Ministry (UK)",
+      "USSTAF",
+      "ADI(K)",
+      "Bomber Command",
+      "DDI2",
+      "ACIU"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "P-61 Black Widow (415 NFS)",
+      "Me 262 (suggested explanation)"
+    ],
+    "location_refs": [
+      "Erstein",
+      "Breisach",
+      "Sarrebourg",
+      "Strasbourg",
+      "Saverne",
+      "Luneville",
+      "Worms",
+      "Ingweiler",
+      "Weissembourg",
+      "Landau",
+      "Nagenau",
+      "F-5710 vicinity"
+    ],
+    "declassified_date": null,
+    "declassified_by": "NND 947020",
+    "approved_for_release_to": "NARA",
+    "redaction_codes": [],
+    "notable_quotes": [
+      "We have encountered a phenomenon which we cannot explain; crews have been followed by lights that blink on and off changing colors etc.",
+      "An aluminum colored cylinder shaped object, about 12 ft long and 1 ft in diameter was observed floating in the air at 9,000 ft.",
+      "The whole affair is still something of a mystery and the evidence is very sketchy"
+    ],
+    "pdf_url_local": "/reports/331_120752_numeric_files_1944_1945_37153_german_armament_equipment_documents.pdf"
   },
   {
     "id": "341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399",
@@ -500,6 +710,125 @@
       "circular object with a crystal-type dome that reflected lights"
     ],
     "pdf_url_local": "/reports/65_hs1-101634279_100-de-18221_serial_844.pdf"
+  },
+  {
+    "id": "65_hs1-101634279_100-de-26505",
+    "source": "DoW-PURSUE",
+    "external_id": "100-DE-26505",
+    "title": "FBI Detroit File 100-DE-26505 \u2014 Krasuski UFO Interview, Detroit 1957",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1957-11-07",
+    "lag_years": 68.5,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 5,
+    "page_count": 15,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-101634279_100-de-26505.pdf",
+    "summary": "FBI Detroit Field Office case file documenting the November 7, 1957 interview of Wladyslaw 'Walter' Krasuski, a former Polish POW employed at Gobel Brewery, Detroit. Krasuski reported that during 1944 while a German POW at Gut Alt Golssen (~30 miles east of Berlin), his work-crew tractor stalled near a tarpaulin-walled circular enclosure from which a circular dark-gray vehicle ~75-100 yards in diameter and ~14 feet high rose vertically and moved away. The file also contains a 1966 inquiry/response with the Oklahoma UFO Research Association.",
+    "key_findings": [
+      "Krasuski (Polish POW) observed at ~500 ft a circular dark-gray craft 75-100 yards in diameter and ~14 ft high in 1944 at Gut Alt Golssen, Germany.",
+      "Vehicle had stationary top and bottom sections with a rapidly-moving center section producing a propeller-like blur extending the full circumference.",
+      "Tractor engine stalled when high-pitched whining noise was present (twice); engine started normally each time the noise stopped \u2014 possible EMI effect.",
+      "Site was secured by SS guards inside a ~50 ft tarpaulin enclosure with uninsulated copper-like cables (~1.5-2 in diameter) running on/under the ground.",
+      "Krasuski wrote to Robert Cutler (Special Assistant to President Eisenhower) after hearing about a 'rocket in Texas' on a Polish radio program; SAC Detroit interviewed him 11/7/1957.",
+      "Interviewing agent (SA Cassius Rathbun) found no indication of irrational or abnormal behavior."
+    ],
+    "incident_refs": [
+      "65_hs1-101634279_100-de-26505#0"
+    ],
+    "person_refs": [
+      "Wladyslaw Krasuski (aka Walter Krasuski)",
+      "Franciszek Grabowski",
+      "Robert Cutler",
+      "President Dwight D. Eisenhower",
+      "SA Cassius Rathbun",
+      "Kerry Liesch",
+      "Paul H. Stoddard"
+    ],
+    "unit_refs": [
+      "FBI Detroit Field Office",
+      "FBI Headquarters",
+      "Oklahoma UFO Research Association"
+    ],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Gut Alt Golssen, Germany (~30 mi east of Berlin)",
+      "Detroit, Michigan",
+      "5457 Joseph Campau, Detroit"
+    ],
+    "declassified_date": "1985-05-22",
+    "declassified_by": null,
+    "approved_for_release_to": "FOIA",
+    "redaction_codes": [
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "circular in shape, 75 to 100 yards in diameter, and about 14 feet high, consisting of dark gray stationary top and bottom sections.",
+      "engine of the tractor again stalled on this occasion and no effort was made by the German driver to start the engine until the noise stopped"
+    ],
+    "pdf_url_local": "/reports/65_hs1-101634279_100-de-26505.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_serial_220",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Serial 220",
+    "title": "FBI HQ File 62-HQ-83894 Serial 220 \u2014 Garcia Macias / Robles 'Flying Saucer' Material, Mexico, 1950",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1950-03-19",
+    "lag_years": 76.1,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 15,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_220.pdf",
+    "summary": "FBI HQ serial 220 contains a March 19, 1950 letter (and English translation by Sophia Saliba) from Miguel Angel Garcia Macias of Veracruz, Mexico, addressed to the President of the (purported) U.S. Commission of Scientific Investigation describing his 'ideographic' invention concepts including 'Stratospheric Aerostats' (which he calls 'aereo-astactos extratofericos' or 'flying saucers'). Includes hand-drawn schematic plates titled 'Estabilidad Conica-Global' and 'Helice / Capto-Aereo-Fuerza' depicting flying-disc-like devices powered by 'Atomic Force', plus a Mexico newspaper clipping (March 16, 1950) titled 'Las Primeras Fotografias de un Plato Volador, Logradas en Durango a Nueve mil Pies de Altura' showing alleged Durango flying-saucer photos by Horacio Robles Jr.",
+    "key_findings": [
+      "Garcia Macias proposed an 'atomic-force' powered flying-saucer-like 'stratospheric aerostat' to the U.S. and described his prior, allegedly stolen, 'Gote-Graduns' (drop graduator) and 'Automatic Shovels' inventions.",
+      "Newspaper clipping: civil engineering student German Horacio Robles Jr. claims to be the first to photograph a 'flying saucer' over Durango at 8,000-9,000 ft altitude described as a double-truncated cone joined at its bases moving by jet-like propulsion.",
+      "Robles described the saucer as appearing under apparently different forms by changing position to use motive force.",
+      "Material is correspondence/proposal, not a witness sighting; FBI New York stamp 'APR 7 1950' indicates date of receipt.",
+      "Translator: Sophia Saliba."
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_serial_220#0"
+    ],
+    "person_refs": [
+      "Miguel Angel Garcia Macias",
+      "German Horacio Robles Jr.",
+      "Sophia Saliba"
+    ],
+    "unit_refs": [
+      "FBI Central Records Center",
+      "FBI Headquarters",
+      "FBI New York"
+    ],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Veracruz, Mexico",
+      "Durango, Mexico",
+      "New York"
+    ],
+    "declassified_date": "2007-05-24",
+    "declassified_by": "FBI Automatic Declassification Guide",
+    "approved_for_release_to": "FOIA",
+    "redaction_codes": [],
+    "notable_quotes": [
+      "stratospheric aerostats or Flying saucers as people commonly call them",
+      "double truncated cone, joined at its bases which moves by something like jet propulsion"
+    ],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_serial_220.pdf"
   },
   {
     "id": "65_hs1-834228961_62-hq-83894_serial_403",
@@ -1516,6 +1845,75 @@
       "4X UAP OBSERVED FLYING IN [redacted] FOV. CLOUD COVERAGE OBSTRUCTED [redacted] FROM FOLLOWING AND GETTING A CLEAR VISUAL."
     ],
     "pdf_url_local": "/reports/dow-uap-d3-mission-report-arabian-gulf-2020.pdf"
+  },
+  {
+    "id": "dow-uap-d32-mission-report_-syria-october-2024",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 25-0100 thru 25-0103 / JS-250710-TM8S / Misrep undefined-10541508",
+    "title": "USCENTCOM Mission Report \u2014 Syria, 20-21 October 2024",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2024-10-21",
+    "lag_years": 1.6,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 25,
+    "page_count": 10,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report,-syria-october-2024.pdf",
+    "summary": "12 SOS ISR sortie from OJMS conducted three FMV/SIGINT collection blocks over Syria ISO Operation Inherent Resolve targeting a VEO. During the second on-station window, between 1559Z and 1644Z, the aircrew observed multiple light/glare anomalies on the FMV camera feed described as a mishapen, uneven white ball of light traversing the field of view; assessed Benign and Plasma-state, propulsion unknown.",
+    "key_findings": [
+      "ISR aircraft observed UAP activity 1559Z-1644Z 20OCT24 IVO 37SFU36, recorded on FMV; described as a mishapen and uneven ball of white light, plasma physical state, propulsion unknown.",
+      "Multiple light/glare passes observed at 1559Z, 1602Z and 1644Z crossing directly over the FMV camera; halo effect at top of feed at 1609Z and 1620Z.",
+      "Aircrew assessed the event was not a lasing event and UAP was Benign with no mission impact.",
+      "20:24 mission hours, 14:22 FMV hours, 3 FMV taskings prosecuted, 13:02 SIGINT hours; FMV exploited by GET.",
+      "Aircraft equipped with AN/DAS-4 TGT pod, AH/GMESH/SANTA FE avionics, Link 16; originating unit 12 SOS / 27 SOW under AFSOC.",
+      "Friendly aircraft was at 20,088 ft, 144 KTS, in orbit during the UAP event."
+    ],
+    "incident_refs": [
+      "dow-uap-d32-mission-report_-syria-october-2024#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "12 SOS",
+      "56 SOIS",
+      "27 SOW",
+      "609 CAOC",
+      "609th"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AFSOC",
+      "AARO"
+    ],
+    "operation_refs": [
+      "OPERATION INHERENT RESOLVE"
+    ],
+    "platform_refs": [],
+    "location_refs": [
+      "Syria",
+      "OJMS (Muwaffaq Salti AB), Jordan",
+      "MGRS 37SFU36",
+      "MGRS 37SFV85"
+    ],
+    "declassified_date": "2025-10-24",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "(b)(1)1.4a",
+      "(b)(1)1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "MISHAPEN AND UNEVEN BALL OF WHITE LIGHT.",
+      "LIGHT/GLARE FROM UNKNOWN ORIGIN FLASHED ACCROSS FMV CAMERA FEED."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d32-mission-report_-syria-october-2024.pdf"
   },
   {
     "id": "dow-uap-d33-mission-report-greece-october-2023",
@@ -2736,6 +3134,147 @@
     "pdf_url_local": "/reports/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf"
   },
   {
+    "id": "dow-uap-d62-mission-report-strait-of-hormuz-september-2020",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 26-0019 / Misrep 4782130",
+    "title": "USCENTCOM Mission Report \u2014 Arabian Gulf / Strait of Hormuz, 15-16 September 2020",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2020-09-16",
+    "lag_years": 5.6,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 30,
+    "page_count": 9,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf",
+    "summary": "MQ-class ISR sortie (482 ATKS) flew a 20.9-hr AREC mission from OKAS supporting NAVCENT to characterize IRIN/IRGCN vessels and UAS activity over the Arabian Gulf, Strait of Hormuz, and Gulf of Oman. The aircraft was hailed three times on guard by Iranian Air Defense, suffered two EMI lost-link events, and observed a UAP at 1732Z on 16 September 2020 via FMV.",
+    "key_findings": [
+      "Aircraft observed a UAP at 1732Z 16SEP20 vicinity MGRS 39RVM5170 at FL180, captured via FMV.",
+      "Three Iranian Air Defense guard calls received on 243.000 MHz between 0408Z and 1141Z; standard responses given, no mission impact.",
+      "Two EMI lost-link events (1248Z-1259Z and 1414Z-1441Z) caused complete affected-system loss and forced flight path deviations; medium mission impact.",
+      "Mission supported NAVCENT IVO Arabian Gulf, Strait of Hormuz, and Gulf of Oman; observed an IR-SA-5 launcher on Abu Musa Island and 2x possible Houdong patrol craft pierside.",
+      "Total mission time 20h 56m; weather not a factor; FMV exploited by DGS1.",
+      "Originating unit 482 ATKS, 432 AEW; AREC mission; sensors ANDAS4 / AH_GMESH."
+    ],
+    "incident_refs": [
+      "dow-uap-d62-mission-report-strait-of-hormuz-september-2020#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "482 ATKS",
+      "432 AEW",
+      "609 CAOC",
+      "12 AF Det 3 PAROC",
+      "609th AOC"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "NAVCENT",
+      "ACC",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Arabian Gulf",
+      "Strait of Hormuz",
+      "Gulf of Oman",
+      "Abu Musa Island",
+      "OKAS"
+    ],
+    "declassified_date": "2026-01-22",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "AT 1732Z, OBSERVED A UAP IVO 39RVM51",
+      "EXPERIENCED LOST LINK TO POSSIBLE [REDACTED] REGAINED LINK AT 1259Z."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf"
+  },
+  {
+    "id": "dow-uap-d63-mission-report-strait-of-hormuz-october-2020",
+    "source": "DoW-PURSUE",
+    "external_id": "MISREP 4871281",
+    "title": "USCENTCOM Mission Report \u2014 Strait of Hormuz, October 2020",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2020-10-02",
+    "lag_years": 5.6,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 8,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf",
+    "summary": "USAF AREC mission supporting NAVCENT IVO Arabian Gulf, Strait of Hormuz and Gulf of Oman on 01-02 October 2020. Aircraft from 482 ATKS observed 1x UAP at 1829Z and characterized Iranian/IRGCN vessels including 1x UI aircraft on Abu Musa Island airfield runway, 1xU/I aircraft, and an ATR 72-500 assessed as Naser WAP docked IVO Bushehr.",
+    "key_findings": [
+      "1x UAP observed at 1829Z during 20+ hour AREC mission supporting NAVCENT.",
+      "FMV exploited by DGS-1; 21 mission hours, 17.3 IMINT hours across 4 total taskings prosecuted.",
+      "1x UI aircraft observed on runway at Abu Musa Island airfield at 1244Z; 1x U/I aircraft at 1344Z.",
+      "ATR 72-500 at Abu Musa assessed to be possible Naser WAP docked IVO Bushehr Iran boatyard.",
+      "Five guard calls received from Iranian forces; standard responses given, no impact to mission.",
+      "Heavy haze precluded full IMINT analysis."
+    ],
+    "incident_refs": [
+      "dow-uap-d63-mission-report-strait-of-hormuz-october-2020#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "482 ATKS",
+      "432 AEW",
+      "609 AOC",
+      "609 CAOC",
+      "DGS-1",
+      "PAROC"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AFCENT",
+      "NAVCENT",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "ANDAS4",
+      "AH-BS_WARIO",
+      "AH/GMESH"
+    ],
+    "location_refs": [
+      "Strait of Hormuz",
+      "Arabian Gulf",
+      "Gulf of Oman",
+      "Abu Musa Island",
+      "Bushehr, Iran",
+      "OKAS"
+    ],
+    "declassified_date": "2026-03-16",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(1)",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "AT 1829Z OBSERVED 1X UAP, SEE OBSERVATION LINE 1.",
+      "HEAVY HAZE PRECLUDED IMINT ANALYSIS"
+    ],
+    "pdf_url_local": "/reports/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf"
+  },
+  {
     "id": "dow-uap-d64-mission-report-iran-november-2020",
     "source": "DoW-PURSUE",
     "external_id": "USCENTCOM MDR 26-0028 (Misrep 5039166)",
@@ -2809,6 +3348,78 @@
     "pdf_url_local": "/reports/dow-uap-d64-mission-report-iran-november-2020.pdf"
   },
   {
+    "id": "dow-uap-d65-mission-report-persian-gulf-july-2020",
+    "source": "DoW-PURSUE",
+    "external_id": "MISREP 4472514",
+    "title": "USCENTCOM Mission Report \u2014 Persian Gulf, July 2020",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2020-07-16",
+    "lag_years": 5.8,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 8,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d65-mission-report-persian-gulf-july-2020.pdf",
+    "summary": "USAF AREC mission from 482 ATKS supporting NAVCENT in Arabian Gulf/Strait of Hormuz/Gulf of Oman on 16-17 July 2020. Aircraft observed three unidentified aerial phenomena across roughly 5 hours (1830Z, 1920Z, 2345Z) during a 20-hour-plus ISR sortie. Also observed Iranian vessels: probable Naser WAP, probable Safir Kish, and possible Houdong/Naser docked at Bushehr.",
+    "key_findings": [
+      "Three separate UAP observations during single AREC mission: 1830Z, 1920Z, 2345Z (all FMV).",
+      "FMV exploited by DGS-1; 20.3 mission hours, 18.3 IMINT hours.",
+      "Iranian naval vessels characterized: probable Naser WAP, probable Safir Kish, possible Houdong, possible Naser docked at Bushehr.",
+      "All UAP observations made by aircraft transiting at FL190-FL200 in the Arabian Gulf."
+    ],
+    "incident_refs": [
+      "dow-uap-d65-mission-report-persian-gulf-july-2020#0",
+      "dow-uap-d65-mission-report-persian-gulf-july-2020#1",
+      "dow-uap-d65-mission-report-persian-gulf-july-2020#2"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "482 ATKS",
+      "432 AEW",
+      "609 AOC Det 1",
+      "609 CAOC",
+      "12 AF PAROC",
+      "DGS-1"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "ACC",
+      "NAVCENT",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "ANDAS4",
+      "AH/GMESH"
+    ],
+    "location_refs": [
+      "Arabian Gulf",
+      "Strait of Hormuz",
+      "Gulf of Oman",
+      "OKAS",
+      "Bushehr, Iran"
+    ],
+    "declassified_date": "2026-03-16",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(1)",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "AT 1830Z OBSERVED AN UNIDENTIFIED AERIAL PHENOMENON.",
+      "AT 2345Z OBSERVED AN UNIDENTIFIED AERIAL PHENOMENON IVO 39RUN6234236874"
+    ],
+    "pdf_url_local": "/reports/dow-uap-d65-mission-report-persian-gulf-july-2020.pdf"
+  },
+  {
     "id": "dow-uap-d7-mission-report-arabian-gulf-2020",
     "source": "DoW-PURSUE",
     "external_id": null,
@@ -2859,6 +3470,73 @@
       "WAS ABLE TO MAKE A NEXT TO SHOOT ON THE TRACK AND VISUALLY ID THE UAP IN THE TFLIR."
     ],
     "pdf_url_local": "/reports/dow-uap-d7-mission-report-arabian-gulf-2020.pdf"
+  },
+  {
+    "id": "dow-uap-d74-mission-report-syria-november-2023",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 25-0072 / Misrep 9381202",
+    "title": "USCENTCOM Mission Report \u2014 Syria, 9 November 2023",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2023-11-09",
+    "lag_years": 2.6,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "NOFORN"
+    ],
+    "redaction_pct": 50,
+    "page_count": 10,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf",
+    "summary": "ISR aircraft conducted multiple FMV/SIGINT collection blocks over Syria ISO Operation Inherent Resolve, supporting a VEO target development task. While returning to base at 2153Z on 9 November 2023, the aircrew observed a probable high-confidence UAP shaped like a bouncy ball traveling ~424 knots co-altitude that dropped altitude, safely passed the aircraft, and was tracked for ~7 minutes before going out of range.",
+    "key_findings": [
+      "Aircrew observed a probable HC UAP at 2153Z 09NOV23 starting IVO 37S ST 69 / 07 and last seen IVO 37S FT 28 / 03; UAP held ~424 knots constant for at least 7 minutes.",
+      "UAP shape described as a bouncy ball; physical state Solid; propulsion unknown; UAP came from south at near co-altitude, dropped altitude and safely passed the aircraft.",
+      "UAP advanced capabilities: 'YES, TRAVELED ~424KN CONSISTANTLY FOR AT LEAST 7MINS IN THE SHAPE OF A BOUNCY BALL.' Assessed Benign; no emissions, no aircrew effects.",
+      "Mission flown ISO Operation Inherent Resolve; three on-station blocks performing FMV/SIGINT collection at 38S MB 48/86 and 37S FU 81/06 IVO a building of interest.",
+      "Aircraft did not arrive on first tasked station at 38S MB 48/86 (see ON/OFF-STATION 1) \u2014 retasked to second SP at 0431Z.",
+      "FMV exploited; mission supported a VEO Global Campaign Plan target."
+    ],
+    "incident_refs": [
+      "dow-uap-d74-mission-report-syria-november-2023#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "609 CAOC",
+      "609th"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AARO"
+    ],
+    "operation_refs": [
+      "OPERATION INHERENT RESOLVE"
+    ],
+    "platform_refs": [],
+    "location_refs": [
+      "Syria",
+      "MGRS 37S ST 69",
+      "MGRS 37S FT 28",
+      "MGRS 37S ET 34",
+      "MGRS 38S MB 48/86",
+      "MGRS 37S FU 81/06"
+    ],
+    "declassified_date": "2025-06-02",
+    "declassified_by": "MG Brandon R. Tegtmeier, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "1X PROB HC UAP SHAPED AS A BOUNCY BALL COME FROM THE SOUTH AT NEAR CO-ALT.",
+      "TRAVELED ~424KN CONSISTANTLY FOR AT LEAST 7MINS IN THE SHAPE OF A BOUNCY BALL."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d74-mission-report-syria-november-2023.pdf"
   },
   {
     "id": "dow-uap-d75-mission-report-gulf-of-aden-july-2024",
@@ -4012,6 +4690,64 @@
     "pdf_url_local": "/reports/nasa-uap-d1-apollo-12-transcript-1969.pdf"
   },
   {
+    "id": "nasa-uap-d2-apollo-17-transcript-1972",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "Apollo 17 Air-to-Ground Voice Transcription \u2014 Tapes 5, 46, 47, 59, 60 (December 1972)",
+    "agency": "NASA",
+    "document_type": "transcript",
+    "published_at": "2026-05-08",
+    "date_authored": "1972-12-10",
+    "lag_years": 53.4,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 16,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d2-apollo-17-transcript-1972.pdf",
+    "summary": "Excerpts of the Apollo 17 air-to-ground voice transcript covering translunar coast through lunar orbit, December 1972. The crew (CDR Cernan, CMP Evans, LMP Schmitt) discusses three categories of anomalous observations: a bright field of jagged tumbling fragments seen shortly after S-IVB separation, a bright rotating object with two flashers seen at distance during translunar coast, and a flash on the lunar surface north of Grimaldi crater observed from lunar orbit. The crew also discusses retinal light flashes seen with eyes closed (the cosmic-ray phosphene phenomenon).",
+    "key_findings": [
+      "Shortly after S-IVB separation (MET ~03:34-03:42, 7 December 1972) the crew observed a large field of bright tumbling, jagged, flat flake-like particles drifting past the spacecraft windows; CMP photographed it on Frame 70, and the field went largely static once the maneuver completed.",
+      "The crew speculated the fragment field could be ice chunks, peeling paint, or debris off the S-IVB; CC noted a flag near the S-II/S-IVB had been observed peeling pre-launch.",
+      "On translunar coast (MET ~02:18:42, ~9 December 1972) CDR Cernan reported a bright object 10-12 Earth diameters away rhythmically flashing with one bright flash and one dull flash per rotation; later assessed as probably the S-IVB booster with two SLA panel flashers (CDR: 'It's something physical in the distance').",
+      "From lunar orbit (MET ~03:15:38, ~10 December 1972) LMP Schmitt reported seeing a bright flash on the lunar surface just north of Grimaldi crater, with a thin streak of light north of it; suggested checking seismometers for a small impact signature.",
+      "CDR reported retinal light flashes seen with eyes closed including a very bright spot 'like a train coming at you, only with a flash' \u2014 consistent with the cosmic-ray-induced phosphene phenomenon Apollo crews routinely reported (not an external aerial object).",
+      "Apollo 17 launched 7 December 1972 from KSC; transcript is unclassified NASA air-to-ground voice."
+    ],
+    "incident_refs": [
+      "nasa-uap-d2-apollo-17-transcript-1972#0",
+      "nasa-uap-d2-apollo-17-transcript-1972#1",
+      "nasa-uap-d2-apollo-17-transcript-1972#2"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "NASA"
+    ],
+    "operation_refs": [
+      "Apollo 17"
+    ],
+    "platform_refs": [
+      "Apollo Command/Service Module",
+      "S-IVB"
+    ],
+    "location_refs": [
+      "translunar coast",
+      "lunar orbit",
+      "Grimaldi crater",
+      "Oceanus Procellarum"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "There's a whole bunch of big ones on my window down there \u2014 just bright. It looks like the Fourth of July out of Ron's window.",
+      "It is a bright object, and it's obviously rotating because it's flashing. It's way out in the distance.",
+      "Hey, I just saw a flash on the lunar surface!"
+    ],
+    "pdf_url_local": "/reports/nasa-uap-d2-apollo-17-transcript-1972.pdf"
+  },
+  {
     "id": "nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973",
     "source": "DoW-PURSUE",
     "external_id": "MSC-07632",
@@ -4118,6 +4854,74 @@
       "I had one which I thought was a flash on the lunar surface"
     ],
     "pdf_url_local": "/reports/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf"
+  },
+  {
+    "id": "nasa-uap-d7-skylab-technical-crew-debriefing-1973",
+    "source": "DoW-PURSUE",
+    "external_id": "JSC-08053 / JSC-08478 / JSC-08809",
+    "title": "Skylab Technical Crew Debriefings \u2014 Skylab 1/2 (Jun 1973), 1/3 (Oct 1973), 1/4 (Feb 1974)",
+    "agency": "NASA",
+    "document_type": "transcript",
+    "published_at": "2026-05-08",
+    "date_authored": "1973-06-30",
+    "lag_years": 52.9,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 11,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf",
+    "summary": "NASA Lyndon B. Johnson Space Center technical crew debriefing excerpts from the Skylab 1/2, 1/3 and 1/4 missions covering visual sightings and unusual visual phenomena. Crew members Conrad, Kerwin, Weitz (SL-2); Bean, Lousma, Garriott (SL-3); and Carr, Pogue, Gibson (SL-4) discussed cosmic-ray light flashes seen with eyes closed, an unidentified bright reddish satellite-like object tracked from Skylab, and other visual sightings of debris/satellites.",
+    "key_findings": [
+      "Skylab crews reported recurrent eye-closed light flashes (sunbursts/streaks), suspected to correlate with the South Atlantic anomaly; crews report 2-3 per minute at peak.",
+      "SL-3 crew (Garriott, Bean, Lousma) tracked a bright reddish object out the wardroom window for ~10 minutes ~1 week before splashdown; estimated 30-50 nautical miles away with a ~10-second rotation period; never identified.",
+      "SL-3 reported the object was much brighter than Jupiter, held position within 10-20 degrees of original location across the 10-minute observation, then disappeared into Earth shadow ~5-7 seconds after Skylab.",
+      "SL-4 (Carr) reported 2-3 sightings of lights flashing outside Skylab with definite motion relative to the spacecraft; presumed to be Skylab debris or other satellites but not identified."
+    ],
+    "incident_refs": [
+      "nasa-uap-d7-skylab-technical-crew-debriefing-1973#0",
+      "nasa-uap-d7-skylab-technical-crew-debriefing-1973#1"
+    ],
+    "person_refs": [
+      "Conrad",
+      "Kerwin",
+      "Weitz",
+      "Bean",
+      "Lousma",
+      "Garriott",
+      "Carr",
+      "Pogue",
+      "Gibson"
+    ],
+    "unit_refs": [
+      "Crew Training and Simulation Division",
+      "Training Office"
+    ],
+    "agency_refs": [
+      "NASA",
+      "Lyndon B. Johnson Space Center"
+    ],
+    "operation_refs": [
+      "Skylab 1/2",
+      "Skylab 1/3",
+      "Skylab 1/4"
+    ],
+    "platform_refs": [
+      "Skylab",
+      "Command Module"
+    ],
+    "location_refs": [
+      "Houston, Texas",
+      "Low Earth Orbit"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "This bright reddish object was out there and we tracked it for about 5 or 10 minutes.",
+      "We saw some lights flashing outside with very a definite motion relative to ours."
+    ],
+    "pdf_url_local": "/reports/nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf"
   },
   {
     "id": "serial-3_redacted",
