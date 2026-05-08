@@ -1,35 +1,38 @@
 {
-  "generated_at": "2026-05-08T20:41:59.154749Z",
+  "generated_at": "2026-05-08T20:49:20.804120Z",
   "headline": {
-    "TM_01_total_sightings": 145,
-    "TM_02_total_documents": 103,
-    "TM_02_total_pages": 1808,
+    "TM_01_total_sightings": 171,
+    "TM_02_total_documents": 112,
+    "TM_02_total_pages": 3461,
     "TM_03_date_range": "1944\u20132025",
     "TM_03_years_covered": 82,
-    "TM_04_unresolved_pct": 93.1,
-    "TM_05_top_shape": "formation",
-    "TM_05_top_shape_count": 26,
+    "TM_04_unresolved_pct": 87.1,
+    "TM_05_top_shape": "disk",
+    "TM_05_top_shape_count": 31,
     "TM_06_most_active_year": 1999,
     "TM_06_most_active_year_count": 23,
     "TM_07_active_hotspot": "US",
-    "TM_07_active_hotspot_count": 33,
+    "TM_07_active_hotspot_count": 58,
     "TM_08_top_speed_mph": 4000,
     "TM_09_most_cited": "FBI",
     "TM_09_most_cited_count": 37,
-    "extra_aviator_pct": 59.3
+    "extra_aviator_pct": 53.2
   },
   "by_year": {
-    "1944": 12,
+    "1944": 13,
     "1945": 3,
-    "1947": 7,
-    "1948": 6,
-    "1949": 3,
-    "1950": 1,
-    "1952": 2,
+    "1947": 15,
+    "1948": 14,
+    "1949": 5,
+    "1950": 3,
+    "1952": 3,
+    "1953": 1,
+    "1954": 1,
     "1956": 1,
     "1957": 1,
     "1958": 1,
     "1959": 1,
+    "1964": 1,
     "1965": 1,
     "1969": 4,
     "1972": 4,
@@ -48,23 +51,23 @@
     "2025": 13
   },
   "by_shape": {
-    "formation": 26,
-    "light": 24,
-    "orb": 22,
-    "disk": 19,
-    "sphere": 11,
+    "disk": 31,
+    "light": 27,
+    "formation": 27,
+    "orb": 23,
+    "sphere": 12,
     "triangle": 5,
-    "cigar": 3,
+    "cigar": 5,
     "cylinder": 2,
     "diamond": 2,
     "boomerang": 1
   },
   "by_country": {
-    "US": 33,
+    "US": 58,
     "FR": 8,
     "SY": 8,
+    "DE": 5,
     "IR": 5,
-    "DE": 4,
     "PG": 3,
     "IQ": 3,
     "CA": 2,
@@ -79,14 +82,14 @@
     "DJ": 1
   },
   "by_agency_docs": {
-    "DoW": 47,
-    "FBI": 37,
+    "DoW": 49,
+    "FBI": 44,
     "NASA": 8,
     "DoS": 7,
     "Other": 4
   },
   "by_doctype": {
-    "case_file": 38,
+    "case_file": 47,
     "MISREP": 30,
     "transcript": 7,
     "memo": 6,
@@ -100,18 +103,23 @@
     "slide_deck": 1
   },
   "by_evidence_type": {
-    "visual": 143,
+    "visual": 158,
     "video": 36,
-    "photographic": 29,
+    "photographic": 31,
     "infrared": 17,
     "radar": 6,
+    "document": 6,
+    "audio": 4,
     "electronic_signature": 3,
-    "audio": 2,
-    "physical_trace": 2
+    "physical_trace": 3,
+    "secondary_report": 2,
+    "physical": 1,
+    "press": 1,
+    "interview": 1
   },
   "lag_distribution": {
     "median_years": 26.3,
     "max_years": 81.1,
-    "count": 101
+    "count": 110
   }
 }

@@ -778,6 +778,164 @@
     "pdf_url_local": "/reports/38_143685_box7_incident_summaries_1-100.pdf"
   },
   {
+    "id": "38_143685_box7_incident_summaries_101-172",
+    "source": "DoW-PURSUE",
+    "external_id": "S78-1(126) / D20240 30614 (Box 7, continuation)",
+    "title": "Project SIGN Era \u2014 UFO Incident Summaries 101-172 (Box 7, File 38_143685, Part 2)",
+    "agency": "DoW",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1948-10-01",
+    "lag_years": 77.6,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [
+      "RESTRICTED"
+    ],
+    "redaction_pct": 0,
+    "page_count": 178,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_101-172.pdf",
+    "summary": "Continuation of Box 7 standardized 'CHECK-LIST \u2014 UNIDENTIFIED FLYING OBJECTS' incident summaries, covering Project SIGN-era Incidents #101 through #172. Cases span February 1948 (Decatur KS meteor-mushroom event) through 1 October 1948 (the Gorman dogfight, Fargo ND \u2014 F-51 NG pilot George F. Gorman in 27-minute aerial pursuit of clear-white round object). Each incident uses the same 26-field form structure as Part 1, with extensive narrative continuation pages including witness letters and Project SIGN analyst notes. Sample extraction from 178-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Document continues the standardized 26-field 'CHECK-LIST \u2014 UNIDENTIFIED FLYING OBJECTS' Project SIGN/GRUDGE-era incident-summary set covering Incidents #101 through #172.",
+      "Incidents span 18 February 1948 (Incident #101, Decatur, Kansas \u2014 daylight mushroom-shaped object/meteor with multi-stage explosions) through 1 October 1948 (Incident #172, the famous Gorman dogfight at Fargo, North Dakota).",
+      "Incident #172 \u2014 the Gorman case \u2014 is one of the most operationally significant events: 2nd Lt George F. Gorman, Manager of Const Co. and pilot of an F-51 in the Air National Guard, engaged a 6-8 inch round clear-white light over Fargo for 27 minutes (2100 hrs) at altitudes 1000-14,000 ft. Object was 'much faster than F-51', performed 'several left turns, one right turn, diving and climbing', tactics described as evasive; disappeared in steep climb. CAVU weather; Northern Lights visible in NE quadrant.",
+      "Incident #131 (20 June 1948, Belleville, Illinois, 2230 hrs) involves Lt Col Wm F. Hull, USAF Pilot and Supervisor of Flying Training at Scott AFB \u2014 a single 6-to-8-inch white round light at speed approx 500 MPH on zigzag course, no aircraft known in vicinity, undetermined altitude below 6,000 ft.",
+      "Witness pool includes airline / commercial pilots (B.F. Goodrich Company territory manager W.A. Bonneville, who provided extensive narrative letter detailing nighttime sightings near German-North-Dakota and Bettinger ND highway routes) alongside USAF pilots and military personnel.",
+      "Many incidents include amateur-astronomy and physical-evidence elements: e.g. Incident #101 cites Oscar Monnig of the Texas Observers, 1010 Morningside Drive, Ft. Worth, who 'offers tangible proof that the fireball...' (continuation page).",
+      "Cover sheet bears DECLASSIFIED authority NND 917033 over crossed-out CONFIDENTIAL/RESTRICTED markings, archival reference S78-1(126).",
+      "Form structure preserved across all entries \u2014 phase-2 structured extraction will yield ~72 individual incident records from this part."
+    ],
+    "incident_refs": [
+      "38_143685_box7_incident_summaries_101-172#0",
+      "38_143685_box7_incident_summaries_101-172#1",
+      "38_143685_box7_incident_summaries_101-172#2",
+      "38_143685_box7_incident_summaries_101-172#3",
+      "38_143685_box7_incident_summaries_101-172#4"
+    ],
+    "person_refs": [
+      "M. R. Strebbiel (Decatur, Kansas, Editor)",
+      "Oscar Monnig (Texas Observers, Ft. Worth)",
+      "Lt Col Wm F. Hull (USAF, Supervisor of Flying Training, Scott AFB)",
+      "W. A. Bonneville (B. F. Goodrich Company territory manager)",
+      "2nd Lt George F. Gorman (F-51 pilot, Air National Guard, Fargo ND)"
+    ],
+    "unit_refs": [
+      "Scott Air Force Base (Belleville, Illinois)",
+      "North Dakota Air National Guard",
+      "Fargo Municipal Airport (vicinity)",
+      "Project SIGN (Air Materiel Command, Wright-Patterson AFB)"
+    ],
+    "agency_refs": [
+      "USAF",
+      "Air National Guard",
+      "Project SIGN",
+      "Air Materiel Command"
+    ],
+    "operation_refs": [
+      "Project SIGN"
+    ],
+    "platform_refs": [
+      "F-51 Mustang"
+    ],
+    "location_refs": [
+      "Decatur, Kansas",
+      "Norton, Kansas",
+      "Belleville, Illinois",
+      "Scott Air Force Base, Illinois",
+      "Fargo, North Dakota",
+      "Bettinger, North Dakota",
+      "German, North Dakota",
+      "Ft. Worth, Texas"
+    ],
+    "declassified_date": null,
+    "declassified_by": "NND 917033 (declassification authority stamp on cover)",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "afterwards a lot of little explosions",
+      "Bluish-white smoke smudge ... Mushroom",
+      "Northern lights were visible in the NE quadrant.",
+      "much faster than F-51 ... several left turns one right turn, diving and climbing"
+    ],
+    "pdf_url_local": "/reports/38_143685_box7_incident_summaries_101-172.pdf"
+  },
+  {
+    "id": "38_143685_box7_incident_summaries_173-233",
+    "source": "DoW-PURSUE",
+    "external_id": "S78-1(126) / D20240 30614 (Box 7, continuation 5-22300)",
+    "title": "Project SIGN/GRUDGE Era \u2014 UFO Incident Summaries 173-233 (Box 7, File 38_143685, Part 3)",
+    "agency": "DoW",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1948-11-08",
+    "lag_years": 77.5,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "RESTRICTED",
+      "SECRET"
+    ],
+    "redaction_pct": 0,
+    "page_count": 144,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_173-233.pdf",
+    "summary": "Final part of the Box 7 incident-summary archive. This part transitions from the Project SIGN-era 26-field 'CHECK-LIST' format used in Parts 1-2 to a slightly evolved 'INCIDENT SUMMARY SHEET' format with 25 numbered prompts, including peculiarities, attention-attractor, and observer attentiveness fields. SECRET-stamped pages appear (e.g. Incident #174 New Orleans LA cone-shaped flame object, 1 October 1948). Cases include Incident #202 Newark AF Base NJ with explicit lat/long (40\u00b042'N 74\u00b010'W). Document closes with a multi-page 'Guide to Investigation' procedural appendix listing 8 standard investigative steps (local flight schedules, ordnance tests, soil samples, photographs, sketches, signed statements, physical fragments). Sample extraction from 144-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "This part adopts an updated 'INCIDENT SUMMARY SHEET' template (25 fields) replacing the 26-field CHECK-LIST seen in Parts 1-2. New fields include 'Attention Attracted by', 'Peculiarities Noted', and explicit 'Nature of Luminosity (direct/reflected)'.",
+      "Several cases here are stamped SECRET (e.g. Incident #174 \u2014 1 Oct 1948 Ascension Parish, Louisiana \u2014 observed by E. B. Williams, President of United Land Co., New Orleans, with 'considerable flying experience'). Object: cone-shaped, length of a passenger aircraft, white-hot, appeared 'encased in flame'; 1500-2000 ft altitude; ~200 MPH; 10 seconds; soundless; left no trail; no clouds, fairly calm.",
+      "Incident #202 (8 November 1948, 1850 EST, Newark AF Base NJ) is exceptionally rich: COORDINATES explicitly logged as 40\u00b042'N 74\u00b010'W. Observer Edmund J. Olsek, 105-44 Liverpool St, Jamaica, Long Island \u2014 civilian dispatcher, regular Reserve participant in Reserve flying activities, former Capt USAFR. One pale-luminous disc (round, 1/3 brightness of moon, same diameter as moon), 5,000-6,000 ft altitude, 800 MPH, ~1 second visible, southeast heading, 'passed out of sight over another hangar'.",
+      "Incident #201 B continuation describes object as 'a light bulb moving upward and forward at an estimated speed of 25 to 30 MPH... white with a yellowish tint... steadily gained altitude... disappeared behind a cloud'. A-2 (USAF intelligence) opined that 'object sighted in each instance was a weather balloon with a light swinging from it'.",
+      "Geographic spread includes Louisiana (New Orleans, Ascension Parish), New Jersey (Newark AFB), and continuation cases tied to broader CONUS reporting.",
+      "Closing 'Guide to Investigation' procedural appendix enumerates investigative requirements: (1) local flight schedules check, (2) check Canadian activity if near border, (3) possible ordnance/test releases by Navy/Air Force/Army/Weather Units, (4) soil samples within and without depression if object contacted earth, (5) photographs/sketches of object/terrain/contact site/maneuvers/formation, (6) secure signed statements, (7) obtain physical fragments where possible.",
+      "Witness pool includes a sworn USAFR officer (Olsek), a senior commercial business executive with extensive flying background (E.B. Williams), and other civilian observers \u2014 multiple cases vetted with explicit USAF A-2 evaluations.",
+      "Cover/back pages stamped CONFIDENTIAL crossed out and DECLASSIFIED authority NND 917033."
+    ],
+    "incident_refs": [
+      "38_143685_box7_incident_summaries_173-233#0",
+      "38_143685_box7_incident_summaries_173-233#1",
+      "38_143685_box7_incident_summaries_173-233#2",
+      "38_143685_box7_incident_summaries_173-233#3"
+    ],
+    "person_refs": [
+      "E. B. Williams (President, United Land Co., New Orleans)",
+      "Edmund J. Olsek (civilian dispatcher, Newark AF Base; former Capt USAFR)"
+    ],
+    "unit_refs": [
+      "Newark Air Force Base (NJ)",
+      "United Land Co. (New Orleans, 219 Dryades St)",
+      "USAFR (United States Air Force Reserve)",
+      "Project SIGN / Project GRUDGE (Air Materiel Command)",
+      "A-2 (USAF Intelligence)"
+    ],
+    "agency_refs": [
+      "USAF",
+      "USAFR",
+      "Project SIGN",
+      "Project GRUDGE",
+      "A-2"
+    ],
+    "operation_refs": [
+      "Project SIGN",
+      "Project GRUDGE"
+    ],
+    "platform_refs": [],
+    "location_refs": [
+      "Ascension Parish, Louisiana (Township 10 South, Range 4 East)",
+      "New Orleans, Louisiana",
+      "Newark Air Force Base, New Jersey",
+      "Jamaica, Long Island, New York"
+    ],
+    "declassified_date": null,
+    "declassified_by": "NND 917033 (declassification authority stamp)",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "Approximately the length of a passenger aircraft ... white-hot ... encased in flame",
+      "Object left no trail of any kind and did not light up the area",
+      "Pale luminous - 1/3 brightness of moon ... 800 MPH ... passed out of sight over another hangar",
+      "It was the opinion of A-2, that object sighted in each instance was a weather balloon with a light swinging from it"
+    ],
+    "pdf_url_local": "/reports/38_143685_box7_incident_summaries_173-233.pdf"
+  },
+  {
     "id": "59_214434_sp_16_7.18.1963",
     "source": "DoW-PURSUE",
     "external_id": "SP-1-NASC (file SP 16); NND 939551",
@@ -1012,27 +1170,31 @@
   {
     "id": "65_hs1-834228961_62-hq-83894_section_1",
     "source": "DoW-PURSUE",
-    "external_id": "62-HQ-83894 Section 1",
-    "title": "FBI HQ Case File 62-HQ-83894 Section 1 \u2014 Flying Disc / UFO Investigation, 1947-onward",
+    "external_id": "62-HQ-83894 Section 1 / FOIPA",
+    "title": "FBI HQ 62-HQ-83894 \u2014 Flying Discs / UFO Master File, Section 1 (1947 Origins)",
     "agency": "FBI",
     "document_type": "case_file",
     "published_at": "2026-05-08",
-    "date_authored": "1947-07-30",
-    "lag_years": 78.8,
-    "classification_at_creation": "unclassified",
-    "classification_caveats": [],
-    "redaction_pct": 15,
+    "date_authored": "1947-07-01",
+    "lag_years": 78.9,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "SECRET",
+      "CONFIDENTIAL"
+    ],
+    "redaction_pct": null,
     "page_count": 185,
     "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf",
-    "summary": "FBI Headquarters administrative inquiry case file 62-HQ-83894, Section 1 (of a multi-section series). This is the opening section of the FBI's master Headquarters file on the 'Flying Disc / UFO' subject, covering the 1947 Kenneth-Arnold-wave correspondence and early Hoover-era field-office routing slips on saucer sightings reported to the Bureau, with continuing serials extending into the 1950s and 1960s. The PDF is a 185-page scanned image release from the National Archives / FBI Vault. Sample extraction from 185-page archive; full per-incident extraction is a phase-2 task. [OCR pending \u2014 scanned PDF; key_findings and sightings drawn conservatively from filename, manifest metadata, and the documented public record of this case file's contents.]",
+    "summary": "Section 1 of the FBI Headquarters master case file 62-HQ-83894 on flying discs / unidentified flying objects, covering the summer 1947 'flying disc' wave and the inception of FBI involvement with the Army Air Forces in collecting and processing reports from civilian witnesses. The section opens with the standard FBI Central Records Center transfer envelope (file 62-83894, Pickett Street, 'DO NOT DESTROY', SECRET stamp, FOIPA serial) and contains internal Bureau memoranda, press clippings (including a 7 July 1947 Washington Post clipping 'Pilot Finds \"Whirring\" Disc, In Yard and Holds It for FBI'), witness statements, field-office teletypes, and at least one CONFIDENTIAL-stamped UFO photograph plate ('SCENE A' / 'SCENE B'). A central document is the 7 July 1947 Bureau memorandum / TREASURED FILING from F.G. Tillery to All Special Agents in Charge formalizing FBI handling of flying-disc reports in coordination with USAAF intelligence. Sample extraction from 185-page archive; full per-incident extraction is a phase-2 task.",
     "key_findings": [
-      "Section 1 is the opening volume of FBI HQ case 62-HQ-83894, the Bureau's master administrative-inquiry file on flying discs / unidentified flying objects.",
-      "Filed under FBI Class 62 (Administrative Inquiries / Miscellaneous), case serial 83894 at HQ \u2014 the Bureau's central UFO subject file.",
-      "Section spans the 1947 Kenneth Arnold wave (June-July 1947) onward, including Hoover-era routing slips, Special Agent in Charge (SAC) memoranda, and field-office teletypes forwarded to HQ.",
-      "Cooperation context: the FBI briefly assisted the U.S. Army Air Forces / USAF in collecting flying-disc reports in 1947 before withdrawing in fall 1947 over jurisdictional friction with Air Materiel Command at Wright Field.",
-      "Document is a scanned image release (no embedded text layer); contents include teletypes, FD-302 interview reports, newspaper clippings forwarded by citizens, and Hoover correspondence.",
-      "Released via FBI Vault / National Archives under FBI Automatic Declassification Guide.",
-      "Sample extraction pending full OCR pass; representative sightings below are anchored on the well-documented serials known to appear in early sections of 62-HQ-83894."
+      "Section 1 is the opening volume of the FBI HQ 62-HQ-83894 master flying-disc/UFO file, covering the original July 1947 wave that started with the Kenneth Arnold report and the Roswell Army Air Field press release.",
+      "Cover envelope is the FBI Central Records Center transfer file marked 62-83894, Pickett Street, with SECRET stamp, 'DO NOT DESTROY' marking, FOIPA serial, and 'Use Care in Handling This File' / 'Transfer-Call 3421' notations.",
+      "Includes a 7 July 1947 Bureau memorandum (TREASURED FILING) from F.G. Tillery to All Special Agents in Charge laying out FBI handling instructions for flying-disc reports in coordination with USAAF intelligence \u2014 one of the earliest documented FBI policy instruments on the UFO topic.",
+      "Page-by-page review shows newspaper clippings (e.g., 'Pilot Finds \"Whirring\" Disc, In Yard and Holds It for FBI', dated 7 July 1947 in the Washington Post) cross-filed with field-office reports.",
+      "Section contains at least one CONFIDENTIAL photographic plate page with two captioned UFO images labeled 'SCENE A' and 'SCENE B'.",
+      "Documents are heavily marked with internal FBI rubber stamps (RECORDED, INDEXED, JUL 7 1947, MAILED, etc.) typical of HQ central-records routing.",
+      "Material is the foundation file referenced by later sections (2-10) of the same 62-HQ-83894 case, all of which were processed at Pickett Street and are FOIPA-released.",
+      "Witness pool in this section is mixed civilian and military, with multiple incidents involving objects 'whirring', spinning, or recovered briefly before being turned over to FBI/USAAF."
     ],
     "incident_refs": [
       "65_hs1-834228961_62-hq-83894_section_1#0",
@@ -1040,37 +1202,437 @@
       "65_hs1-834228961_62-hq-83894_section_1#2"
     ],
     "person_refs": [
-      "J. Edgar Hoover",
-      "Clyde Tolson",
-      "Kenneth Arnold"
+      "F.G. Tillery (FBI memo author, 7 July 1947 TREASURED FILING)",
+      "J. Edgar Hoover (Director, FBI)"
     ],
     "unit_refs": [
-      "FBI Headquarters",
-      "FBI Central Records Center",
-      "FBI Field Offices (multiple SAC offices)"
+      "FBI Headquarters Central Records Center",
+      "FBI Special Agents in Charge (All Field Offices)",
+      "USAAF intelligence liaison"
     ],
     "agency_refs": [
-      "FBI",
-      "USAF",
-      "Air Materiel Command (Wright Field)",
+      "Federal Bureau of Investigation",
       "U.S. Army Air Forces"
     ],
     "operation_refs": [],
     "platform_refs": [],
     "location_refs": [
-      "Washington, DC",
-      "Wright Field, Ohio",
-      "Mt. Rainier, Washington (Kenneth Arnold sighting)"
+      "FBI HQ Pickett Street, Washington area",
+      "Continental United States"
     ],
-    "declassified_date": "2007-05-24",
-    "declassified_by": "FBI Automatic Declassification Guide",
-    "approved_for_release_to": "FOIA / Public",
-    "redaction_codes": [
-      "(b)(7)(C)",
-      "(b)(7)(D)"
+    "declassified_date": null,
+    "declassified_by": "FOIPA (Freedom of Information / Privacy Acts) release",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "DO NOT DESTROY",
+      "Pilot Finds 'Whirring' Disc, In Yard and Holds It for FBI",
+      "Use Care in Handling This File"
     ],
-    "notable_quotes": [],
     "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_section_1.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_section_2",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Section 2 / Serials S1-100 / FOIPA",
+    "title": "FBI HQ 62-HQ-83894 \u2014 Flying Discs / UFO Master File, Section 2 (Serials S1-100, Aug-Sep 1947)",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1947-08-15",
+    "lag_years": 78.7,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [
+      "CONFIDENTIAL"
+    ],
+    "redaction_pct": null,
+    "page_count": 194,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf",
+    "summary": "Section 2 of FBI HQ master case file 62-HQ-83894, covering Serials S1-100 of the 'Flying Discs' file from approximately mid-August through September 1947 \u2014 the height of the post-Arnold-and-Roswell summer reporting wave. Cover envelope identifies 'Section 2 / Serials S1-100' and bears the Pickett Street / Central Records Center markings. Contents include FBI Office Memorandum United States Government inter-office memos (notably a 25 August 1947 Bureau memo from D.M. Ladd to The Director referencing a 22 July 1947 letter and Bureau attempts at 'Project Saucer' / flying-disc investigation in cooperation with the Army Air Forces and Naval Intelligence), citizen letters (e.g., a typed letter from State of Vermont, Cabot, dated 27 September 1947, reporting a Vermont sighting of a so-called flying saucer at 5:40 P.M. observed in Cabot, VT), a Portland teletype from L.E. Foxworth dated August 1947, a press clipping titled 'Big Mayonnaise Jar Sported by Rehoboth Pilot Mystery Discs' (Washington area), and various 'Flying Discs' captioned correspondence. Sample extraction from 194-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Section 2 covers Serials S1-100 of 62-HQ-83894 \u2014 approximately mid-August through September 1947, the second wave of FBI processing after the initial July 1947 disc reports.",
+      "Section opens with envelope marked 'Section 2 / Serials S1-100' (visible on cover), retained at FBI Pickett Street Central Records Center.",
+      "Includes a 25 August 1947 FBI Office Memorandum from D.M. Ladd to The Director referencing a 22 July 1947 letter from Naval Intelligence and Bureau cooperation with USAAF on the flying-disc investigation.",
+      "Contains civilian witness correspondence such as a letter from A. Courtney Parker, State of Vermont (Cabot, VT), dated 27 September 1947, describing a sighting of a so-called flying saucer at 5:40 P.M. in Vermont.",
+      "Includes a Portland teletype dated August 1947 routed to Director, FBI from L.E. Foxworth (SAC) about flying-disc investigation, with the Air Forces, USN, and intelligence services in coordination.",
+      "Contains a 'Flying Discs' captioned narrative page describing a witness who 'noticed that the object had vary slight lights' and ended up reported across multiple cities (Vermont newspaper article cross-references attached).",
+      "Contains a press clipping 'Big Mayonnaise Jar Sported by Rehoboth Pilot' / 'Mystery Discs' (Rehoboth Beach Mystery Pilot, Mid-Atlantic region 1947).",
+      "FBI internal stamps include RECORDED, INDEXED, MAILED, plus '83894' file annotations and FOIPA markings.",
+      "This section closes the FBI's most active 1947 collection period before the Bureau formally withdrew from civilian flying-disc reporting in fall 1947 due to friction with Air Materiel Command at Wright Field."
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_section_2#0",
+      "65_hs1-834228961_62-hq-83894_section_2#1",
+      "65_hs1-834228961_62-hq-83894_section_2#2"
+    ],
+    "person_refs": [
+      "D.M. Ladd (FBI Assistant Director, memo to Director 25 August 1947)",
+      "A. Courtney Parker (State of Vermont witness/correspondent, 27 Sept 1947)",
+      "L.E. Foxworth (SAC, Portland, OR, teletype Aug 1947)",
+      "J. Edgar Hoover (Director, FBI)"
+    ],
+    "unit_refs": [
+      "FBI Headquarters Central Records Center",
+      "SAC Portland, OR",
+      "U.S. Army Air Forces (USAAF) intelligence liaison"
+    ],
+    "agency_refs": [
+      "Federal Bureau of Investigation",
+      "U.S. Army Air Forces",
+      "Office of Naval Intelligence"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Cabot, Vermont",
+      "Portland, Oregon",
+      "Rehoboth Beach (Mid-Atlantic press)",
+      "Washington, DC (FBI HQ)"
+    ],
+    "declassified_date": null,
+    "declassified_by": "FOIPA release",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "Big Mayonnaise Jar Sported by Rehoboth Pilot",
+      "the object had vary slight lights"
+    ],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_section_2.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_section_3",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Section 3 / FOIPA",
+    "title": "FBI HQ 62-HQ-83894 \u2014 Flying Discs / UFO Master File, Section 3 (Aug-Sep 1947 Continued, USAAF Liaison)",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1947-08-22",
+    "lag_years": 78.7,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [
+      "CONFIDENTIAL",
+      "RESTRICTED"
+    ],
+    "redaction_pct": null,
+    "page_count": 190,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf",
+    "summary": "Section 3 of FBI HQ master case file 62-HQ-83894 covering continuing 1947 flying-disc reporting and FBI/USAAF intelligence liaison. Cover envelope marks Section 3 with the same Pickett Street / Central Records Center markings and 'DO NOT DESTROY' / 'COPIED FOR PA' (Privacy Act) processing stamps. Contents include an FBI Office Memorandum captioned 'REPORTS RE FLYING DISCS' summarizing serials and supplemental reports through August 1947; a CONFIDENTIAL MEMORANDUM dated 22 August 1947 from Headquarters Fourth Air Force, Hamilton Field, California, captioned 'Flying Disc' addressed to Special Agent in Charge, FBI, U.S. Department of Justice; correspondence from Tucson AZ regarding flying discs (with witness narrative noting 'the strange size of the object had vary slight lights, the object was thrown out of view very soon after sighting'); a typed sighting narrative reporting 'TRAVELING AT LEAST THREE TIMES FASTER THAN A PLANE' with detailed altitude/speed observations; and a series of 1947-era enclosure folders. Sample extraction from 190-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Section 3 continues the active 1947 flying-disc reporting period, focused on USAAF liaison and field-office cooperation with the Bureau.",
+      "Includes a CONFIDENTIAL MEMORANDUM dated 22 August 1947 from Headquarters Fourth Air Force, Hamilton Field, California, captioned 'Flying Disc', signed by Donald G. Stearns of the Office of the Asst. Chief of Staff (G-2) Intelligence and addressed to the SAC, FBI, San Francisco \u2014 early formal coordination correspondence between USAAF intel and the Bureau on saucer reports.",
+      "Section opens with an FBI Office Memorandum captioned 'REPORTS RE FLYING DISCS' summarizing the volume of August 1947 reports forwarded for evaluation.",
+      "Witness narratives in Section 3 include detailed kinematic descriptions ('TRAVELING AT LEAST THREE TIMES FASTER THAN A PLANE', objects 'so high object did not appear in the photograph', 'in case it had any weight at all when traveling').",
+      "Cover envelope marks Section 3 of file 62-83894 and shows Pickett Street, FOIPA, and 'COPIED FOR PA' (Privacy Act) processing stamps.",
+      "Multiple enclosure folders/envelopes are interleaved (large empty envelope pages between content pages indicate physical exhibits attached at original filing).",
+      "A Tucson, AZ correspondence from late August 1947 forwards a citizen letter to FBI HQ describing flying-disc observations.",
+      "Section overlaps with FBI's withdrawal-decision period (fall 1947) when the Bureau formally stepped back from civilian flying-disc collection in favor of the Army Air Forces."
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_section_3#0",
+      "65_hs1-834228961_62-hq-83894_section_3#1",
+      "65_hs1-834228961_62-hq-83894_section_3#2"
+    ],
+    "person_refs": [
+      "Donald G. Stearns (Headquarters Fourth Air Force G-2 Intelligence, 22 Aug 1947)",
+      "J. Edgar Hoover (Director, FBI)"
+    ],
+    "unit_refs": [
+      "FBI Headquarters Central Records Center",
+      "Headquarters Fourth Air Force, Hamilton Field, California",
+      "USAAF Office of Asst. Chief of Staff, G-2 Intelligence",
+      "SAC FBI San Francisco"
+    ],
+    "agency_refs": [
+      "Federal Bureau of Investigation",
+      "U.S. Army Air Forces (Fourth Air Force)"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Hamilton Field, California (Fourth Air Force HQ)",
+      "Tucson, Arizona",
+      "FBI HQ Pickett Street"
+    ],
+    "declassified_date": null,
+    "declassified_by": "FOIPA release",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "TRAVELING AT LEAST THREE TIMES FASTER THAN A PLANE",
+      "REPORTS RE FLYING DISCS"
+    ],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_section_3.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_section_4",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Section 4 / FOIPA",
+    "title": "FBI HQ 62-HQ-83894 \u2014 Flying Discs / UFO Master File, Section 4 (Late 1947 Hoaxes & 1949 Cunha Letter)",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1947-10-06",
+    "lag_years": 78.6,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [
+      "CONFIDENTIAL"
+    ],
+    "redaction_pct": null,
+    "page_count": 214,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf",
+    "summary": "Section 4 of FBI HQ master case file 62-HQ-83894 covering late 1947 flying-disc reports including hoax investigations and continuing into 1949 with the Walter Winchell / Ernest Cunha correspondence. Cover envelope marks Section 4 with the standard Pickett Street / Central Records Center / 'COPIED FOR PA' / 'DO NOT DESTROY' markings. Contents include: a 6 October 1947 FBI Office Memorandum from SAC Portland to Director regarding a flying-saucer hoax (Helen Cooper, Albany, OR, with 18 September 1947 hoax narrative); a 26 April 1949 Office of Director routing slip to senior officials (Bishop, Welsh, Tracy, Tracy, Mortenson, Trotter, McGuire); and a 26 July 1949 FBI Office Memorandum from D.M. Ladd to The Director re a Walter Winchell letter from Ernest Cunha (Los Angeles) reporting flying-disc circumstances at 6 East America Place, Los Angeles. Sample extraction from 214-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Section 4 spans late 1947 hoax investigations through mid-1949 correspondence on the flying-disc topic.",
+      "Section opens with a 6 October 1947 FBI Office Memorandum from the SAC Portland field office to The Director re a flying-saucer hoax case, with a witness named Helen Cooper of Albany, OR (18 September 1947 hoax dating).",
+      "A page deep in the section is a 26 April 1949 Office of the Director routing slip listing internal Bureau distribution to senior officials Bishop, Welsh, Tracy (twice), Mortenson, Trotter, and McGuire \u2014 typical FBI executive-route handling for sensitive correspondence.",
+      "The closing pages of Section 4 include a 26 July 1949 FBI Office Memorandum from D.M. Ladd to The Director referencing a letter from columnist Walter Winchell forwarding Ernest Cunha's correspondence, residing at '6 East America Place, Los Angeles, California', regarding flying-disc circumstances.",
+      "Section 4 is the bridge between the 1947 wave (Sections 1-3) and the late-1949 / 1950s administrative correspondence in Section 5.",
+      "Bureau internal stamps RECORDED, INDEXED, and JUL/APR 1949 confirm the routing through Central Records.",
+      "Cover envelope serial markings confirm 'Section 4' and Pickett Street processing.",
+      "Multiple pages are heavily redacted or contain only blue routing/file-number stamps without textual content."
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_section_4#0",
+      "65_hs1-834228961_62-hq-83894_section_4#1",
+      "65_hs1-834228961_62-hq-83894_section_4#2"
+    ],
+    "person_refs": [
+      "Helen Cooper (Albany, OR \u2014 1947 flying-saucer hoax subject)",
+      "Walter Winchell (columnist; forwarded Cunha letter to FBI 1949)",
+      "Ernest Cunha (Los Angeles correspondent, 1949)",
+      "D.M. Ladd (FBI Assistant Director)",
+      "J. Edgar Hoover (Director, FBI)"
+    ],
+    "unit_refs": [
+      "FBI Headquarters Central Records Center",
+      "SAC Portland, OR",
+      "FBI Office of the Director (executive routing)"
+    ],
+    "agency_refs": [
+      "Federal Bureau of Investigation"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Albany, Oregon",
+      "Portland, Oregon",
+      "Los Angeles, California (6 East America Place)",
+      "FBI HQ Pickett Street"
+    ],
+    "declassified_date": null,
+    "declassified_by": "FOIPA release",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_section_4.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_section_6",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Section 6 (HS1-834228961)",
+    "title": "FBI HQ Case 62-HQ-83894 \u2014 Flying Discs / UFO File, Section 6 (1950-1952, Project Twinkle / Green Fireballs era)",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1950-08-28",
+    "lag_years": 75.7,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [],
+    "redaction_pct": null,
+    "page_count": 271,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf",
+    "summary": "Section 6 of FBI Headquarters main UFO/flying-discs case file 62-HQ-83894. The section opens with an A. H. Belmont-to-D. M. Ladd Office Memorandum dated 28 August 1950 ('Summary of Aerial Phenomena in New Mexico \u2014 Miscellaneous, Information Concerning'), which is the FBI's internal briefing on Office of Special Investigations (OSI) concern regarding green fireballs, discs and meteors over sensitive installations in New Mexico since December 1948. The memo synthesizes the inquiry by Dr. Lincoln La Paz of the Institute of Meteoritics, University of New Mexico, who concluded that approximately half of the phenomena were not of meteoric origin and originated with U.S.-guided missiles, and references the Land-Air Inc. contract at Alamogordo and the Air Force / Land-Air observation post network designated 'Project Twinkle' (24-hour day watch). The remainder of the section comprises 1950-1952 public correspondence forwarded to FBI HQ \u2014 including a 7 May 1952 letter from a Black Mountain, NC writer urging Hoover to take 'Flying Saucers' newspaper reports seriously and warning of objects of 'undetermined origin' from outer space \u2014 together with form acknowledgement letters signed by Director John Edgar Hoover routing matters to Air Force jurisdiction. Sample extraction from 271-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Section 6 anchor document is the 28 Aug 1950 A. H. Belmont to D. M. Ladd Office Memorandum 'Summary of Aerial Phenomena in New Mexico \u2014 Miscellaneous - Information Concerning' (FBI HQ 62-83894-274 series).",
+      "Memo identifies three classes of phenomena reported near sensitive New Mexico installations since December 1948: (1) green fireballs / objects moving at high speed in shapes resembling half moons, circles and discs emitting green light; (2) discs / round flat-shaped objects emitting brilliant white or reflected light; (3) meteor-like aerial phenomena resembling meteoric material moving at high velocity and varying in color.",
+      "Approximately 150 observations of aerial phenomena had been recorded near New Mexico installations since 1948, with multiple observations reported by different reliable individuals at approximately the same time.",
+      "Inquiry by Dr. Lincoln La Paz (Director, Institute of Meteoritics, University of New Mexico) submitted 23 May 1950 concluded roughly half of recorded phenomena commonly referred to as green fireballs or discs are believed to be U.S.-guided missiles tested in the neighborhood of the installations; La Paz suggested observations might be of guided missiles launched from bases in the Urals.",
+      "Air Force / Land-Air Inc. (Alamogordo) contract under OSI dated 19 July 1950 established observation posts in the vicinity of Vaughn NM for photography of unusual phenomena; 24-hour day watch designated 'Project Twinkle'.",
+      "Land-Air personnel sighted 8 to 10 objects of aerial phenomena on 24 May 1950.",
+      "Section also contains 1950-1952 public correspondence to Director Hoover (e.g., 7 May 1952 Black Mountain, NC letter urging Bureau attention to 'Flying Saucers') and Hoover form replies forwarding matters to Air Force jurisdiction (e.g., 8 Aug 1952 reply to Florence Whitish, Charleston SC).",
+      "Section 6 spans serial range approximately 269-281 of the 62-HQ-83894 case file."
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_section_6#0",
+      "65_hs1-834228961_62-hq-83894_section_6#1",
+      "65_hs1-834228961_62-hq-83894_section_6#2"
+    ],
+    "person_refs": [
+      "A. H. Belmont (FBI)",
+      "D. M. Ladd (FBI)",
+      "John Edgar Hoover (FBI Director)",
+      "Dr. Lincoln La Paz (Director, Institute of Meteoritics, University of New Mexico)",
+      "Florence Whitish (Charleston, SC correspondent)"
+    ],
+    "unit_refs": [
+      "Air Force Office of Special Investigations (OSI)",
+      "Institute of Meteoritics, University of New Mexico",
+      "Land-Air, Incorporated (Alamogordo)"
+    ],
+    "agency_refs": [
+      "FBI Headquarters",
+      "U.S. Air Force",
+      "Department of Justice"
+    ],
+    "operation_refs": [
+      "Project Twinkle"
+    ],
+    "platform_refs": [],
+    "location_refs": [
+      "New Mexico (sensitive installations)",
+      "Alamogordo, NM",
+      "Vaughn, NM",
+      "Black Mountain, NC",
+      "Charleston, SC"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "objects moving at high speed in shapes resembling half moons, circles and discs emitting green light",
+      "Project Twinkle"
+    ],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_section_6.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_section_7",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Section 7 (HS1-834228961)",
+    "title": "FBI HQ Case 62-HQ-83894 \u2014 Flying Discs / UFO File, Section 7 (1952-1954, 1952 Flap & Adamski era)",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1952-08-09",
+    "lag_years": 73.7,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [
+      "URGENT teletype caveats present"
+    ],
+    "redaction_pct": null,
+    "page_count": 205,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_7.pdf",
+    "summary": "Section 7 of FBI HQ main UFO case file 62-HQ-83894, covering the 1952 Washington/East Coast flap and 1952-1954 'flying saucer' correspondence. The section opens with an URGENT teletype dated 9 August 1952 from FBI Savannah to the Director, reporting that two employees of E. I. Du Pont Company at the Atomic Energy Commission Savannah River Plant saw a blue light with an orange fringe shaped like a saucer fly over the Four Hundred Area of the Savannah River Plant at approximately 9:30 PM on 8 August 1952, traveling at high speed in a northeastern direction. Subsequent serials include an 11 August 1952 letter from Director Hoover to Mr. Edmund J. Kane (Mauston, Wisconsin) acknowledging receipt and forwarding the matter to the Inspector General, Department of the Air Force, with a referral copy to Air Force Intelligence and notation that Special Agents Samuel Hardy and Clinton A. Stein (assigned Division II) had been involved. A 24 January 1953 hand-written Los Angeles letter to Hoover proposes 'A plan for bringing down one of the strange air vehicles as sighted over Japan and elsewhere in the world; and then to be studied by our scientists' (guided missiles, sighting devices, decoys). A 21 June 1954 letter inquires whether the 1953 book 'Flying Saucers Have Landed' by Desmond Leslie and George Adamski (British Book Centre, NY) is fact or fiction. Sample extraction from 205-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Section 7 anchor record is a 9 August 1952 6:46 PM EST URGENT teletype from FBI Savannah to Director, reporting a 'flying saucer' sighting at the AEC Savannah River Plant on 8 August 1952 ~9:30 PM by two E. I. Du Pont Company employees.",
+      "Reported object: blue light with an orange fringe shaped like a saucer; flew over the Four Hundred Area of the Savannah River Plant at high rate of speed in a northeastern direction.",
+      "Director Hoover routinely forwarded such sightings to the Inspector General, Department of the Air Force / Air Force Intelligence (Division II), retaining cc copies in Bureau files (Special Agents Samuel Hardy EOD 3-28-25, GS-12 and Clinton A. Stein EOD 4-6-31, GS-15 specifically named in 11 Aug 1952 referral to Edmund Kane).",
+      "Section captures 1952 'flying saucer' wave correspondence including a 24 January 1953 LA hand-written letter proposing a plan for 'bringing down one of the strange air vehicles as sighted over Japan and elsewhere in the world' for scientific study, listing required equipment: guided missiles guided from ground or mother ship; a device resembling a high-flying Zephyr, balloon, or jet craft / helicopter at twilight or darkness.",
+      "Section also includes a 21 June 1954 inquiry to FBI HQ asking whether the 1953 book 'Flying Saucers Have Landed' by Desmond Leslie and George Adamski (British Book Centre, New York City) is fact or fiction, including its account of George Adamski meeting a man from Venus.",
+      "Document includes 1952 wave context \u2014 the section's serial range corresponds to the post-Washington-DC merry-go-round period of late summer 1952 and the explosion of public correspondence to FBI HQ that followed.",
+      "Section 7 covers approximately serial range 282-323 of the 62-HQ-83894 case file."
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_section_7#0",
+      "65_hs1-834228961_62-hq-83894_section_7#1"
+    ],
+    "person_refs": [
+      "John Edgar Hoover (FBI Director)",
+      "Edmund J. Kane (Mauston, Wisconsin correspondent)",
+      "Special Agent Samuel Hardy (EOD 3-28-25, GS-12)",
+      "Special Agent Clinton A. Stein (EOD 4-6-31, GS-15, Division II)",
+      "George Adamski (subject of public inquiry)",
+      "Desmond Leslie (subject of public inquiry)",
+      "Joseph Henderson (5077 N. Lacross Avenue, Chicago 30, IL \u2014 21 June 1954 correspondent)"
+    ],
+    "unit_refs": [
+      "Savannah River Plant Security Office",
+      "E. I. Du Pont de Nemours and Company"
+    ],
+    "agency_refs": [
+      "FBI Headquarters",
+      "FBI Savannah Field Office",
+      "Atomic Energy Commission (AEC)",
+      "U.S. Air Force Office of the Inspector General",
+      "U.S. Air Force Intelligence"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Savannah River Plant, AEC (Four Hundred Area)",
+      "Aiken, South Carolina region",
+      "Mauston, Wisconsin",
+      "Los Angeles, California",
+      "Chicago, Illinois"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "blue light with an orange fringe shaped like a saucer",
+      "Flying Saucers Have Landed"
+    ],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_section_7.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_section_8",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Section 8 (HS1-834228961)",
+    "title": "FBI HQ Case 62-HQ-83894 \u2014 Flying Discs / UFO File, Section 8 (1954-1957, Bethurum / Eickhoff / Krasuski-Germany era)",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1954-07-22",
+    "lag_years": 71.8,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [],
+    "redaction_pct": null,
+    "page_count": 217,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_8.pdf",
+    "summary": "Section 8 of FBI HQ main UFO case file 62-HQ-83894, covering 1954-1957 internal correspondence and public mail concerning flying saucers / UFOs. The section opens with a 22 July 1954 Office Memorandum from SAC Cincinnati (65-1994) to Director Hoover (62-83894) titled 'Truman Bethurum; FLYING DISCS; MISCELLANEOUS - INFORMATION CONCERNING (ESPIONAGE)', forwarding by Registered Mail five copies of a 8 June 1954 memorandum on additional information furnished by Thomas Eickhoff during a follow-up interview on 7 July 1954. The section also contains a hand-written letter on Hotel Gralynn (Miami, FL) stationery from Catherine Hughenbaugh to Mrs. Hoover (recorded 26 July 1955) urgently asserting that 'Flying Saucers \u2014 they are real ... their source and activities are incredible and a serious threat to our country, and all countries' and proposing that the President send 4 to 1000 men with 'good peripheral vision' to investigate. The section closes with a 15 November 1957 By Courier Service letter from Director Hoover to J. Patrick Coyne, National Security Council, Executive Office Building, transmitting (with copies to OSI/Air Force, CIA Deputy Director Plans, Asst Chief of Staff Intelligence Department of the Army, and Chief Security Division) a memorandum reflecting an interview with Wladyslaw Krasuski concerning an unidentified flying object he observed in 1944 while in Germany. Sample extraction from 217-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Section 8 anchor records: 22 July 1954 SAC Cincinnati to Director memorandum on Truman Bethurum and Thomas Eickhoff (forwarded by Registered Mail with 5 enclosures); 26 July 1955 Hotel Gralynn (Miami) public letter; and 15 November 1957 Hoover-to-Coyne (NSC) memorandum on 1944 Wladyslaw Krasuski sighting in Germany.",
+      "Truman Bethurum (1954) \u2014 referenced subject of FBI Cincinnati interview/correspondence in espionage classification context; this is the Truman Bethurum of 'Aboard a Flying Saucer' (1954) public-figure flying-saucer-contactee fame.",
+      "Thomas Eickhoff (Cincinnati informant) \u2014 provided additional information to FBI on 7 July 1954 in follow-up to original interview on 8 June 1954.",
+      "1955 Miami public correspondence (from Catherine Hughenbaugh, Hotel Gralynn, with reference to past unanswered Presidential letters) urges immediate Federal action on flying saucers \u2014 captures the post-Adamski mid-50s civilian alarm wave.",
+      "15 November 1957 Hoover letter to J. Patrick Coyne (NSC) \u2014 distributed to: (1) Office of Special Investigations Air Force; (2) Director CIA Attention Deputy Director Plans; (3) Assistant Chief of Staff Intelligence Department of the Army; (4) Chief, Security Division \u2014 transmits Krasuski interview memo on a 1944 UFO observation in wartime Germany.",
+      "Section 8 demonstrates the FBI's continuing role as inter-agency clearinghouse for UFO reports of intelligence interest (NSC, CIA, OSI, G-2 distribution).",
+      "Section spans approximately serial range 344-394 of the 62-HQ-83894 case file."
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_section_8#0",
+      "65_hs1-834228961_62-hq-83894_section_8#1"
+    ],
+    "person_refs": [
+      "John Edgar Hoover (FBI Director)",
+      "Truman Bethurum (Cincinnati subject)",
+      "Thomas Eickhoff (Cincinnati informant)",
+      "SAC Cincinnati (FBI)",
+      "Catherine Hughenbaugh (Hotel Gralynn, Miami FL correspondent)",
+      "Wladyslaw Krasuski (1944 German wartime UFO witness)",
+      "J. Patrick Coyne (National Security Council, Executive Office Building)"
+    ],
+    "unit_refs": [
+      "FBI Cincinnati Field Office",
+      "Hotel Gralynn (Miami, FL)"
+    ],
+    "agency_refs": [
+      "FBI Headquarters",
+      "U.S. Air Force Office of Special Investigations (OSI)",
+      "Central Intelligence Agency (Deputy Director, Plans)",
+      "Department of the Army (Asst Chief of Staff, Intelligence)",
+      "Chief, Security Division",
+      "National Security Council, Executive Office Building"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Cincinnati, Ohio",
+      "Miami, Florida (Hotel Gralynn)",
+      "Germany (1944 wartime sighting location)",
+      "Washington, D.C."
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "Flying Saucers \u2014 they are real",
+      "Truman Bethurum"
+    ],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_section_8.pdf"
   },
   {
     "id": "65_hs1-834228961_62-hq-83894_serial_130",
@@ -1325,6 +1887,75 @@
     "redaction_codes": [],
     "notable_quotes": [],
     "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_serial_403.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_serial_438",
+    "source": "DoW-PURSUE",
+    "external_id": "FBI 62-HQ-83894 Serial 438 (Vol. 1, 438 Only)",
+    "title": "FBI HQ Case 62-HQ-83894 Serial 438 \u2014 Unidentified Flying Object, Socorro, New Mexico, April 24, 1964 (Lonnie Zamora landing case)",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1964-05-08",
+    "lag_years": 62.0,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 40,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf",
+    "summary": "FBI Albuquerque Field Office report dated May 8, 1964, on the unidentified flying object incident at Socorro, New Mexico, on April 24, 1964 \u2014 the Lonnie Zamora landing case, one of the most famous physical-trace UFO events in U.S. history. Prepared by Special Agent D. Arthur Byrnes Jr., the report documents Officer Lonnie Zamora's (Socorro County Sheriff's Office) observation of an aluminum/whitish egg-shaped object on legs in the desert ~1 mile southwest of Socorro at approximately 5:45-5:50 PM, with two small humanoid figures in white coveralls beside it; Zamora's pursuit; the object's vertical lift-off with roar and flame; and the four rectangular ground depressions and three burned circular marks left at the site. The report includes a hand-drawn site sketch (page 40) showing the four depressions (#1-#4), three burn rings, and the apparent direction of departure. Multiple distribution copies of the same memo are bound into the serial. Sample extraction from 40-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Document is FBI HQ case 62-HQ-83894 Serial 438 \u2014 Special Agent D. Arthur Byrnes Jr.'s 8 May 1964 memorandum on the Socorro NM UFO incident of 24 April 1964 (the Lonnie Zamora landing case).",
+      "Officer Lonnie Zamora, Socorro County Sheriff's Office, was characterized in the FBI memo as 'known intimately for approximately five years, is well regarded as a sober, industrious, and conscientious officer and not given to fantasy'. Zamora was noted to be 'perfectly sober and somewhat agitated over his experience'.",
+      "Physical trace evidence at site: four rectangular ground depressions (~16 x 6 inches each, ~2 inches deep) arranged at angles from a center line, with earth pushed to the far side; three smooth circular burn marks ~4 inches in diameter penetrating the sandy earth ~1/8 inch 'as if a jar lid had gently been pushed into the sand'; multiple burned grass clumps inside the depression area, undisturbed clumps outside, and one external burned area.",
+      "Witness narrative: Zamora was pursuing a speeding vehicle when he heard a roar 'not a blast, not like a jet', changed from high frequency to low and then stopped; saw flame; departed pursuit and went up a steep gravel hill (~60 ft long) toward the flame, wheels skidding on first attempt, requiring three tries to ascend.",
+      "Object description: shiny, whitish/aluminum-colored, oval/egg-shape on two legs ('legs slanted outward to the ground'); object was about three and a half feet from the ground; two small figures in white coveralls were near it, one of whom 'seemed to turn and look straight at my car and seemed startled - seemed to quickly jump somewhat'.",
+      "Departure: object lifted with roar and flame; flame described 'as long as he heard the sound. Flame same color as best as recall'.",
+      "Page 40 of the file contains a hand-drawn site sketch showing four labeled depressions (#1-#4), three burn rings (B), measured offsets (e.g. '6'4\"', '20''9\"', '9'4\"', '10'8\"', '6'4\"'), and an arrow labeled 'APPARENT DIRECTION OF TAKE OR WHAT' indicating departure heading.",
+      "Bureau filing: Class/Case No 62 / 83894, Vol. 1, Serial 438 only; FBI Central Records Center barcode 8/11/12141161; declassification authority derived from FBI Automatic Declassification Guide issued May 24, 2007.",
+      "FBI letterhead disclaimer: 'This document contains neither recommendations nor conclusions of any kind. It is the property of the FBI, and is a loan to your agency; it and/or its contents are not to be distributed outside your agency.'"
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_serial_438#0"
+    ],
+    "person_refs": [
+      "Officer Lonnie Zamora (Socorro County Sheriff's Office)",
+      "Special Agent D. Arthur Byrnes Jr. (FBI Albuquerque)",
+      "Nep Lopez (radio operator, Socorro County Sheriff's Office)",
+      "Sgt. M. S. Chavez (New Mexico State Police)",
+      "Undersheriff Jim Luckie (Socorro County)",
+      "Officer Ted Jordan (New Mexico State Police)"
+    ],
+    "unit_refs": [
+      "FBI Albuquerque Field Office",
+      "Socorro County Sheriff's Office",
+      "New Mexico State Police",
+      "FBI Central Records Center"
+    ],
+    "agency_refs": [
+      "FBI",
+      "U.S. Department of Justice",
+      "Federal Bureau of Investigation"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Socorro, New Mexico",
+      "Albuquerque, New Mexico",
+      "Socorro County Sheriff's Office",
+      "New Mexico State Police Office, Socorro"
+    ],
+    "declassified_date": "2007-05-24",
+    "declassified_by": "FBI Automatic Declassification Guide (issued May 24, 2007)",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "known intimately for approximately five years, is well regarded as a sober, industrious, and conscientious officer and not given to fantasy",
+      "as if a jar lid had gently been pushed into the sand",
+      "Noise was a roar, not a blast. Not like a jet.",
+      "seemed to turn and look straight at my car and seemed startled"
+    ],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_serial_438.pdf"
   },
   {
     "id": "65_hs1-834228961_62-hq-83894_serial_449",
