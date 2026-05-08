@@ -104,7 +104,8 @@ export default async function IntelPage() {
       <TopNav />
       <main className="max-w-[1480px] mx-auto px-6 py-10">
         {/* HERO + KPI BAND */}
-        <section className="mb-12">
+        <section className="mb-12 relative" style={{ overflow: "hidden" }}>
+          <div className="hero-ring" aria-hidden />
           <div
             className="font-mono inline-flex items-center gap-3 mb-5"
             style={{
@@ -142,9 +143,11 @@ export default async function IntelPage() {
                   letterSpacing: "-0.02em",
                   marginBottom: "16px",
                   maxWidth: "880px",
+                  position: "relative",
+                  zIndex: 2,
                 }}
               >
-                Intelligence on the unresolved.
+                Intelligence on <span className="hero-em">the unresolved</span>.
               </h1>
               <p
                 style={{

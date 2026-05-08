@@ -36,22 +36,22 @@
 
   /* Phosphor green — the only accent. Used sparingly for active state,
      primary data, and the rare alert. Matrix CRT phosphor. */
-  --plasma-100:        #c5fcd1;
-  --plasma-300:        #6ef088;
+  --plasma-100:        #d4f7dc;
+  --plasma-300:        #8af09e;
   --plasma:            #2ee06a;
   --plasma-700:        #1c9043;
   --plasma-900:        #0d4a23;
   /* Backwards-compat aliases — the rest of the app reads these */
   --cyan:              #2ee06a;
-  --cyan-glow:         rgba(46, 224, 106, 0.28);
-  --cyan-soft:         rgba(46, 224, 106, 0.07);
+  --cyan-glow:         rgba(46, 224, 106, 0.32);
+  --cyan-soft:         rgba(46, 224, 106, 0.08);
 
-  /* "Amber" tokens kept for compat but now neutral grey — orange is gone */
-  --amber:             #b8b8b6;
-  --amber-300:         #d4d4d2;
-  --amber-700:         #6a6a68;
-  --amber-glow:        rgba(184, 184, 182, 0.20);
-  --amber-soft:        rgba(184, 184, 182, 0.05);
+  /* "Amber" tokens — now a pale phosphor cream, used for italic em emphasis */
+  --amber:             #d4f7dc;
+  --amber-300:         #e8fbed;
+  --amber-700:         #8af09e;
+  --amber-glow:        rgba(212, 247, 220, 0.18);
+  --amber-soft:        rgba(212, 247, 220, 0.04);
 
   /* Semantic / classification — restrained */
   --verified:          #2ee06a;
@@ -506,7 +506,47 @@ main { position: relative; z-index: 2; }
   letter-spacing: -0.01em;
   margin-bottom: 4px;
 }
-.sec-head-mid h2 em { font-style: italic; color: var(--amber); }
+.sec-head-mid h2 em {
+  font-style: italic;
+  color: var(--plasma-300);
+  font-weight: 300;
+}
+
+/* Cinematic hero ring decoration — concentric rotating rings */
+.hero-ring {
+  position: absolute;
+  right: -200px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 800px;
+  height: 800px;
+  border: 1px solid var(--plasma);
+  border-radius: 50%;
+  opacity: 0.10;
+  animation: ringRotate 90s linear infinite;
+  pointer-events: none;
+  z-index: 0;
+}
+.hero-ring::before,
+.hero-ring::after {
+  content: "";
+  position: absolute;
+  border-radius: 50%;
+  border: 1px solid var(--plasma-300);
+}
+.hero-ring::before { inset: 80px; opacity: 0.35; }
+.hero-ring::after  { inset: 200px; border-color: var(--plasma); opacity: 0.55; border-style: dashed; }
+@keyframes ringRotate {
+  from { transform: translateY(-50%) rotate(0deg); }
+  to   { transform: translateY(-50%) rotate(360deg); }
+}
+
+/* Italic em treatment for hero serif headings */
+.hero-em {
+  font-style: italic;
+  color: var(--plasma-300);
+  font-weight: 300;
+}
 .sec-head-mid p {
   color: var(--moondust);
   font-size: 13px;
