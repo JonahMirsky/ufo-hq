@@ -4,6 +4,7 @@ import { Panel } from "../../components/Panel";
 import { SightingsByYear } from "../../components/SightingsByYear";
 import { HorizontalBars } from "../../components/HorizontalBars";
 import { loadDocuments, loadMetrics, loadSightings } from "../../lib/data";
+import { countryName, doctypeLabel, evidenceLabel } from "../../lib/format";
 
 export const metadata = {
   title: "Intel — UFO HQ",
@@ -45,14 +46,14 @@ export default async function IntelPage() {
   const h = metrics.headline;
 
   const docTypeBars = Object.entries(metrics.by_doctype)
-    .map(([label, count]) => ({ label: label.replace(/_/g, " "), count }))
+    .map(([raw, count]) => ({ label: doctypeLabel(raw), count }))
     .slice(0, 8);
   const evidenceBars = Object.entries(metrics.by_evidence_type)
-    .map(([label, count]) => ({ label, count }))
+    .map(([raw, count]) => ({ label: evidenceLabel(raw), count }))
     .slice(0, 8);
   const countryBars = Object.entries(metrics.by_country)
-    .map(([label, count]) => ({ label, count }))
-    .slice(0, 8);
+    .map(([code, count]) => ({ label: countryName(code), code, count }))
+    .slice(0, 10);
 
   return (
     <>
@@ -186,14 +187,14 @@ export default async function IntelPage() {
             <Panel
               id="TS-02.1"
               title="Sightings per year"
-              subtitle="incident year · n (peak years annotated)"
+              subtitle="By incident year · top 3 peak years annotated in cyan"
               footer={
                 <>
                   <div className="flex items-center gap-2">
                     <span className="led am" />
-                    <span>SERIES · ANNUAL</span>
+                    <span>Annual series</span>
                   </div>
-                  <span>n = {sightings.length}</span>
+                  <span className="v am">{sightings.length} sightings</span>
                 </>
               }
             >
@@ -203,31 +204,48 @@ export default async function IntelPage() {
             <div className="grid gap-4" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(360px, 1fr))" }}>
               <Panel
                 id="TS-02.4"
-                title="Lag distribution"
-                subtitle={
-                  metrics.lag_distribution.median_years !== null
-                    ? `median ${metrics.lag_distribution.median_years} yr · n = ${metrics.lag_distribution.count}`
-                    : "data accumulating"
+                title="Disclosure lag"
+                subtitle="Years between incident and public release"
+                footer={
+                  <>
+                    <div className="flex items-center gap-2">
+                      <span className="led cy" />
+                      <span>{metrics.lag_distribution.count} of {docs.length} docs</span>
+                    </div>
+                    <span>Excludes docs without a date_authored</span>
+                  </>
                 }
               >
                 {metrics.lag_distribution.count > 0 ? (
                   <LagSummary
                     median={metrics.lag_distribution.median_years}
                     max={metrics.lag_distribution.max_years}
-                    n={metrics.lag_distribution.count}
                   />
                 ) : (
                   <div
                     className="font-mono text-center py-6"
                     style={{ fontSize: "10px", letterSpacing: "0.22em", color: "var(--fg-muted)" }}
                   >
-                    LAG DATA AWAITING MORE DOCS
+                    Awaiting more docs with both authored and release dates
                   </div>
                 )}
               </Panel>
 
-              <Panel id="TS-02.5" title="By document type" subtitle="document_type · count">
-                <HorizontalBars entries={docTypeBars} total={docs.length} />
+              <Panel
+                id="TS-02.5"
+                title="Documents by type"
+                subtitle={`Of ${docs.length} structured records`}
+                footer={
+                  <>
+                    <div className="flex items-center gap-2">
+                      <span className="led am" />
+                      <span>Top {docTypeBars.length}</span>
+                    </div>
+                    <span>{docs.length} total</span>
+                  </>
+                }
+              >
+                <HorizontalBars entries={docTypeBars} />
               </Panel>
             </div>
           </div>
@@ -235,13 +253,47 @@ export default async function IntelPage() {
 
         {/* Section 03 (partial) — GEOGRAPHIC quick view */}
         <section className="mb-16">
-          <SectionHead num="03" prefix="GEO" title="Where they happened." subtitle="Country distribution by sighting count. Map view pending Mapbox-free engine." />
+          <SectionHead num="03" prefix="GEO" title="Where they happened." subtitle="Country distribution by sighting count. Map view pending the open-source engine." />
           <div className="grid gap-4" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(360px, 1fr))" }}>
-            <Panel id="GEO-03.2" title="Top regions" subtitle="ISO country · sightings">
-              <HorizontalBars entries={countryBars} total={sightings.length} accent="var(--cyan)" />
+            <Panel
+              id="GEO-03.2"
+              title="Top regions"
+              subtitle={`Sightings with a known country (${countryBars.reduce((s, e) => s + e.count, 0)} of ${sightings.length})`}
+              footer={
+                <>
+                  <div className="flex items-center gap-2">
+                    <span className="led cy" />
+                    <span>Top {countryBars.length} of {Object.keys(metrics.by_country).length}</span>
+                  </div>
+                  <span>{sightings.length - countryBars.reduce((s, e) => s + e.count, 0)} unlocated</span>
+                </>
+              }
+            >
+              <HorizontalBars
+                entries={countryBars}
+                accent="var(--cyan)"
+                labelWidth="minmax(140px, 200px)"
+              />
             </Panel>
-            <Panel id="EV-06.1" title="Evidence types" subtitle="across all sightings">
-              <HorizontalBars entries={evidenceBars} accent="var(--amber)" />
+            <Panel
+              id="EV-06.1"
+              title="Evidence types"
+              subtitle="Per-sighting evidence (sightings can carry multiple)"
+              footer={
+                <>
+                  <div className="flex items-center gap-2">
+                    <span className="led am" />
+                    <span>Schema-valid types only</span>
+                  </div>
+                  <span>{evidenceBars.reduce((s, e) => s + e.count, 0)} tags</span>
+                </>
+              }
+            >
+              <HorizontalBars
+                entries={evidenceBars}
+                accent="var(--amber)"
+                labelWidth="minmax(140px, 180px)"
+              />
             </Panel>
           </div>
         </section>
@@ -353,22 +405,39 @@ function SectionHead({
 function LagSummary({
   median,
   max,
-  n,
 }: {
   median: number | null;
   max: number | null;
-  n: number;
 }) {
   return (
-    <div className="grid grid-cols-3 gap-4">
-      <Stat label="Median lag" value={median !== null ? `${median.toFixed(1)} yr` : "—"} tone="am" />
-      <Stat label="Max lag" value={max !== null ? `${max.toFixed(0)} yr` : "—"} tone="cy" />
-      <Stat label="Sample n" value={String(n)} />
+    <div className="grid grid-cols-2 gap-6">
+      <Stat
+        label="Median"
+        value={median !== null ? `${median.toFixed(1)} yr` : "—"}
+        tone="am"
+        sub="half of docs took longer"
+      />
+      <Stat
+        label="Maximum"
+        value={max !== null ? `${max.toFixed(0)} yr` : "—"}
+        tone="cy"
+        sub="oldest case in the corpus"
+      />
     </div>
   );
 }
 
-function Stat({ label, value, tone }: { label: string; value: string; tone?: "am" | "cy" }) {
+function Stat({
+  label,
+  value,
+  tone,
+  sub,
+}: {
+  label: string;
+  value: string;
+  tone?: "am" | "cy";
+  sub?: string;
+}) {
   return (
     <div>
       <div
@@ -382,9 +451,20 @@ function Stat({ label, value, tone }: { label: string; value: string; tone?: "am
       >
         {label}
       </div>
-      <div className={`kpi-num ${tone ?? ""}`} style={{ fontSize: "28px", marginTop: "4px" }}>
+      <div className={`kpi-num ${tone ?? ""}`} style={{ fontSize: "32px", marginTop: "4px" }}>
         {value}
       </div>
+      {sub && (
+        <div
+          style={{
+            fontSize: "11px",
+            color: "var(--fg-muted)",
+            marginTop: "4px",
+          }}
+        >
+          {sub}
+        </div>
+      )}
     </div>
   );
 }

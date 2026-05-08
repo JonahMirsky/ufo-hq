@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T20:52:07.973478Z",
+  "generated_at": "2026-05-08T21:20:11.077305Z",
   "headline": {
     "TM_01_total_sightings": 178,
     "TM_02_total_documents": 115,
@@ -111,17 +111,10 @@
     "video": 36,
     "photographic": 31,
     "infrared": 17,
-    "document": 9,
     "radar": 6,
     "audio": 4,
-    "electronic_signature": 3,
-    "physical_trace": 3,
-    "written_complaint": 3,
-    "press": 2,
-    "secondary_report": 2,
-    "physical": 1,
-    "administrative_record": 1,
-    "interview": 1
+    "physical_trace": 4,
+    "electronic_signature": 3
   },
   "lag_distribution": {
     "median_years": 26.4,

@@ -62,9 +62,21 @@ export function SightingsByYear({ byYear }: { byYear: Record<string, number> }) 
   const sortedByCount = [...entries].sort((a, b) => b.count - a.count).slice(0, 3);
   const peakYears = new Set(sortedByCount.map((e) => e.year));
 
-  // X-axis ticks: roughly 6
+  // X-axis ticks: aim for ~6, always include first and last, but drop the
+  // last if it would collide with the previous regular tick.
   const tickStep = Math.max(1, Math.floor(entries.length / 6));
-  const ticks = entries.filter((_, i) => i % tickStep === 0 || i === entries.length - 1);
+  const baseTicks: number[] = [];
+  for (let i = 0; i < entries.length; i += tickStep) baseTicks.push(i);
+  const lastIdx = entries.length - 1;
+  if (baseTicks[baseTicks.length - 1] !== lastIdx) {
+    if (lastIdx - baseTicks[baseTicks.length - 1] >= Math.ceil(tickStep / 2)) {
+      baseTicks.push(lastIdx);
+    } else {
+      // replace last regular tick with the actual last entry
+      baseTicks[baseTicks.length - 1] = lastIdx;
+    }
+  }
+  const ticks = baseTicks.map((i) => entries[i]);
 
   return (
     <div className="w-full overflow-x-auto">

@@ -1,13 +1,22 @@
-"use client";
+// Server-component-safe (no "use client" — pure rendering, no event handlers).
+
+export interface BarEntry {
+  label: string;
+  count: number;
+  /** Optional subdued tag rendered next to the label (e.g. ISO country code). */
+  code?: string;
+}
 
 export function HorizontalBars({
   entries,
   total,
   accent = "var(--amber)",
+  labelWidth = "minmax(110px, 180px)",
 }: {
-  entries: { label: string; count: number }[];
+  entries: BarEntry[];
   total?: number;
   accent?: string;
+  labelWidth?: string;
 }) {
   if (entries.length === 0) {
     return (
@@ -30,18 +39,33 @@ export function HorizontalBars({
       {entries.map((e) => {
         const pct = (e.count / max) * 100;
         return (
-          <div key={e.label} className="grid items-center gap-3" style={{ gridTemplateColumns: "minmax(80px, 140px) 1fr 40px" }}>
+          <div
+            key={e.label + (e.code ?? "")}
+            className="grid items-center gap-3"
+            style={{ gridTemplateColumns: `${labelWidth} 1fr 40px` }}
+          >
             <div
-              className="font-mono truncate"
-              style={{
-                fontSize: "11px",
-                letterSpacing: "0.06em",
-                color: "var(--fg-secondary)",
-                textTransform: "uppercase",
-              }}
+              className="truncate flex items-baseline gap-2"
+              style={{ fontSize: "12px", color: "var(--fg-primary)" }}
               title={e.label}
             >
-              {e.label || "—"}
+              <span style={{ flex: 1, overflow: "hidden", textOverflow: "ellipsis" }}>
+                {e.label || "—"}
+              </span>
+              {e.code && (
+                <span
+                  className="font-mono"
+                  style={{
+                    fontSize: "9px",
+                    letterSpacing: "0.18em",
+                    textTransform: "uppercase",
+                    color: "var(--fg-muted)",
+                    flexShrink: 0,
+                  }}
+                >
+                  {e.code}
+                </span>
+              )}
             </div>
             <div
               style={{

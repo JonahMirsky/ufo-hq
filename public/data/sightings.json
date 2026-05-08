@@ -972,9 +972,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "document"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "Memorandum dated 7 October 1948 from Communications Service, Washington DC, captioned 'Reporting of Information on Flying Discs', addressed to Communications Service distribution and to Air Materiel Command, governing the transmittal of all flying-disc information to AMC at Wright-Patterson. Anchor policy document for the 1948-49 USAF UFO reporting pipeline that fed into Project SIGN.",
@@ -1582,8 +1580,7 @@
       "ground_recovery"
     ],
     "evidence_types": [
-      "physical",
-      "press"
+      "physical_trace"
     ],
     "media_captured": [
       "newspaper clipping retained in FBI file"
@@ -1618,9 +1615,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "document"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "TREASURED FILING memorandum, 7 July 1947, F.G. Tillery to All Special Agents in Charge, laying out FBI procedures for handling flying-disc reports in cooperation with USAAF intelligence. Document is policy-establishing rather than incident-specific, but anchors the entire 62-HQ-83894 case file series.",
@@ -1688,9 +1683,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "administrative_record"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "On 14 June 1977, Stanley Schneider of the White House Office of Science and Technology telephonically contacted the FBI to inquire about the Bureau's procedures for handling UFO information received from the public, after Jody Powell (Press Secretary to President Carter) raised the question. FBI Special Agent J. Cochran, Jr. advised Schneider (and recorded the exchange in a memo to Mr. McDermott, 62-83894-486) that no investigative jurisdiction exists; the U.S. Air Force closed its UFO investigation (Project Blue Book) several years prior; referrals are now made to appropriate local authorities. Schneider thanked the Bureau and said he would call back if anything further was necessary. Action: 'None. For information.'",
@@ -1722,9 +1715,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "written_complaint"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "Mrs. Levi J. Dow (Goffstown, NH) wrote to FBI on 31 August 1966 inquiring about Amalgamated Flying Saucer Clubs of America, Inc. (Los Angeles, CA). Director Hoover replied 6 September 1966 (62-83894-446 series) that the Bureau is strictly an investigative agency and does not make evaluations or draw conclusions as to the character or integrity of any organization, publication, or individual. Bureau files contained no record of the correspondent or the organization. Captures the 1965-1966 mid-1960s civilian UFO-club correspondence wave that followed widely-reported US sightings.",
@@ -1790,9 +1781,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "document"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "FBI Office Memorandum, 25 August 1947, from D.M. Ladd to The Director, referencing a 22 July 1947 letter and the Bureau's flying-disc investigation cooperation with the U.S. Army Air Forces and Office of Naval Intelligence. Anchor document for the August-September 1947 Bureau policy posture in 62-HQ-83894.",
@@ -1858,9 +1847,7 @@
     "near_military_mi": 0,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "document"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "CONFIDENTIAL MEMORANDUM, 22 August 1947, from Headquarters Fourth Air Force, Hamilton Field, California, signed Donald G. Stearns (Office of Asst. Chief of Staff, G-2 Intelligence), captioned 'Flying Disc', addressed to Special Agent in Charge, FBI San Francisco \u2014 formal Air Force-to-FBI liaison correspondence on flying-disc reports in the West Coast 4th Air Force area. Filed in Section 3 of 62-HQ-83894.",
@@ -1965,9 +1952,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "document"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "FBI Office Memorandum, 6 October 1947, from SAC Portland to The Director re a flying-saucer hoax in Albany, Oregon, naming Helen Cooper as the subject and 18 September 1947 as the hoax date. Representative example of FBI hoax-investigation work tucked into the active 1947 Section 4 file.",
@@ -1999,9 +1984,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "document"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "FBI Office Memorandum, 26 July 1949, from D.M. Ladd to The Director, re a letter from Ernest Cunha at 6 East America Place, Los Angeles, California, addressed to columnist Walter Winchell, who forwarded it to the Bureau. The Bureau memo summarizes the circumstances and recommends no further FBI action, advising Mr. Winchell that 'this matter has not been investigated by the FBI.'",
@@ -2033,9 +2016,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "document"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "Office of the Director routing slip dated 26 April 1949 distributing flying-disc-related correspondence to senior FBI officials Mr. Bishop, Mr. Welsh, Mr. Tracy (twice), Mr. Mortenson, Mr. Trotter, and Mr. McGuire \u2014 illustrative of how the topic continued to circulate at FBI executive level long after the 1947 wave subsided.",
@@ -2067,9 +2048,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "press"
-    ],
+    "evidence_types": [],
     "media_captured": [
       "Galveston News article 12 July 1949"
     ],
@@ -2103,9 +2082,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "document"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "Letter dated 26 August 1955 from Walter F. Howe, Toronto, Canada, addressed to The Federal Bureau of Investigation, on flying-disc topics. Stamped received by FBI Central Records on intake. Representative example of mid-1950s international civilian correspondence retained in 62-HQ-83894 Section 5.",
@@ -2137,9 +2114,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "document"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "Letter dated 3 June 1949 from a graduate student at the University of California Graduate Department of Journalism (Berkeley) addressed to J. Edgar Hoover, requesting Bureau views and research materials on flying-saucer journalism. Filed as Section 5 exhibit in 62-HQ-83894.",
@@ -2313,9 +2288,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "secondary_report"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "On 24 January 1953, an LA correspondent submitted a hand-written letter to Director Hoover (intended for forwarding to President Eisenhower) outlining a plan to bring down one of the 'strange air vehicles as sighted over Japan and elsewhere in the world' for study by U.S. scientists. The letter proposes equipment: (1) guided missiles guided from ground or a mother ship or homed on the strange objects via Radar or Radio; (2) a sighting device which when sighted from ground at twilight or darkness resembles those craft as to shape, size, lights and flying characteristics \u2014 possibly a high-flying Zephyr, Balloon or jet craft / helicopter. References sightings 'over Japan' (1952-1953 East Asian wave).",
@@ -2347,9 +2320,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "secondary_report"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "Per Director Hoover's 15 November 1957 letter (62-83894-384) to J. Patrick Coyne, NSC: Wladyslaw Krasuski was interviewed concerning an unidentified flying object he observed in 1944 while in Germany. Memorandum on the interview was distributed by Hoover to AF OSI, CIA Deputy Director (Plans), Asst Chief of Staff Intelligence (Dept of Army), and Chief Security Division.",
@@ -2381,9 +2352,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "interview"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "FBI Cincinnati office (SAC Cincinnati 65-1994) memorandum dated 8 June 1954 with follow-up interview 7 July 1954 of Thomas Eickhoff concerning Truman Bethurum; classified by FBI as 'Flying Discs; Miscellaneous - Information Concerning (Espionage)'. SAC Cincinnati transmitted 5 copies of the memorandum by Registered Mail to FBI HQ on 22 July 1954 (62-83894-374 series). Bethurum was the public-figure California contactee author of 'Aboard a Flying Saucer' (1954); FBI's espionage classification reflects internal review of contactee narratives for hostile-intelligence content.",
@@ -2415,9 +2384,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "written_complaint"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "Kansas City field office letter dated 8 November 1957 forwarded to FBI HQ via SAC Dallas (62-1311) with 14 November 1957 cover Office Memorandum (62-83894-385) titled 'FLYING DISCS \u2014 INFORMATION CONCERNING'. Matter referred to USAF OSI without investigation per existing FBI instructions; no other action taken. Falls within the early-November 1957 'Levelland Wave' (early-November 1957 U.S. nationwide UFO flap).",
@@ -2449,9 +2416,7 @@
     "near_military_mi": null,
     "near_nuclear_mi": null,
     "maneuver_tags": [],
-    "evidence_types": [
-      "written_complaint"
-    ],
+    "evidence_types": [],
     "media_captured": [],
     "has_media": false,
     "summary": "Joseph Perry of Grand Blanc, Michigan, sent a letter to FBI dated 13 April 1960 reporting an unidentified flying object. Director Hoover transmitted (62-83894-417) on 21 April 1960 a copy of Perry's letter and the Bureau's reply to USAF Office of Special Investigations (Attention Chief, Counterintelligence Division), with cc to FBI Detroit field office. Bureau cataloged matter under 'Nationalities Intelligence' classification.",
