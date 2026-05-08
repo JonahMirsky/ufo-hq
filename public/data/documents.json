@@ -164,6 +164,388 @@
     "pdf_url_local": "/reports/059uap00013.pdf"
   },
   {
+    "id": "2024-04-30-composite-sketch",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "Composite Sketch \u2014 UAP Observation",
+    "agency": "Other",
+    "document_type": "sketch",
+    "published_at": "2026-05-08",
+    "date_authored": "2024-04-30",
+    "lag_years": 2.0,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/2024-04-30-composite-sketch.pdf",
+    "summary": "Single-page composite illustration depicting a metallic, disk/oval-shaped object with a bright luminous emission hovering above a grassy field bordered by trees, dated 30 April 2024.",
+    "key_findings": [
+      "Composite sketch shows a disk/saucer-shaped object with reflective metallic gold-bronze surface.",
+      "Object depicted with intense white/blue radiant glare on its left (forward) end.",
+      "Daytime observation with clear sky, object positioned above tree line over open grassland."
+    ],
+    "incident_refs": [
+      "2024-04-30-composite-sketch#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/2024-04-30-composite-sketch.pdf"
+  },
+  {
+    "id": "255_t_763_r1b_transcripts",
+    "source": "DoW-PURSUE",
+    "external_id": "Tape No. T-00763(R1b)",
+    "title": "P.A.O. Release Commentary of the GT-7/6 Flight \u2014 UFO Sighting by Borman",
+    "agency": "NASA",
+    "document_type": "transcript",
+    "published_at": "2026-05-08",
+    "date_authored": "1965-12-15",
+    "lag_years": 60.4,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 4,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/255_t_763_r1b_transcripts.pdf",
+    "summary": "RG 255 NASA HQ tape transcript and matching handwritten transcription of the Public Affairs Office release commentary for the Gemini 7 / Gemini 6 mission, in which CDR Frank Borman calls out a 'bogey at ten o'clock high' to Houston while also having the booster and surrounding particles in sight. CMP James Lovell separately identifies the booster off the spacecraft's two-o'clock position. Annotation labels the segment 'UFO SIGHTING BY BORMAN (GT-7),' approximately 4 hours 24 minutes into the flight.",
+    "key_findings": [
+      "Gemini 7 CDR Frank Borman radioed Houston to report 'a bogey at ten o'clock high' as an actual sighting distinct from the spent booster and surrounding particles.",
+      "Borman reported 'hundreds of little particles going by to the left out about three or four miles' in addition to the bogey.",
+      "Houston explicitly asked whether the sighting was the booster or natural; Borman re-confirmed it was an additional 'actual sighting'.",
+      "Gemini 7 CMP James Lovell separately reported the booster as a brilliant body in sun at the two-o'clock position, slowly tumbling, ahead of the spacecraft.",
+      "PAO confirmed in voiceover that the third unidentified object was a 'bogey' separate from the booster and particles, with several references to the bogey across the conversation.",
+      "Tape index handwritten note: 'UFO SIGHTING BY BORMAN (GT-7)'; event time 4 hours 24 minutes into the flight; transcript timestamp 05 min 34 sec."
+    ],
+    "incident_refs": [
+      "255_t_763_r1b_transcripts#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "Gemini 7 crew",
+      "Gemini 6 crew",
+      "Gemini Control Houston"
+    ],
+    "agency_refs": [
+      "NASA",
+      "NASA Public Affairs Office",
+      "Manned Spacecraft Center"
+    ],
+    "operation_refs": [
+      "Project Gemini",
+      "GT-7",
+      "GT-6"
+    ],
+    "platform_refs": [
+      "Gemini spacecraft",
+      "Titan II booster (second stage)"
+    ],
+    "location_refs": [
+      "low Earth orbit (polar transfer described)"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "A BOGEY AT TEN O'CLOCK HIGH",
+      "WE HAVE DEBRIS UP HERE - THIS IS AN ACTUAL SIGHTING",
+      "IT LOOKS LIKE HUNDREDS OF LITTLE PARTICLES GOING BY TO THE LEFT OUT ABOUT THREE OR FOUR MILES"
+    ],
+    "pdf_url_local": "/reports/255_t_763_r1b_transcripts.pdf"
+  },
+  {
+    "id": "341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399",
+    "source": "DoW-PURSUE",
+    "external_id": "TS Control No. 2-5317; TT 1524",
+    "title": "USAF Directorate of Intelligence \u2014 Extracts from TT 1524 (USAFE to A-2/HQ USAF), 4 November 1948",
+    "agency": "Other",
+    "document_type": "memo",
+    "published_at": "2026-05-08",
+    "date_authored": "1948-11-04",
+    "lag_years": 77.5,
+    "classification_at_creation": "top_secret",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 7,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf",
+    "summary": "RG 341 (USAF Directorate of Intelligence) Top Secret control file, TS Cont No. 2-5317, dated 8 November 1948, forwarding extracts from USAFE TT 1524 (4 Nov 1948) to General Cabell at HQ USAF. The extracts include a Neubiberg/USAFE memo on recurring 'flying saucer' reports, a Swedish-intelligence account of an alleged saucer crash in a lake, an Operation Daggar 307th Bomb Group jet-aircraft sighting off the Dutch coast on 5 September 1948, and Soviet-related intelligence items.",
+    "key_findings": [
+      "Folder cover identifies Directorate of Intelligence, HQ USAF, 4B-854 Pentagon, with TS Cont. No. 2-5300\u20132-5399, Nov 48.",
+      "Cover sheet (8 Nov 48) routes 'Extracts from TT 1524' from USAFE to A-2 HQ USAF; USAFE Item 14 distributed to CIA, AMC, and Armament Intelligence Branch DCS/M; Item 16 distributed to OIR-SR.",
+      "USAFE 2 (TT 1524, 4 Nov 48) \u2014 cover note to Gen Cabell forwarding a complete set of European Command special intelligence reports and recommending caution because most reports were 'forwarded as received.'",
+      "USAFE 10 \u2014 Operation Daggar / 307th Bomb Group: three crews at FL300 sighted an unidentified jet-propelled aircraft off the west coast of Holland (5155N/0355E) at 1402Z 5 Sep 1948, leaving smoke and condensation trails with sudden acceleration and climb; observers assessed it as a single jet with probable rocket assist and reserve power exceeding 1947-vintage jets. Evaluation: B-2.",
+      "USAFE 14 \u2014 Director-level memo notes recurring saucer reports including one observed hovering over Neubiberg Air Base for ~30 minutes; conveys Swedish Air Intelligence assessment that 'these phenomena are obviously the result of a high technical skill which cannot be credited to any presently known culture on earth,' presumed to originate from technology 'possibly outside the earth.' Describes a Swedish technical expert's report that one such object crashed/landed in a lake, with divers later finding a previously uncharted crater on the lake floor; salvage operation underway.",
+      "Subsequent page describes Soviet 'Redut' radar near Kholomia Airfield with 150 km range, TU-2 IFF S.CH. (C-4) experiments, and Kholomia Airfield specs (interrogation of pilot/navigator pending).",
+      "USAFE 16 \u2014 CIC source reports Soviets ordered CSR Missions abroad to procure radar tubes and a complete radar set (Eval C-3)."
+    ],
+    "incident_refs": [
+      "341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399#0",
+      "341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399#1",
+      "341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399#2"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "307th Bomb Group",
+      "USAFE",
+      "63rd Regiment (Soviet TU-2 unit)",
+      "PVO"
+    ],
+    "agency_refs": [
+      "USAF Directorate of Intelligence",
+      "HQ USAF A-2",
+      "European Command (special intelligence organization)",
+      "Swedish Air Intelligence Service",
+      "CIA",
+      "AMC",
+      "OIR-SR"
+    ],
+    "operation_refs": [
+      "Operation Daggar"
+    ],
+    "platform_refs": [
+      "TU-2 bomber",
+      "Redut radar set"
+    ],
+    "location_refs": [
+      "Pentagon, Washington, DC",
+      "Neubiberg Air Base, Germany",
+      "off west coast of Holland (5155N/0355E)",
+      "unspecified Swedish lake",
+      "Kholomia Airfield"
+    ],
+    "declassified_date": null,
+    "declassified_by": "NARA (NND 843014)",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "these phenomena are obviously the result of a high technical skill which cannot be credited to any presently known culture on earth",
+      "one was observed hovering over Neubiberg Air Base for about thirty minutes",
+      "single jet propelled A/C employing probably rocket assists with tremendous reserve power"
+    ],
+    "pdf_url_local": "/reports/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf"
+  },
+  {
+    "id": "59_214434_sp_16_7.18.1963",
+    "source": "DoW-PURSUE",
+    "external_id": "SP-1-NASC (file SP 16); NND 939551",
+    "title": "Memorandum \u2014 Thoughts on the Space Alien Race Question (Hunter to Packard, 18 July 1963)",
+    "agency": "DoS",
+    "document_type": "memo",
+    "published_at": "2026-05-08",
+    "date_authored": "1963-07-18",
+    "lag_years": 62.8,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [
+      "OFFICIAL USE ONLY"
+    ],
+    "redaction_pct": 0,
+    "page_count": 6,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/59_214434_sp_16_7.18.1963.pdf",
+    "summary": "Six-page National Aeronautics and Space Council (Executive Office of the President) memorandum dated 18 July 1963 from Maxwell W. Hunter II to Robert F. Packard at the Department of State's Office of International Scientific Affairs. The memo speculates on policy implications if intelligent extraterrestrial life were discovered, ranging from intra-solar-system 'chemical Martians' to interstellar visitors capable of relativistic or faster-than-light travel.",
+    "key_findings": [
+      "Hunter argues that even though the scientific consensus deems alien intelligence in the solar system negligible, the non-zero probability warrants policy preparation.",
+      "Memo discusses three notional alien-tech tiers \u2014 chemical-rocket Martians, near-light-speed interstellar travelers, and FTL races \u2014 each implying very different US diplomatic responses.",
+      "Cites contemporary anomalies (hot gases at Crater Alphonsus, lunar IR hot spots, repeated lunar/planetary probe failures) as 'broad hints' that should not be ignored.",
+      "Recommends a policy of immediate hatchet-burying among terrestrial powers if any extraterrestrial intelligence were confirmed.",
+      "Notes the only existing body of writing on first-contact policy is science fiction and warns policy will otherwise be set 'in the traditional manner of grand panic.'",
+      "Document is part of NASC files (SP 16) preserved in RG 59 State Department records and was declassified by NARS."
+    ],
+    "incident_refs": [],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "National Aeronautics and Space Council",
+      "Executive Office of the President",
+      "Department of State",
+      "Office of International Scientific Affairs",
+      "Atomic Energy Commission (referenced)"
+    ],
+    "operation_refs": [
+      "BNSP Task I",
+      "Project Ozma (referenced)"
+    ],
+    "platform_refs": [
+      "Lunik III (referenced)",
+      "Mariner II (referenced)"
+    ],
+    "location_refs": [
+      "Washington, DC",
+      "Mars (referenced)",
+      "Moon (referenced)",
+      "Crater Alphonsus (referenced)"
+    ],
+    "declassified_date": null,
+    "declassified_by": "NARS",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "the question of whether another intelligent race exists in our solar system",
+      "our policy will be determined in the traditional manner of grand panic"
+    ],
+    "pdf_url_local": "/reports/59_214434_sp_16_7.18.1963.pdf"
+  },
+  {
+    "id": "59_214434_sp_16__7.18.1963_",
+    "source": "DoW-PURSUE",
+    "external_id": "SP-1-NASC (file SP 16); NND 939551",
+    "title": "Memorandum \u2014 Thoughts on the Space Alien Race Question (Hunter to Packard, 18 July 1963) \u2014 duplicate scan",
+    "agency": "DoS",
+    "document_type": "memo",
+    "published_at": "2026-05-08",
+    "date_authored": "1963-07-18",
+    "lag_years": 62.8,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [
+      "OFFICIAL USE ONLY"
+    ],
+    "redaction_pct": 0,
+    "page_count": 6,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/59_214434_sp_16_[7.18.1963].pdf",
+    "summary": "Six-page National Aeronautics and Space Council memorandum dated 18 July 1963 from Maxwell W. Hunter II (NASC) to Robert F. Packard (DoS Office of International Scientific Affairs) speculating on US policy responses if intelligent extraterrestrial life were discovered. This file is a duplicate scan of the same document filed under a near-identical filename ('59_214434_sp_16_7.18.1963.pdf').",
+    "key_findings": [
+      "Duplicate of '59_214434_sp_16_7.18.1963.pdf' \u2014 same Hunter-to-Packard NASC memo, same six-page content.",
+      "Memo argues policy planning for ET contact is warranted despite scientific consensus that solar-system alien intelligence is improbable.",
+      "Hunter posits three notional alien-tech tiers (chemical-rocket, near-light-speed, FTL) and matching diplomatic stances.",
+      "Cites Crater Alphonsus hot-gas events, lunar IR hot spots, and lunar/planetary probe failures as 'broad hints' worth weighing.",
+      "Concludes policy will otherwise be set 'in the traditional manner of grand panic'.",
+      "RG 59 / NASC SP 16 file copy; declassified by NARS (NND 939551)."
+    ],
+    "incident_refs": [],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "National Aeronautics and Space Council",
+      "Executive Office of the President",
+      "Department of State",
+      "Office of International Scientific Affairs"
+    ],
+    "operation_refs": [
+      "BNSP Task I",
+      "Project Ozma (referenced)"
+    ],
+    "platform_refs": [
+      "Lunik III (referenced)",
+      "Mariner II (referenced)"
+    ],
+    "location_refs": [
+      "Washington, DC",
+      "Mars (referenced)",
+      "Moon (referenced)",
+      "Crater Alphonsus (referenced)"
+    ],
+    "declassified_date": null,
+    "declassified_by": "NARS",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "the question of whether another intelligent race exists in our solar system"
+    ],
+    "pdf_url_local": "/reports/59_214434_sp_16__7.18.1963_.pdf"
+  },
+  {
+    "id": "65_hs1-101634279_100-de-18221_serial_844",
+    "source": "DoW-PURSUE",
+    "external_id": "100-DE-18221 Serial 844 (also marked 100-26505)",
+    "title": "FBI Detroit Office Memorandum \u2014 Unidentified Flying Objects (Weaver report)",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1958-04-17",
+    "lag_years": 68.1,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 5,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-101634279_100-de-18221_serial_844.pdf",
+    "summary": "FBI Detroit Office Memorandum dated 17 April 1958 from SA Robert Ross Reynolds to SAC Detroit, reporting a citizen telephone call about a circular crystal-domed object seen in the sky over Detroit at 4:08 a.m. that day.",
+    "key_findings": [
+      "Witness telephoned FBI Detroit at 0408 to report a circular object with a crystal-type dome that reflected lights.",
+      "Object passed northward from southwest, crossing the city three blocks south of Six Mile at Lamphere Street.",
+      "Witness, age 23, son of a Detroit policeman, had prior Civil Air Patrol experience but acknowledged limited aircraft-identification expertise.",
+      "Witness attempted to contact Selfridge Field/Air Force directly but was unsuccessful before reporting to the FBI.",
+      "Recommendation: Advise proper Air Force authorities."
+    ],
+    "incident_refs": [
+      "65_hs1-101634279_100-de-18221_serial_844#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI",
+      "FBI Detroit Field Office",
+      "USAF",
+      "Selfridge Field",
+      "Civil Air Patrol"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Detroit, Michigan",
+      "Six Mile and Lamphere Street, Detroit",
+      "Selfridge Field, Michigan"
+    ],
+    "declassified_date": "2007-05-24",
+    "declassified_by": "FBI Automatic Declassification Guide",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "circular object with a crystal-type dome that reflected lights"
+    ],
+    "pdf_url_local": "/reports/65_hs1-101634279_100-de-18221_serial_844.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_serial_403",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Serial 403",
+    "title": "FBI HQ Case 62-HQ-83894 Serial 403 \u2014 Gray Barker book dust-jacket exhibit",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1956-01-01",
+    "lag_years": 70.4,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 3,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_403.pdf",
+    "summary": "FBI HQ file 62-HQ-83894 Serial 403 contains the FBI Central Records Center evidence envelope and the dust-jacket of Gray Barker's 1956 book 'They Knew Too Much About Flying Saucers' (University Books, Inc., New York). No FBI investigative narrative or witness statement is included in the serial \u2014 the artifact is the book jacket itself, retained as an exhibit.",
+    "key_findings": [
+      "Serial 403 of FBI HQ case 62-HQ-83894 contains only the dust jacket of Gray Barker's 1956 book 'They Knew Too Much About Flying Saucers' (University Books).",
+      "Book jacket promotes the 'Three Men in Black' silencing narrative around civilian flying-saucer researchers.",
+      "Author identified as Gray Barker of Clarksburg, West Virginia, publisher of 'The Saucerian' periodical.",
+      "Front of FBI evidence envelope marked 62-HQ-83894 Serial 403, EBF, DIPA #1142292.",
+      "Declassified per FBI Automatic Declassification Guide, 24 May 2007."
+    ],
+    "incident_refs": [],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI",
+      "FBI Central Records Center",
+      "FBI Headquarters"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Clarksburg, West Virginia",
+      "New York, New York"
+    ],
+    "declassified_date": "2007-05-24",
+    "declassified_by": "FBI Automatic Declassification Guide",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_serial_403.pdf"
+  },
+  {
     "id": "dos-uap-d1-cable-1-papua-new-guinea-january-1985",
     "source": "DoW-PURSUE",
     "external_id": "85 PORT MORESBY 199 / CSP-2025-00040 / B-00002707027",
@@ -1486,6 +1868,190 @@
     "pdf_url_local": "/reports/dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf"
   },
   {
+    "id": "dow-uap-d48-report-september-1996",
+    "source": "DoW-PURSUE",
+    "external_id": "RTI/5180/77-43F",
+    "title": "Modeling Unlikely Space-Booster Failures in Risk Calculations (Final Report)",
+    "agency": "DoW",
+    "document_type": "report",
+    "published_at": "2026-05-08",
+    "date_authored": "1996-09-10",
+    "lag_years": 29.7,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [
+      "Distribution Limited"
+    ],
+    "redaction_pct": 0,
+    "page_count": 181,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d48-report-september-1996.pdf",
+    "summary": "Research Triangle Institute (RTI) Final Report under Contract F04703-91-C-0112, prepared for the 45th Space Wing Safety Office (Patrick AFB) and the 30th Space Wing Safety Office (Vandenberg AFB), authored by James A. Ward Jr. and Robert M. Montgomery. Models 'Mode-5' (unlikely) failure responses for space boosters in the DAMP (facility DAMage and Personnel injury) risk-analysis program. Includes shaping-constant analyses for Atlas IIAS, Delta-GEM, Titan IV, and LLV1, plus an appendix listing/narrating Atlas, Delta, Titan, and Thor launch and failure histories from program inception through August 1996. The document contains no UAP or aerial-object sighting reports; it is an unclassified engineering risk-analysis report.",
+    "key_findings": [
+      "Engineering risk-analysis report; contains zero UAP/aerial-object observations. Subject is 'Mode-5' rare-malfunction modeling for launch-area risk to facilities and personnel.",
+      "Defines six failure-response modes (1-5 plus a normal-vehicle mode); Mode-5 covers impacts that occur uprange or far from the flight line and cannot logically be classified as Modes 1-4.",
+      "Develops Mode-5 impact-density function with two shaping constants (A and B) chosen by trial and error against simulated malfunction-turn results for representative configurations.",
+      "Recommended Mode-5 shaping constants derived for Atlas IIAS, Delta-GEM, Titan IV, and Lockheed Launch Vehicle 1 (LLV1); also tabulates absolute failure probabilities and response-mode percentages for Atlas, Delta, and Titan.",
+      "Appendix D catalogues launch and failure histories: 532 Atlas flights, 232 Delta, 337 Titan, 85 Eastern-Range Thor (1186 total) with vehicle config, success/failure, flight phase, and response-mode classification per entry.",
+      "Failure narratives describe vehicle-engineering anomalies (engine shutdown, guidance failure, gyro loss, structural breakup) - none are aerial-object observations.",
+      "Notable failure examples cited include Atlas 8E (24 Jan 61), Titan M-4 (6 Oct 61), Atlas 145D Mariner R-1 (22 Jul 62), Delta Intelsat III (18 Sep 68), Joust/Prospector (June 1991), and a Red Tigress sounding rocket (20 Aug 91, Cape Canaveral).",
+      "Distribution authorized to US Government agencies and contractors only; further requests routed to 30 SW/SE Vandenberg or 45 SW/SE Patrick AFB."
+    ],
+    "incident_refs": [],
+    "person_refs": [
+      "James A. Ward Jr.",
+      "Robert M. Montgomery",
+      "Martin Kinna",
+      "Louis J. Ullian Jr."
+    ],
+    "unit_refs": [
+      "30th Space Wing",
+      "45th Space Wing",
+      "30 SW/SE",
+      "45 SW/SE"
+    ],
+    "agency_refs": [
+      "AFSPC",
+      "USAF",
+      "Research Triangle Institute",
+      "ACTA Inc."
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "Atlas IIAS",
+      "Atlas E",
+      "Atlas F",
+      "Atlas H",
+      "Delta II",
+      "Delta-GEM",
+      "Titan II",
+      "Titan IIIB",
+      "Titan IIID",
+      "Titan 34D",
+      "Titan IV",
+      "Thor",
+      "LLV-1",
+      "Pegasus",
+      "Castor IV-A",
+      "Red Tigress sounding rocket"
+    ],
+    "location_refs": [
+      "Vandenberg AFB, California",
+      "Patrick AFB, Florida",
+      "Cape Canaveral, Florida",
+      "Eastern Range",
+      "Western Range"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "Mode-5 failure responses are much less likely to occur than those that result in impacts near the flight line.",
+      "DTIC QUALITY INSPECTED 2"
+    ],
+    "pdf_url_local": "/reports/dow-uap-d48-report-september-1996.pdf"
+  },
+  {
+    "id": "dow-uap-d49-launch-summary-february-2000",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "Vandenberg AFB Launch Summary 1958-2000",
+    "agency": "DoW",
+    "document_type": "report",
+    "published_at": "2026-05-08",
+    "date_authored": "2000-02-03",
+    "lag_years": 26.3,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 113,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d49-launch-summary-february-2000.pdf",
+    "summary": "Official 30th Space Wing/Office of History registry of all major launch operations conducted from Vandenberg Air Force Base, California, in chronological order from the first launch on 16 December 1958 through 3 February 2000. Compiled by Jeffrey Geiger, 30 SW/HO. Contains chronology, annual launch summary matrices by booster and command, launch facility guide, and glossary. Total 1,790 launches by Vandenberg agencies cataloged. No UAP/aerial-object observations are recorded in this document; it is reference launch-history data with no sighting content.",
+    "key_findings": [
+      "Document is a comprehensive registry of 1,790 launches from Vandenberg AFB (1958-2000), not a UAP/sighting report; zero aerial-object observations contained.",
+      "Launch agencies tabulated include AFSC (795 launches), SAC (633), Navy (107), NASA (72), AFSPC (55), with smaller counts for ADC, RAF, AEC, CRL, ACC, AFMC, AMROC, TAC, LLL, LM, OSC, Boeing.",
+      "Booster types span Thor, Atlas (D/E/F/H/IIAS), Delta/Delta II, Titan (I/II/IIIB/IIID/34D/IV), Minuteman (I/II/III), Peacekeeper, Pegasus, Scout, BOMARC, Athena/LLV-1, Taurus, and many sounding-rocket variants.",
+      "Each launch entry contains sequence number, date, mission nickname, operation number, facility, vehicle type, program, and cumulative tallies by booster and command.",
+      "Foreword notes: cumulative columns reflect Vandenberg-only operations and exclude Cape Canaveral Titan IV launches.",
+      "Distribution list as of 3 Feb 2000 includes 30 SW/PA, AFSPC/HO, NASA HQ, Aerospace Corp, JPL, KSC, Orbital Sciences, and others.",
+      "Document type is administrative/historical reference; relevance to UAP corpus appears to be contextual (correlating launch dates with potential observation reports rather than recording sightings)."
+    ],
+    "incident_refs": [],
+    "person_refs": [
+      "Jeffrey Geiger"
+    ],
+    "unit_refs": [
+      "30th Space Wing",
+      "30 SW/HO",
+      "576 FLTS",
+      "45th Space Wing",
+      "2 SWG"
+    ],
+    "agency_refs": [
+      "AFSC",
+      "SAC",
+      "AFSPC",
+      "AFMC",
+      "NASA",
+      "USSPACECOM",
+      "ACC",
+      "USAF",
+      "Aerospace Corporation",
+      "Boeing Defense & Space",
+      "TRW",
+      "JPL",
+      "Orbital Sciences"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "Thor",
+      "Thor/Agena",
+      "Thor/Delta",
+      "Atlas D",
+      "Atlas E",
+      "Atlas F",
+      "Atlas H",
+      "Atlas IIAS",
+      "Atlas/Agena",
+      "Delta II",
+      "Titan I",
+      "Titan II",
+      "Titan IIIB",
+      "Titan IIID",
+      "Titan 34D",
+      "Titan IV",
+      "Minuteman I",
+      "Minuteman II",
+      "Minuteman III",
+      "Peacekeeper",
+      "Pegasus",
+      "Scout",
+      "BOMARC",
+      "Athena II",
+      "LLV-1",
+      "Taurus",
+      "Nike/ASP"
+    ],
+    "location_refs": [
+      "Vandenberg AFB, California",
+      "Point Arguello Launch Complex (PALC)",
+      "SLC-1E/W",
+      "SLC-2E/W",
+      "SLC-3E/W",
+      "SLC-4E/W",
+      "SLC-6",
+      "SLC-10E/W",
+      "Cape Canaveral, Florida"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "This is the official registry of all major launch operations conducted from Vandenberg Air Force Base, California."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d49-launch-summary-february-2000.pdf"
+  },
+  {
     "id": "dow-uap-d5-mission-report-arabian-gulf-2020",
     "source": "DoW-PURSUE",
     "external_id": null,
@@ -1983,6 +2549,121 @@
     "pdf_url_local": "/reports/dow-uap-d58-range-fouler-debrief-na-october-2020.pdf"
   },
   {
+    "id": "dow-uap-d6-mission-report-arabian-gulf-2020",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "USCENTCOM Mission Report \u2014 Arabian Gulf, 2020 (DoW-UAP D6)",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2020-01-01",
+    "lag_years": 6.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL"
+    ],
+    "redaction_pct": 95,
+    "page_count": 7,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d6-mission-report-arabian-gulf-2020.pdf",
+    "summary": "Heavily redacted (1.4(a)) USCENTCOM MISREP from 2020 covering an Arabian Gulf mission. Only a single observation line is legible: at 1246Z the platform observed one probable UAP IVO MGRS 3SKT4255899519, with no mission impact and continuation of original tasking.",
+    "key_findings": [
+      "At 1246Z, the platform observed 1x probable UAP IVO MGRS 3SKT4255899519.",
+      "Observation produced no mission impact; aircraft continued original tasking.",
+      "Document is otherwise almost entirely redacted under 1.4(a)."
+    ],
+    "incident_refs": [
+      "dow-uap-d6-mission-report-arabian-gulf-2020#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "USCENTCOM"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Arabian Gulf"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [
+      "1.4(a)"
+    ],
+    "notable_quotes": [
+      "AT 1246Z OBSERVED 1X PROB UAP IVO 3SKT4255899519. NO MISSION IMPACT"
+    ],
+    "pdf_url_local": "/reports/dow-uap-d6-mission-report-arabian-gulf-2020.pdf"
+  },
+  {
+    "id": "dow-uap-d60-mission-report-persian-gulf-august-2020",
+    "source": "DoW-PURSUE",
+    "external_id": "Misrep 4592219 (within USCENTCOM MDR 26-0038 to 26-0046)",
+    "title": "USCENTCOM Mission Report 4592219 \u2014 Arabian Gulf ISR, 8 August 2020",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2020-08-09",
+    "lag_years": 5.7,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 25,
+    "page_count": 6,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d60-mission-report-persian-gulf-august-2020.pdf",
+    "summary": "USCENTCOM MISREP 4592219 documents a 482ATKS / 432 AEW AREC mission flown 8 August 2020 in support of NAVCENT IVO the Arabian Gulf, Strait of Hormuz, and Gulf of Oman. The aircraft observed one UAP at 0726Z; FMV was exploited by DGS1 with no impact to the mission. The mission also recorded an Iranian Air Defense GUARDCALL at FL170 / HDG 200.",
+    "key_findings": [
+      "ISR aircraft conducted 20.3 mission hours / 17.7 IMINT hours / 18.4 SIGINT hours from OKAS, supporting NAVCENT in the Arabian Gulf, Strait of Hormuz, and Gulf of Oman.",
+      "At 0726Z 8 AUG 2020, observed 1x UAP IVO target deck; method of observation: FMV; observed activity: TRANSITTING.",
+      "Iranian Air Defense Guard hailed the aircraft on Guard at 1250Z 8 AUG 2020 at FL170 / HDG 200 / 110 KIAS; standard call/response, no impact to the mission.",
+      "Dense cloud coverage intermittently impacted FMV collection.",
+      "FMV exploited by DGS1; intel gap not filled.",
+      "Mission supported NAVCENT scans for IRIN/IRGCN vessels and UAS activity outside Iranian ports."
+    ],
+    "incident_refs": [
+      "dow-uap-d60-mission-report-persian-gulf-august-2020#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "482ATKS",
+      "432 AEW",
+      "603 AOC",
+      "609 CAOC",
+      "PAROC IDAT"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "NAVCENT",
+      "AARO",
+      "Iranian Air Defense"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "ANDAS4 (primary sensor)",
+      "AH/GMESH"
+    ],
+    "location_refs": [
+      "OKAS (Ali Al Salem AB, Kuwait)",
+      "Arabian Gulf",
+      "Strait of Hormuz",
+      "Gulf of Oman"
+    ],
+    "declassified_date": "2026-03-20",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "AT 0726Z OBSERVED 1X UAP IVO 39RWL08[redacted]52[redacted]. NO IMPACT TO MISSION."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d60-mission-report-persian-gulf-august-2020.pdf"
+  },
+  {
     "id": "dow-uap-d61-mission-report-persian-gulf-august-2020",
     "source": "DoW-PURSUE",
     "external_id": "USCENTCOM MDR 26-0019 (Misrep 4685903)",
@@ -2252,6 +2933,55 @@
     "pdf_url_local": "/reports/dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf"
   },
   {
+    "id": "dow-uap-d8-mission-report-djibouti-2025",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "USCENTCOM Mission Report \u2014 Djibouti, 2025 (DoW-UAP D8)",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2025-01-01",
+    "lag_years": 1.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FIN, SWE, FVEY, NATO"
+    ],
+    "redaction_pct": 95,
+    "page_count": 7,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d8-mission-report-djibouti-2025.pdf",
+    "summary": "Heavily redacted (1.4(a)) USCENTCOM/AFRICOM-area MISREP from 2025 (Djibouti AOR per filename). Sole legible content reports two round, white-hot UAPs moving dynamically south at approximately 240 NM/hr at 1653Z, IVO MGRS 35SQT3423692957.",
+    "key_findings": [
+      "At 1653Z, observed 2x round, white-hot UAPs moving dynamically south at approximately 240 NM/hour IVO MGRS 35SQT3423692957.",
+      "UAP description duplicated under Gentext as 2x UAPs dynamic south at ~240 NM/hour at the same coordinates and time.",
+      "Document is otherwise almost entirely redacted under 1.4(a) with caveat REL TO USA, FIN, SWE, FVEY, NATO."
+    ],
+    "incident_refs": [
+      "dow-uap-d8-mission-report-djibouti-2025#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "USCENTCOM",
+      "NATO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Djibouti AOR (per filename)",
+      "MGRS 35SQT3423692957"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [
+      "1.4(a)"
+    ],
+    "notable_quotes": [
+      "AT 1653Z OBS 2X ROUND WHITE HOT UAPS DYNAMIC SOUTH AT APPROX 240NM/HOUR IVO 35SQT3423692957"
+    ],
+    "pdf_url_local": "/reports/dow-uap-d8-mission-report-djibouti-2025.pdf"
+  },
+  {
     "id": "dow-uap-pr20",
     "source": "DoW-PURSUE",
     "external_id": "USCENTCOM MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S",
@@ -2291,6 +3021,940 @@
       "CLEARED For Open Publication"
     ],
     "pdf_url_local": "/reports/dow-uap-pr20.pdf"
+  },
+  {
+    "id": "fbi-photo-b1",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:11:19",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b1.pdf",
+    "summary": "Heavily redacted grayscale tracking-sensor frame timestamped 12/31/99 18:11:19 with reticle (\u00b115 graduations) showing a small dark point object above the horizontal axis right of center; mountainous horizon visible at lower right.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:11:19 (date and time clearly visible).",
+      "Imagery shows reticle/crosshair with \u00b115 unit graduations, consistent with a targeting or tracking sensor.",
+      "Six rectangular black redaction bars cover overlay text/labels around the frame margins; small dark point-source object visible just right of vertical axis, near +1 right / +1 up."
+    ],
+    "incident_refs": [
+      "fbi-photo-b1#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b1.pdf"
+  },
+  {
+    "id": "fbi-photo-b10",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:10:50",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.3,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b10.pdf",
+    "summary": "Tracking-sensor frame timestamped 12/31/99 18:10:50 with \u00b115 reticle showing a small dark point-source object above the horizontal axis near the vertical reticle.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:10:50.",
+      "Small dark point above horizontal axis just left of vertical reticle.",
+      "Mountainous horizon visible at lower right; redaction bars over caption fields."
+    ],
+    "incident_refs": [
+      "fbi-photo-b10#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b10.pdf"
+  },
+  {
+    "id": "fbi-photo-b11",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:11:06",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.3,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b11.pdf",
+    "summary": "Tracking-sensor frame timestamped 12/31/99 18:11:06 with \u00b115 reticle showing a small dark point-source object above the horizontal axis a few units right of the vertical reticle.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:11:06.",
+      "Small dark point ~3\u20134 units right of vertical reticle, above horizontal axis.",
+      "Caption fields fully redacted by black bars."
+    ],
+    "incident_refs": [
+      "fbi-photo-b11#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b11.pdf"
+  },
+  {
+    "id": "fbi-photo-b12",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:11:12",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.3,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b12.pdf",
+    "summary": "Tracking-sensor frame timestamped 12/31/99 18:11:12 with \u00b115 reticle showing a small dark point-source object above the horizontal axis a few units right of the vertical reticle.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:11:12.",
+      "Small dark point ~3\u20134 units right of vertical reticle, above horizontal axis.",
+      "Mountainous horizon visible at lower right; caption fields redacted."
+    ],
+    "incident_refs": [
+      "fbi-photo-b12#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b12.pdf"
+  },
+  {
+    "id": "fbi-photo-b13",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame (zoom) \u2014 31 December 1999, 18:19:54",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b13.pdf",
+    "summary": "Zoomed tracking-sensor frame timestamped 12/31/99 18:19:54 with \u00b13 reticle scale showing a paired dark object cluster (one larger blob with smaller adjacent speck) just below and right of reticle center.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:19:54.",
+      "Reticle now shows \u00b13 graduations \u2014 a closer / higher-magnification view than the earlier \u00b115 frames.",
+      "Two dark objects close together (one larger, one small) below horizontal axis right of vertical reticle."
+    ],
+    "incident_refs": [
+      "fbi-photo-b13#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b13.pdf"
+  },
+  {
+    "id": "fbi-photo-b14",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame (zoom) \u2014 31 December 1999, 18:20:08",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b14.pdf",
+    "summary": "Zoomed tracking-sensor frame timestamped 12/31/99 18:20:08 with \u00b13 reticle scale showing two distinct dark roughly spherical objects side-by-side just above the horizontal axis; faint pixel artifacts at lower right.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:20:08.",
+      "Two adjacent dark roughly spherical objects centered just above horizontal axis on \u00b13 scale.",
+      "Stippled/dotted artifact in lower-right portion of frame (possibly compression/transmission noise)."
+    ],
+    "incident_refs": [
+      "fbi-photo-b14#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b14.pdf"
+  },
+  {
+    "id": "fbi-photo-b15",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame (zoom) \u2014 31 December 1999, 18:20:22",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b15.pdf",
+    "summary": "Zoomed tracking-sensor frame timestamped 12/31/99 18:20:22 with \u00b13 reticle scale showing a paired dark object cluster (two small spheres) right of vertical reticle and just above horizontal axis.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:20:22.",
+      "Two small dark roughly spherical objects clustered just above horizontal axis, right of vertical reticle on \u00b13 scale.",
+      "Caption fields redacted; high-noise grayscale background."
+    ],
+    "incident_refs": [
+      "fbi-photo-b15#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b15.pdf"
+  },
+  {
+    "id": "fbi-photo-b16",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame (zoom) \u2014 31 December 1999, 18:20:41",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b16.pdf",
+    "summary": "Zoomed tracking-sensor frame timestamped 12/31/99 18:20:41 with \u00b13 reticle scale showing a paired dark object cluster (larger oblong with adjacent small speck) above the horizontal axis right of vertical reticle.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:20:41.",
+      "Larger oblong dark object with small adjacent speck just above horizontal axis right of vertical reticle on \u00b13 scale.",
+      "Caption fields fully redacted."
+    ],
+    "incident_refs": [
+      "fbi-photo-b16#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b16.pdf"
+  },
+  {
+    "id": "fbi-photo-b17",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame (zoom) \u2014 31 December 1999, 18:20:48",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b17.pdf",
+    "summary": "Zoomed tracking-sensor frame timestamped 12/31/99 18:20:48 with \u00b13 reticle scale showing a paired dark object cluster sitting almost directly on the horizontal reticle axis at the vertical reticle.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:20:48.",
+      "Two adjacent dark objects centered on the horizontal reticle near the vertical axis on \u00b13 scale.",
+      "Caption fields redacted."
+    ],
+    "incident_refs": [
+      "fbi-photo-b17#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b17.pdf"
+  },
+  {
+    "id": "fbi-photo-b18",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame (zoom) \u2014 31 December 1999, 18:21:02",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b18.pdf",
+    "summary": "Zoomed tracking-sensor frame timestamped 12/31/99 18:21:02 with \u00b13 reticle scale showing a paired dark object cluster (larger oblong + small speck) above horizontal reticle right of vertical axis.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:21:02.",
+      "Two adjacent dark objects in tight formation above horizontal reticle right of vertical axis on \u00b13 scale.",
+      "Caption fields redacted."
+    ],
+    "incident_refs": [
+      "fbi-photo-b18#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b18.pdf"
+  },
+  {
+    "id": "fbi-photo-b19",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:18:53",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b19.pdf",
+    "summary": "Tracking-sensor frame timestamped 12/31/99 18:18:53 with \u00b115 reticle showing a small dark object on the vertical reticle just above center, possibly resolving as a tiny pair.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:18:53.",
+      "Small dark object sitting on the vertical reticle just above the horizontal axis on \u00b115 scale.",
+      "Caption fields redacted."
+    ],
+    "incident_refs": [
+      "fbi-photo-b19#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b19.pdf"
+  },
+  {
+    "id": "fbi-photo-b2",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:11:27",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b2.pdf",
+    "summary": "Tracking-sensor frame timestamped 12/31/99 18:11:27 showing reticle (\u00b115 scale) and a tiny dark point-source object above horizontal axis; six rectangular redaction bars over caption text.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:11:27.",
+      "Reticle with \u00b115 unit graduations consistent with targeting/optical tracking sensor.",
+      "Small dark point object roughly 3 units right of vertical axis and just above horizontal axis."
+    ],
+    "incident_refs": [
+      "fbi-photo-b2#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b2.pdf"
+  },
+  {
+    "id": "fbi-photo-b20",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:18:58",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b20.pdf",
+    "summary": "Tracking-sensor frame timestamped 12/31/99 18:18:58 with \u00b115 reticle showing a small dark elongated double-blob aerial object several units right of vertical reticle just above horizontal axis.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:18:58.",
+      "Small dark elongated double-blob ~3\u20134 units right of vertical reticle on \u00b115 scale, suggesting two close objects.",
+      "Caption fields redacted."
+    ],
+    "incident_refs": [
+      "fbi-photo-b20#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b20.pdf"
+  },
+  {
+    "id": "fbi-photo-b21",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:19:06",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b21.pdf",
+    "summary": "Tracking-sensor frame timestamped 12/31/99 18:19:06 with \u00b115 reticle showing a small dark object just left of the vertical reticle, slightly above the horizontal axis.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:19:06.",
+      "Small dark object ~1 unit left of vertical reticle, just above horizontal axis on \u00b115 scale.",
+      "Caption fields redacted."
+    ],
+    "incident_refs": [
+      "fbi-photo-b21#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b21.pdf"
+  },
+  {
+    "id": "fbi-photo-b22",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame (zoom) \u2014 31 December 1999, 18:19:19",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b22.pdf",
+    "summary": "Zoomed tracking-sensor frame timestamped 12/31/99 18:19:19 with \u00b13 reticle showing a paired dark object cluster (two adjacent oblong blobs) above horizontal axis right of vertical reticle.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:19:19.",
+      "Two adjacent oblong dark objects in close formation above horizontal axis right of vertical reticle on \u00b13 scale.",
+      "Caption fields redacted."
+    ],
+    "incident_refs": [
+      "fbi-photo-b22#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b22.pdf"
+  },
+  {
+    "id": "fbi-photo-b23",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame (zoom) \u2014 31 December 1999, 18:19:33",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b23.pdf",
+    "summary": "Zoomed tracking-sensor frame timestamped 12/31/99 18:19:33 with \u00b13 reticle showing a single dark elongated oblong object straddling the horizontal axis right of vertical reticle.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:19:33.",
+      "Dark elongated oblong shape straddling horizontal axis ~2 units right of vertical reticle on \u00b13 scale.",
+      "Caption fields redacted."
+    ],
+    "incident_refs": [
+      "fbi-photo-b23#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b23.pdf"
+  },
+  {
+    "id": "fbi-photo-b24",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame (zoom) \u2014 31 December 1999, 18:19:40",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b24.pdf",
+    "summary": "Zoomed tracking-sensor frame timestamped 12/31/99 18:19:40 with \u00b13 reticle showing a dark wing-like / boomerang-shaped object straddling the vertical reticle just above the horizontal axis.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:19:40.",
+      "Dark wing-like / boomerang-shaped object centered on vertical reticle just above horizontal axis on \u00b13 scale.",
+      "Caption fields redacted."
+    ],
+    "incident_refs": [
+      "fbi-photo-b24#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b24.pdf"
+  },
+  {
+    "id": "fbi-photo-b3",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:11:34",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b3.pdf",
+    "summary": "Tracking-sensor frame timestamped 12/31/99 18:11:34 with \u00b115 reticle scale; faint small dark point-source object visible left of vertical axis above horizon; rectangular redactions over caption fields.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:11:34.",
+      "\u00b115 unit reticle scale consistent with prior frames in the sequence.",
+      "Faint dark point object roughly 1 unit left of vertical reticle, above horizon."
+    ],
+    "incident_refs": [
+      "fbi-photo-b3#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b3.pdf"
+  },
+  {
+    "id": "fbi-photo-b4",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:12:16",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b4.pdf",
+    "summary": "Tracking-sensor frame timestamped 12/31/99 18:12:16 with \u00b115 reticle scale and small dark elongated point-source object above the horizontal axis just right of vertical reticle.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:12:16.",
+      "Same sensor/reticle layout as b1\u2013b3 with redacted caption bars.",
+      "Small dark elongated speck above horizontal axis roughly 1 unit right of vertical reticle."
+    ],
+    "incident_refs": [
+      "fbi-photo-b4#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b4.pdf"
+  },
+  {
+    "id": "fbi-photo-b5",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:12:20",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b5.pdf",
+    "summary": "Tracking-sensor frame timestamped 12/31/99 18:12:20 with \u00b115 reticle scale; no aerial object clearly visible against the noisy gray sky in this frame; rectangular redaction bars over caption fields.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:12:20.",
+      "\u00b115 reticle scale consistent with the surrounding frame sequence.",
+      "No clearly distinguishable aerial object in the frame; frame appears to capture only sky / faint terrain."
+    ],
+    "incident_refs": [],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b5.pdf"
+  },
+  {
+    "id": "fbi-photo-b6",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:10:00",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.3,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b6.pdf",
+    "summary": "Tracking-sensor frame timestamped 12/31/99 18:10:00 with \u00b115 reticle scale; clearly resolved dark disk-shaped object with motion blur centered just above the reticle near vertical axis, plus a faint secondary point lower-right.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:10:00 (earliest in sequence).",
+      "Prominent dark disk-shaped object with apparent motion blur sitting just above the vertical reticle near top of crosshair.",
+      "Smaller faint secondary object visible lower right of reticle center, suggesting two objects in the frame."
+    ],
+    "incident_refs": [
+      "fbi-photo-b6#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b6.pdf"
+  },
+  {
+    "id": "fbi-photo-b7",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:10:02",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.3,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b7.pdf",
+    "summary": "Tracking-sensor frame timestamped 12/31/99 18:10:02 showing the dark disk-shaped object now offset upper-right of reticle plus a separate small dark speck below the horizontal axis.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:10:02 (continues sequence from b6).",
+      "Primary disk-shaped object has shifted to upper right of reticle (~+5 right, +5 up).",
+      "Second small dark speck visible below horizontal axis lower-right."
+    ],
+    "incident_refs": [
+      "fbi-photo-b7#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b7.pdf"
+  },
+  {
+    "id": "fbi-photo-b8",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:10:18",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.3,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b8.pdf",
+    "summary": "Tracking-sensor frame timestamped 12/31/99 18:10:18 with \u00b115 reticle scale showing a small dark point-source object on the horizontal axis a few units right of the vertical reticle.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:10:18.",
+      "Small dark point on horizontal axis ~2 units right of vertical reticle.",
+      "Mountainous horizon faintly visible at lower right; redaction bars on caption fields."
+    ],
+    "incident_refs": [
+      "fbi-photo-b8#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b8.pdf"
+  },
+  {
+    "id": "fbi-photo-b9",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI archive sensor frame \u2014 31 December 1999, 18:10:26",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1999-12-31",
+    "lag_years": 26.3,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 25,
+    "page_count": 1,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/fbi-photo-b9.pdf",
+    "summary": "Tracking-sensor frame timestamped 12/31/99 18:10:26 with \u00b115 reticle scale showing a small dark point-source object on the horizontal axis several units left of the vertical reticle.",
+    "key_findings": [
+      "Burned-in timestamp 12/31/99 18:10:26.",
+      "Dark point-source object on horizontal axis ~3 units left of vertical reticle.",
+      "Caption text fully covered by black redaction bars."
+    ],
+    "incident_refs": [
+      "fbi-photo-b9#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/fbi-photo-b9.pdf"
   },
   {
     "id": "nasa-uap-d1-apollo-12-transcript-1969",
@@ -2397,6 +4061,112 @@
       "it's at least possible that this is extragalactic radiation."
     ],
     "pdf_url_local": "/reports/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf"
+  },
+  {
+    "id": "nasa-uap-d6-apollo-17-technical-crew-debriefing-1973",
+    "source": "DoW-PURSUE",
+    "external_id": "MSC-07631",
+    "title": "Apollo 17 Technical Crew Debriefing (U) \u2014 excerpt",
+    "agency": "NASA",
+    "document_type": "transcript",
+    "published_at": "2026-05-08",
+    "date_authored": "1973-01-04",
+    "lag_years": 53.3,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [],
+    "redaction_pct": 5,
+    "page_count": 2,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf",
+    "summary": "Two-page excerpt from the Apollo 17 Technical Crew Debriefing dated 4 January 1973, prepared by the Manned Spacecraft Center Training Office. Crew members Cernan, Evans, and Schmitt describe re-entry visual effects, the recovery aircraft carrier sighting, and the well-known cosmic-ray light-flash phenomenon experienced in transearth coast.",
+    "key_findings": [
+      "CMP Evans describes re-entry visual: a tunnel-like view through the rendezvous window with a bright fireball receding behind the spacecraft.",
+      "Commander Cernan recalls only one unusual sighting during landing/recovery \u2014 the CMP spotting the superstructure of a recovery aircraft carrier through a fogged window.",
+      "LMP Schmitt reports near-continuous 'light flashes' visible while dark-adapted during the flight (the cosmic-ray phosphene phenomenon documented since Apollo 11), absent only during the ALFMED experiment blindfold period.",
+      "Schmitt describes one flash he believed appeared on the lunar surface.",
+      "Document was originally classified Confidential, with auto-declassification 90 days from publication; declassified per NASA Declassification Guide on 6 May 2026."
+    ],
+    "incident_refs": [
+      "nasa-uap-d6-apollo-17-technical-crew-debriefing-1973#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "Apollo 17 crew",
+      "Crew Training and Simulation Division"
+    ],
+    "agency_refs": [
+      "NASA",
+      "Manned Spacecraft Center"
+    ],
+    "operation_refs": [
+      "Apollo 17",
+      "ALFMED experiment"
+    ],
+    "platform_refs": [
+      "Apollo Command Module"
+    ],
+    "location_refs": [
+      "Houston, Texas",
+      "transearth coast",
+      "lunar surface"
+    ],
+    "declassified_date": "2026-05-06",
+    "declassified_by": "NASA Declassification Guide (E.O. 13526, Sec 3.3(a))",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "light flashes just about continuously during the whole flight when we were dark adapted",
+      "I had one which I thought was a flash on the lunar surface"
+    ],
+    "pdf_url_local": "/reports/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf"
+  },
+  {
+    "id": "serial-3_redacted",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "FBI FD-302 \u2014 UAP Interview, September 2023",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "2023-10-01",
+    "lag_years": 2.6,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 35,
+    "page_count": 2,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/serial-3_redacted.pdf",
+    "summary": "Heavily redacted FBI FD-302 documenting a September 2023 interview with a witness who, while driving onto a restricted military test site, observed a metallic bronze cigar-shaped UAP with an intense diamond-white light hovering at low altitude.",
+    "key_findings": [
+      "Witness had restricted airspace at the unidentified test site for upcoming tests on the date of observation.",
+      "Access gate to the restricted area malfunctioned, opening only on the fourth remote-fob attempt; no prior or subsequent issues with the gate.",
+      "Witness observed a cigar-shaped, metallic-bronze object with an intense diamond-white ringed light on its eastern end, almost hovering and slowly drifting east-to-west.",
+      "Object was estimated as the length of two to three Blackhawks nose-to-tail, width about 1.5 Blackhawks, completely silent.",
+      "A passenger in a second vehicle in the convoy also reported seeing the object; observation lasted 5\u201310 seconds before object 'just disappeared'.",
+      "No vehicle electrical interference noted; sky was clear and no contrails were left.",
+      "No photos or video taken; witness with 15 years' familiarity with US military aircraft and drones stated she had never seen anything like it."
+    ],
+    "incident_refs": [
+      "serial-3_redacted#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "UH-60 Blackhawk (size reference)"
+    ],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "metallic bronze in color",
+      "cigar shaped object with an extremely bright light",
+      "the object just disappeared"
+    ],
+    "pdf_url_local": "/reports/serial-3_redacted.pdf"
   },
   {
     "id": "serial-4-redacted_redacted",
