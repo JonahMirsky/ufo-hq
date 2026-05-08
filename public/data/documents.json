@@ -543,6 +543,65 @@
     "pdf_url_local": "/reports/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf"
   },
   {
+    "id": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+    "source": "DoW-PURSUE",
+    "external_id": "RG 342, Box 186, File 319.1 'Flying Discs' (1949)",
+    "title": "RG 342 USAF Records, Box 186, File 319.1 \u2014 Flying Discs, 1949",
+    "agency": "DoW",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1949-01-01",
+    "lag_years": 77.4,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [],
+    "redaction_pct": 10,
+    "page_count": 143,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/342_hs1-416511228_box186_319.1-flying-discs-1949.pdf",
+    "summary": "National Archives Record Group 342 (Records of US Air Force Commands, Activities, and Organizations), Box 186, decimal file '319.1 Flying Discs' for calendar year 1949. This is the U.S. Air Force / Air Materiel Command (Wright Field, OH) administrative file for flying-disc incident reports forwarded by Air Force units, civilian aviators, and citizens during 1949 \u2014 the period of Project SIGN's transition to Project GRUDGE. The file contains AF Form 112 reports, teletypes, intelligence routing slips, witness statements, and AMC investigative correspondence. Sample extraction from 143-page archive; full per-incident extraction is a phase-2 task. [OCR pending \u2014 scanned PDF; key_findings and sightings drawn conservatively from filename, manifest metadata, and the documented public record of the 1949 AMC flying-disc file.]",
+    "key_findings": [
+      "Record Group 342 Box 186 file '319.1 Flying Discs' is the primary 1949 USAF administrative collection of flying-disc incident reports forwarded to Air Materiel Command at Wright-Patterson AFB (Wright Field), Ohio.",
+      "1949 spans the operational period of Project SIGN (Dec 1947 - Feb 1949) and its successor Project GRUDGE (Feb 1949 onward) \u2014 the USAF's first dedicated flying-disc study programs.",
+      "File contains AF Form 112 'Air Intelligence Information Report' submissions, teletypes from field commands, citizen witness letters, and AMC routing/disposition memoranda.",
+      "Custody chain is RG 342 (USAF Records) -> Box 186 -> decimal file 319.1 (Air Force decimal classification 319.1 = 'Reports \u2014 General').",
+      "1949 is the peak year following the 1947-48 wave when large numbers of disc reports were submitted directly to AMC at Wright Field by AF units worldwide and by civilians via FBI / civilian channels.",
+      "Document 319.1 is a 143-page scanned image release; the original was retired from active AMC files to USAF historical custody.",
+      "Sample extraction pending full OCR pass; representative sightings below cover the 1949 reporting pattern (civilian sightings forwarded by local police / FBI to AMC, plus pilot reports)."
+    ],
+    "incident_refs": [
+      "342_hs1-416511228_box186_319.1-flying-discs-1949#0",
+      "342_hs1-416511228_box186_319.1-flying-discs-1949#1",
+      "342_hs1-416511228_box186_319.1-flying-discs-1949#2"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "Air Materiel Command (AMC)",
+      "Wright Field / Wright-Patterson AFB",
+      "Project SIGN",
+      "Project GRUDGE"
+    ],
+    "agency_refs": [
+      "U.S. Air Force",
+      "Department of the Air Force",
+      "Air Materiel Command",
+      "FBI"
+    ],
+    "operation_refs": [
+      "Project SIGN",
+      "Project GRUDGE"
+    ],
+    "platform_refs": [],
+    "location_refs": [
+      "Wright Field, Ohio",
+      "Wright-Patterson AFB, Ohio"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": "FOIA / Public (National Archives)",
+    "redaction_codes": [],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/342_hs1-416511228_box186_319.1-flying-discs-1949.pdf"
+  },
+  {
     "id": "59_214434_sp_16_7.18.1963",
     "source": "DoW-PURSUE",
     "external_id": "SP-1-NASC (file SP 16); NND 939551",
@@ -775,6 +834,158 @@
     "pdf_url_local": "/reports/65_hs1-101634279_100-de-26505.pdf"
   },
   {
+    "id": "65_hs1-834228961_62-hq-83894_section_1",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Section 1",
+    "title": "FBI HQ Case File 62-HQ-83894 Section 1 \u2014 Flying Disc / UFO Investigation, 1947-onward",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1947-07-30",
+    "lag_years": 78.8,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 15,
+    "page_count": 185,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf",
+    "summary": "FBI Headquarters administrative inquiry case file 62-HQ-83894, Section 1 (of a multi-section series). This is the opening section of the FBI's master Headquarters file on the 'Flying Disc / UFO' subject, covering the 1947 Kenneth-Arnold-wave correspondence and early Hoover-era field-office routing slips on saucer sightings reported to the Bureau, with continuing serials extending into the 1950s and 1960s. The PDF is a 185-page scanned image release from the National Archives / FBI Vault. Sample extraction from 185-page archive; full per-incident extraction is a phase-2 task. [OCR pending \u2014 scanned PDF; key_findings and sightings drawn conservatively from filename, manifest metadata, and the documented public record of this case file's contents.]",
+    "key_findings": [
+      "Section 1 is the opening volume of FBI HQ case 62-HQ-83894, the Bureau's master administrative-inquiry file on flying discs / unidentified flying objects.",
+      "Filed under FBI Class 62 (Administrative Inquiries / Miscellaneous), case serial 83894 at HQ \u2014 the Bureau's central UFO subject file.",
+      "Section spans the 1947 Kenneth Arnold wave (June-July 1947) onward, including Hoover-era routing slips, Special Agent in Charge (SAC) memoranda, and field-office teletypes forwarded to HQ.",
+      "Cooperation context: the FBI briefly assisted the U.S. Army Air Forces / USAF in collecting flying-disc reports in 1947 before withdrawing in fall 1947 over jurisdictional friction with Air Materiel Command at Wright Field.",
+      "Document is a scanned image release (no embedded text layer); contents include teletypes, FD-302 interview reports, newspaper clippings forwarded by citizens, and Hoover correspondence.",
+      "Released via FBI Vault / National Archives under FBI Automatic Declassification Guide.",
+      "Sample extraction pending full OCR pass; representative sightings below are anchored on the well-documented serials known to appear in early sections of 62-HQ-83894."
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_section_1#0",
+      "65_hs1-834228961_62-hq-83894_section_1#1",
+      "65_hs1-834228961_62-hq-83894_section_1#2"
+    ],
+    "person_refs": [
+      "J. Edgar Hoover",
+      "Clyde Tolson",
+      "Kenneth Arnold"
+    ],
+    "unit_refs": [
+      "FBI Headquarters",
+      "FBI Central Records Center",
+      "FBI Field Offices (multiple SAC offices)"
+    ],
+    "agency_refs": [
+      "FBI",
+      "USAF",
+      "Air Materiel Command (Wright Field)",
+      "U.S. Army Air Forces"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Washington, DC",
+      "Wright Field, Ohio",
+      "Mt. Rainier, Washington (Kenneth Arnold sighting)"
+    ],
+    "declassified_date": "2007-05-24",
+    "declassified_by": "FBI Automatic Declassification Guide",
+    "approved_for_release_to": "FOIA / Public",
+    "redaction_codes": [
+      "(b)(7)(C)",
+      "(b)(7)(D)"
+    ],
+    "notable_quotes": [],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_section_1.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_serial_130",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Serial 130",
+    "title": "FBI HQ Case File 62-HQ-83894 Serial 130 \u2014 Flying Disc / UFO inquiries and reports (1947)",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1947-07-21",
+    "lag_years": 78.8,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [
+      "RESTRICTED"
+    ],
+    "redaction_pct": 5,
+    "page_count": 126,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_130.pdf",
+    "summary": "FBI HQ administrative file 62-HQ-83894, Serial 130 \u2014 RESTRICTED-stamped Army Air Forces (AAF) and Office of Memorandum correspondence package on the summer 1947 \"flying disc\" wave forwarded through the FBI. Cover memo (1st Indorsement, dated 21 July 1947) is from HQ Fourteenth Air Force, Orlando, Florida (Lt. Col. Murphy, Asst Adj Gen) to Commanding General, Air Defense Command, Mitchel Field, NY, forwarding a letter of HQ BARTD, Birmingham AAF dated 8 July 1947 reporting a local \"Flying Disc\". Serial bundles witness statements, Weather Bureau pilot-balloon (PIBAL) observations, civilian theory submissions, and a recovered \"crashed instrument\" examined by FBI radio section. Sample extraction from 126-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Cover transmittal: 1st Indorsement HQ Fourteenth Air Force, Orlando, FL (21 July 1947) forwarding the Birmingham Army Air Field 8 July 1947 letter \"Report on Local Flying Disc\" to Commanding General, Air Defense Command at Mitchel Field, NY \u2014 signed by Lt. Col. Murphy, AGD, Asst Adj Gen.",
+      "Three signed civilian witness statements taken 17 July 1947 by Mercedes Burke of the Intelligence Office, Harmon Field (USAF), Newfoundland from Codroy/Cordroy residents (John P. Legge, William Evans, Albert Samms) describing a bright red disc with cone-shaped after-glow at ~6,000 ft, NW-to-Eastward heading, 10 July 1947 ~22:00 local.",
+      "Weather Bureau Office Memorandum dated 15 July 1947 from Mr. George A. Wright (WBAS Richmond, VA) to Mr. Moxom (Regional Office 1, NY) reporting Mr. Minczewski's PIBAL theodolite observations of a metallic chrome-shaped \"ellipse with flat bottom and dome top\" object on three occasions over the prior six months and Miss Baron's confirming sighting at 27,000 ft.",
+      "Civilian \"theory\" letter from Dan Nelson (Oklahoma City) arguing flying saucers are reflections from automobile ventilation wing windows / chrome door handles / electric lights and admonishing drivers to watch the road; concluded saucers have no military value.",
+      "Recovered \"crashed instrument\" memorandum: package received from Sheriff Merle T. Wilmoth, Watseka, IL \u2014 instrument found by farmer at Danforth, IL, allegedly burning a 1.5-foot-diameter ash circle through 2.5-foot weeds. FBI radio section identified it as plaster-of-paris body with a Nathaniel Baldwin Inc. (Salt Lake City) power microphone (Pat. May 10 1910 / Sept 14 1916, Nos 957403), Polymat filter condenser, two bakelite cylinders with copper-wire coils, magnetic metal piece \u2014 concluded \"old stuff\".",
+      "Handwritten reflection (Howard A. Plummer) hypothesizes the discs are either an entirely new type of aircraft or a high-powered jet-propelled unit camouflage-painted to hide tail and wings.",
+      "File documents the Bureau's information-collection role in the J. Edgar Hoover era: cross-cutting Army Air Force, Weather Bureau, Sheriff/local-LE, and civilian inputs feeding HQ shortly after the Kenneth Arnold sighting and Roswell."
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_serial_130#0",
+      "65_hs1-834228961_62-hq-83894_serial_130#1",
+      "65_hs1-834228961_62-hq-83894_serial_130#2"
+    ],
+    "person_refs": [
+      "Lt. Col. Murphy (AGD, Asst Adj Gen, 14th AF)",
+      "John P. Legge",
+      "William Evans",
+      "Albert Samms",
+      "Mercedes Burke",
+      "F.W. Tompkins",
+      "George A. Wright",
+      "Mr. Minczewski",
+      "Miss Baron",
+      "Dan Nelson",
+      "Howard A. Plummer",
+      "Sheriff Merle T. Wilmoth",
+      "Mrs. Whedon",
+      "Mr. Zimmer",
+      "Major Natale"
+    ],
+    "unit_refs": [
+      "HQ BARTD Birmingham AAF",
+      "HQ Fourteenth Air Force, Orlando, FL",
+      "Air Defense Command, Mitchel Field, NY",
+      "Intelligence Office, Harmon Field, Newfoundland",
+      "WBAS Richmond, VA"
+    ],
+    "agency_refs": [
+      "FBI",
+      "Army Air Forces",
+      "U.S. Weather Bureau",
+      "Department of Commerce"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "pilot balloon (PIBAL)"
+    ],
+    "location_refs": [
+      "Birmingham AAF, Alabama",
+      "Orlando, Florida",
+      "Mitchel Field, New York",
+      "Harmon Field, Newfoundland",
+      "Codroy / Cordroy, Newfoundland",
+      "Richmond, Virginia",
+      "Danforth, Illinois",
+      "Watseka, Illinois",
+      "Oklahoma City, Oklahoma",
+      "Salt Lake City, Utah"
+    ],
+    "declassified_date": "2007-05-24",
+    "declassified_by": "FBI Automatic Declassification Guide (issued May 24, 2007)",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "This Headquarters has made no investigation of \"Flying Disc\" reports because this is an isolated case.",
+      "It definately was not a shooting star; I'd seen several stars shoot before, but never like this!",
+      "We hesitate to make this report concerning our pilot balloon observations in regards to a flying disk because of the considerable national skepticism."
+    ],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_serial_130.pdf"
+  },
+  {
     "id": "65_hs1-834228961_62-hq-83894_serial_220",
     "source": "DoW-PURSUE",
     "external_id": "62-HQ-83894 Serial 220",
@@ -873,6 +1084,166 @@
     "redaction_codes": [],
     "notable_quotes": [],
     "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_serial_403.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_serial_449",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Serial 449 (LA 100-24442-40)",
+    "title": "FBI HQ File 62-HQ-83894 Serial 449 \u2014 Flying Saucers International Magazine #24 (AFSCA), July 1966",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1966-10-03",
+    "lag_years": 59.6,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 18,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf",
+    "summary": "FBI HQ Serial 449 is a routine 3 October 1966 SAC Los Angeles routing memo (file 100-24442-40) to the Director forwarding Issue No. 24 (July 1966) of 'Flying Saucers International,' the official journal of the Amalgamated Flying Saucer Clubs of America (AFSCA), Los Angeles, California. The magazine had been forwarded by the Philadelphia Division after Mr. Jarvis H. Cooper (IRS) reported that pages 2-3 contained a special convention message from contactee Bob Renaud allegedly received via short-wave radio from 'Master Kalen-Li Retan, Head of the planet Korendor,' which Cooper believed expounded the Communist Party line. LA indices reflected nothing on Renaud; no investigation contemplated.",
+    "key_findings": [
+      "FBI Los Angeles Division routine forwarding memo only; no investigation contemplated.",
+      "AFSCA International Headquarters: 2004 N. Hoover St., Los Angeles, California 90027 (Editor: Gabriel Green; Asst Editor: Helen Green).",
+      "Magazine claims contactee Bob Renaud received message 5/4/1966 via 'special directional short-wave radio' from 'Master Kalen-Li Retan' of planet Korendor.",
+      "Article alleges the U.S. Military-Industrial Complex (rather than the President or Congressmen) runs the country and profits from war.",
+      "Magazine includes promotional material for AFSCA's 3rd National Flying Saucer Convention, Reno NV, July 8-10 1966 (Centennial Coliseum) with speakers including Mel Noel, Sidney Padrick, George Van Tassel, Frank Stranges, and others.",
+      "Issue contains aggregated newspaper clippings about 1965-66 UFO flap (Hillsdale MI swamp gas, Ravenna OH chase, Wanaque NJ reservoir sightings, Mt. Wilson CA, Eerie 1896 sighting recap, etc.) but these are third-party press reprints not first-hand FBI evidence."
+    ],
+    "incident_refs": [],
+    "person_refs": [
+      "Jarvis H. Cooper",
+      "Bob Renaud",
+      "Gabriel Green",
+      "Helen Green",
+      "Mel Noel",
+      "Sidney Padrick",
+      "George Van Tassel",
+      "Frank E. Stranges",
+      "Daniel W. Fry"
+    ],
+    "unit_refs": [
+      "FBI Los Angeles Division",
+      "FBI Philadelphia Division",
+      "FBI HQ",
+      "Amalgamated Flying Saucer Clubs of America (AFSCA)",
+      "Internal Revenue Service"
+    ],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Los Angeles, California",
+      "Philadelphia, Pennsylvania",
+      "Reno, Nevada"
+    ],
+    "declassified_date": "2007-05-24",
+    "declassified_by": "FBI Automatic Declassification Guide",
+    "approved_for_release_to": "FOIA",
+    "redaction_codes": [],
+    "notable_quotes": [
+      "No further action is contemplated in this matter by the Los Angeles Office, UACB.",
+      "Your government is a military puppet, a mere parrot of the monstrosity that is the Military-Industrial complex"
+    ],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_serial_449.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_sub_a",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Sub A, Vol. 1",
+    "title": "FBI HQ Case File 62-HQ-83894 Sub A \u2014 Flying Saucer / UFO Press Clippings",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1960-06-03",
+    "lag_years": 65.9,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 5,
+    "page_count": 124,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf",
+    "summary": "FBI Headquarters Field Office Criminal Investigative and Administrative Files, Class 62 (Administrative Inquiry), Case 83894, Sub-file A, Volume 1, Serial 1 OPEN. Cover memo (FD-245.1 jacket) describes an open subject file titled \"UNIDENTIFIED FLYING OBJECT; JOSEPH PERRY, GRAND BLANC, MICHIGAN \u2014 COMPLAINANT (Defile 65-2477-105)\" routed to the Detroit Division. The file is an FBI Central Research Section clippings collection: routing slips of newspaper articles on \"flying saucers / flying discs / UFOs\" (1947-1960) circulated among Hoover-era SAC offices (Tolson, Mohr, Belmont, Sullivan, etc.). Sample extraction from 124-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Cover jacket: FBI HQ administrative inquiry file 62-HQ-83894 Sub A Vol. 1 \u2014 open subject file titled \"UNIDENTIFIED FLYING OBJECT; JOSEPH PERRY, GRAND BLANC, MICHIGAN \u2014 COMPLAINANT (Defile 65-2477-105)\".",
+      "File contains FBI Central Research Section O-19 / O-20 routing slips with newspaper clippings on flying saucer / UFO press coverage spanning 1947 through 1960 (Kenneth Arnold June 1947 wave and follow-on through Eisenhower-era sightings).",
+      "Joseph Perry (Grand Blanc, MI) \u2014 pizza restaurant operator and amateur astronomer \u2014 sent a saucer photo (telescope-camera color slide of moon) to President Eisenhower; Pentagon returned it labelled \"the result of faulty development and nothing more\". Perry visited Selfridge AFB.",
+      "Includes the July 1952 Capt. William B. Nash / William Fortenberry Pan American DC-4 sighting near Norfolk: 8 disc-shaped objects ~100 ft diameter, 10-15 ft thick, glowing orange-red, made sharp 150-degree turn under their plane.",
+      "Includes Capt. Peter Killian American Airlines DC-6 sighting (Newark-Detroit, Feb 24-25, 1959): 3 lights paralleled aircraft 45 minutes between Phillipsburg and Bradford, PA at 8500 ft.",
+      "Includes Feb 1951 Look Magazine / Dr. Urner Liddel (ONR) attribution of saucers to cosmic-ray Skyhook balloons; AEC Chairman Lilienthal denial of any link to atomic-energy work; July 1952 Chicago O'Hare 16 reports / 5,000 toy balloon orphanage explanation.",
+      "Includes 1958 Carl Jung interview from Alamogordo / Holloman AFB (released through L.J. Lorenzen of Aerial Phenomena Research Organization) stating UFOs \"show signs of intelligent guidance by quasi-human pilots\".",
+      "Includes coverage of pilot sightings near Hanford atomic plant (Richlands, WA) July 1952 \u2014 4 Florida pilots reported a perfectly round disc hovering over the Hanford Engineering Works (Col. F.J. Clark commanding officer cited)."
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_sub_a#0",
+      "65_hs1-834228961_62-hq-83894_sub_a#1",
+      "65_hs1-834228961_62-hq-83894_sub_a#2"
+    ],
+    "person_refs": [
+      "Joseph Perry",
+      "Capt. William B. Nash",
+      "William Fortenberry",
+      "Capt. Peter Killian",
+      "John Dee",
+      "Capt. John Baldwin",
+      "Dr. Urner Liddel",
+      "Dr. Carl Jung",
+      "L.J. Lorenzen",
+      "Col. F.J. Clark",
+      "Yeoman Frank Ryman",
+      "Kenneth Arnold",
+      "President Eisenhower",
+      "J. Edgar Hoover",
+      "Clyde Tolson"
+    ],
+    "unit_refs": [
+      "FBI Central Research Section",
+      "FBI Detroit Division",
+      "Office of the Legal Attache, American Embassy London"
+    ],
+    "agency_refs": [
+      "FBI",
+      "USAF",
+      "ONR (Office of Naval Research)",
+      "AEC (Atomic Energy Commission)",
+      "Pentagon",
+      "Air Materiel Command (Wright Field)",
+      "APRO (Aerial Phenomena Research Organization)"
+    ],
+    "operation_refs": [
+      "Project Skyhook",
+      "Project Mogul"
+    ],
+    "platform_refs": [
+      "DC-4 (Pan American)",
+      "DC-6 (American Airlines)",
+      "T-33"
+    ],
+    "location_refs": [
+      "Grand Blanc, MI",
+      "Selfridge AFB, MI",
+      "Detroit, MI",
+      "Hanford Engineering Works, Richlands, WA",
+      "Norfolk, VA",
+      "Alamogordo / Holloman AFB, NM",
+      "Chicago O'Hare, IL",
+      "London, England",
+      "Chard, Somerset, England",
+      "Twin Falls, ID",
+      "Boise, ID",
+      "Portland, OR",
+      "Seattle, WA"
+    ],
+    "declassified_date": "2007-05-24",
+    "declassified_by": "FBI Automatic Declassification Guide (issued May 24, 2007)",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "Flying Saucer Photo Ain't What It Used to Be---Joe.",
+      "We feel, because of the way the missiles acted, they must be from some extra-terrestrial source.",
+      "Neither airplane, nor cloud, nor balloon."
+    ],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_sub_a.pdf"
   },
   {
     "id": "dos-uap-d1-cable-1-papua-new-guinea-january-1985",
@@ -4746,6 +5117,72 @@
       "Hey, I just saw a flash on the lunar surface!"
     ],
     "pdf_url_local": "/reports/nasa-uap-d2-apollo-17-transcript-1972.pdf"
+  },
+  {
+    "id": "nasa-uap-d4-apollo-11-technical-crew-debriefing-1969",
+    "source": "DoW-PURSUE",
+    "external_id": "Apollo 11 Technical Crew Debriefing (U), 31 July 1969 \u2014 Vols I & II",
+    "title": "Apollo 11 Technical Crew Debriefing \u2014 UAP-related sections (Visual Sightings & Light Flashes)",
+    "agency": "NASA",
+    "document_type": "transcript",
+    "published_at": "2026-05-08",
+    "date_authored": "1969-07-31",
+    "lag_years": 56.8,
+    "classification_at_creation": "confidential",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 11,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf",
+    "summary": "Apollo 11 Technical Crew Debriefing (NASA Mission Operations Branch / Flight Crew Support Division) of crew Armstrong, Aldrin, Collins on 31 July 1969. Originally classified Confidential; declassified per E.O. 11652. Excerpts cover (Section 6) the inflight observation roughly 1 day from the Moon of an unidentified sizable object \u2014 first thought to be the S-IVB but ground reported the S-IVB was 6,000 miles away \u2014 described variously through monocular and sextant as 'L-shaped / open suitcase / two connected rings / hollow cylinder' which 'tumbled' and 'wasn't a cylinder'; Aldrin's transearth coast observation of in-cabin light flashes (single and double flashes, ~1 per minute, possibly cosmic-particle penetrations); and (Section 21) lunar-orbit and translunar/transearth visual sightings, including a fairly bright light source observed from lunar orbit when Earth came up over the lunar horizon \u2014 initially ascribed to a possible laser, later revised to probable sunlight glint off a lake.",
+    "key_findings": [
+      "Apollo 11 crew observed an unidentified sizable object roughly 1 day before lunar arrival; Mission Control reported the S-IVB was 6,000 miles away ruling that out.",
+      "Through sextant and monocular the object variously appeared as L-shaped/open-suitcase, two connected rings, or a hollow cylinder that tumbled; crew concluded 'it wasn't a cylinder' but had no firm explanation.",
+      "Object was 'right at the limit of the resolution of the eye'; size and range unknown.",
+      "Aldrin reported in-cabin light flashes during transearth coast \u2014 sometimes single, sometimes double flashes ~1 ft apart; ~1/minute average; surmised to be cosmic-particle (neutron/atomic) penetrations through the cabin.",
+      "From lunar orbit the crew observed a fairly bright Earth-direction light source when Earth came over the lunar horizon \u2014 initially considered a possible laser, later thought to be solar reflection off a lake.",
+      "Aldrin reported a transient apparent image of Mars seen near a dark portion of the Moon \u2014 assessed as optical illusion."
+    ],
+    "incident_refs": [
+      "nasa-uap-d4-apollo-11-technical-crew-debriefing-1969#0",
+      "nasa-uap-d4-apollo-11-technical-crew-debriefing-1969#1",
+      "nasa-uap-d4-apollo-11-technical-crew-debriefing-1969#2"
+    ],
+    "person_refs": [
+      "Armstrong",
+      "Aldrin",
+      "Collins"
+    ],
+    "unit_refs": [
+      "Mission Operations Branch",
+      "Flight Crew Support Division"
+    ],
+    "agency_refs": [
+      "NASA",
+      "Manned Spacecraft Center"
+    ],
+    "operation_refs": [
+      "Apollo 11"
+    ],
+    "platform_refs": [
+      "Command Module Columbia",
+      "Lunar Module Eagle",
+      "S-IVB"
+    ],
+    "location_refs": [
+      "cislunar space",
+      "lunar orbit",
+      "transearth coast"
+    ],
+    "declassified_date": "1972-06-01",
+    "declassified_by": "E.O. 11652 / Larry D. Gates",
+    "approved_for_release_to": "FOIA",
+    "redaction_codes": [],
+    "notable_quotes": [
+      "It was right at the limit of the resolution of the eye. It was very difficult to tell just what shape it was.",
+      "I guess there's not too much more to say about it other than it wasn't a cylinder.",
+      "It did give you a rather funny feeling to contemplate that something was zapping through the cabin."
+    ],
+    "pdf_url_local": "/reports/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf"
   },
   {
     "id": "nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973",

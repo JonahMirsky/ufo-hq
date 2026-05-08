@@ -1,33 +1,37 @@
 {
-  "generated_at": "2026-05-08T20:33:18.280142Z",
+  "generated_at": "2026-05-08T20:38:09.800015Z",
   "headline": {
-    "TM_01_total_sightings": 125,
-    "TM_02_total_documents": 92,
-    "TM_02_total_pages": 789,
+    "TM_01_total_sightings": 140,
+    "TM_02_total_documents": 98,
+    "TM_02_total_pages": 1396,
     "TM_03_date_range": "1944\u20132025",
     "TM_03_years_covered": 82,
-    "TM_04_unresolved_pct": 94.4,
+    "TM_04_unresolved_pct": 92.9,
     "TM_05_top_shape": "formation",
     "TM_05_top_shape_count": 25,
     "TM_06_most_active_year": 1999,
     "TM_06_most_active_year_count": 23,
     "TM_07_active_hotspot": "US",
-    "TM_07_active_hotspot_count": 20,
+    "TM_07_active_hotspot_count": 31,
     "TM_08_top_speed_mph": 4000,
-    "TM_09_most_cited": "USCENTCOM",
+    "TM_09_most_cited": "FBI",
     "TM_09_most_cited_count": 36,
-    "extra_aviator_pct": 61.6
+    "extra_aviator_pct": 60.7
   },
   "by_year": {
     "1944": 12,
     "1945": 3,
+    "1947": 5,
     "1948": 3,
+    "1949": 3,
     "1950": 1,
+    "1952": 2,
     "1956": 1,
     "1957": 1,
     "1958": 1,
+    "1959": 1,
     "1965": 1,
-    "1969": 1,
+    "1969": 4,
     "1972": 4,
     "1973": 1,
     "1974": 1,
@@ -45,10 +49,10 @@
   },
   "by_shape": {
     "formation": 25,
+    "light": 22,
     "orb": 22,
-    "light": 19,
+    "disk": 19,
     "sphere": 11,
-    "disk": 9,
     "triangle": 4,
     "cigar": 3,
     "cylinder": 2,
@@ -56,7 +60,7 @@
     "boomerang": 1
   },
   "by_country": {
-    "US": 20,
+    "US": 31,
     "FR": 8,
     "SY": 8,
     "IR": 5,
@@ -66,6 +70,7 @@
     "GB": 1,
     "NL": 1,
     "SE": 1,
+    "CA": 1,
     "MX": 1,
     "KZ": 1,
     "GR": 1,
@@ -73,16 +78,16 @@
     "DJ": 1
   },
   "by_agency_docs": {
-    "DoW": 43,
-    "FBI": 31,
+    "DoW": 44,
+    "FBI": 35,
+    "NASA": 8,
     "DoS": 7,
-    "NASA": 7,
     "Other": 4
   },
   "by_doctype": {
-    "case_file": 31,
+    "case_file": 36,
     "MISREP": 30,
-    "transcript": 6,
+    "transcript": 7,
     "range_fouler_debrief": 6,
     "cable": 5,
     "report": 4,
@@ -94,18 +99,18 @@
     "slide_deck": 1
   },
   "by_evidence_type": {
-    "visual": 124,
+    "visual": 138,
     "video": 36,
     "photographic": 28,
     "infrared": 17,
     "radar": 6,
     "electronic_signature": 3,
     "audio": 2,
-    "physical_trace": 1
+    "physical_trace": 2
   },
   "lag_distribution": {
-    "median_years": 9.4,
+    "median_years": 26.3,
     "max_years": 81.1,
-    "count": 91
+    "count": 97
   }
 }
