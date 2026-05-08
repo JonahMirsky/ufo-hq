@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-08T20:50:02.652078Z",
+  "generated_at": "2026-05-08T20:51:33.112503Z",
   "headline": {
-    "TM_01_total_sightings": 176,
-    "TM_02_total_documents": 114,
-    "TM_02_total_pages": 3960,
+    "TM_01_total_sightings": 178,
+    "TM_02_total_documents": 115,
+    "TM_02_total_pages": 4144,
     "TM_03_date_range": "1944\u20132025",
     "TM_03_years_covered": 82,
-    "TM_04_unresolved_pct": 85.2,
+    "TM_04_unresolved_pct": 83.7,
     "TM_05_top_shape": "disk",
     "TM_05_top_shape_count": 35,
     "TM_06_most_active_year": 1999,
     "TM_06_most_active_year_count": 23,
     "TM_07_active_hotspot": "US",
-    "TM_07_active_hotspot_count": 62,
+    "TM_07_active_hotspot_count": 63,
     "TM_08_top_speed_mph": 4000,
     "TM_09_most_cited": "FBI",
-    "TM_09_most_cited_count": 37,
-    "extra_aviator_pct": 51.7
+    "TM_09_most_cited_count": 36,
+    "extra_aviator_pct": 50.6
   },
   "by_year": {
     "1944": 13,
     "1945": 3,
     "1947": 15,
-    "1948": 14,
-    "1949": 7,
+    "1948": 16,
+    "1949": 5,
     "1950": 3,
     "1952": 3,
     "1953": 1,
@@ -36,12 +36,13 @@
     "1960": 1,
     "1964": 1,
     "1965": 1,
+    "1966": 1,
     "1969": 4,
     "1972": 4,
     "1973": 1,
     "1974": 1,
     "1976": 1,
-    "1977": 1,
+    "1977": 2,
     "1985": 3,
     "1994": 2,
     "1999": 23,
@@ -65,7 +66,7 @@
     "boomerang": 1
   },
   "by_country": {
-    "US": 62,
+    "US": 63,
     "FR": 8,
     "SY": 8,
     "DE": 5,
@@ -77,6 +78,7 @@
     "GB": 1,
     "NL": 1,
     "SE": 1,
+    "CO": 1,
     "MX": 1,
     "KZ": 1,
     "GR": 1,
@@ -85,13 +87,13 @@
   },
   "by_agency_docs": {
     "DoW": 49,
-    "FBI": 46,
+    "FBI": 47,
     "NASA": 8,
     "DoS": 7,
     "Other": 4
   },
   "by_doctype": {
-    "case_file": 49,
+    "case_file": 50,
     "MISREP": 30,
     "transcript": 7,
     "memo": 6,
@@ -105,24 +107,25 @@
     "slide_deck": 1
   },
   "by_evidence_type": {
-    "visual": 158,
+    "visual": 157,
     "video": 36,
     "photographic": 31,
     "infrared": 17,
-    "document": 8,
+    "document": 9,
     "radar": 6,
     "audio": 4,
     "electronic_signature": 3,
     "physical_trace": 3,
+    "written_complaint": 3,
     "press": 2,
     "secondary_report": 2,
-    "written_complaint": 2,
     "physical": 1,
+    "administrative_record": 1,
     "interview": 1
   },
   "lag_distribution": {
     "median_years": 26.4,
     "max_years": 81.1,
-    "count": 112
+    "count": 113
   }
 }

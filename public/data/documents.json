@@ -644,27 +644,32 @@
   {
     "id": "342_hs1-416511228_box186_319.1-flying-discs-1949",
     "source": "DoW-PURSUE",
-    "external_id": "RG 342, Box 186, File 319.1 'Flying Discs' (1949)",
-    "title": "RG 342 USAF Records, Box 186, File 319.1 \u2014 Flying Discs, 1949",
+    "external_id": "NARA RG 342 Box 186, File 319.1 'Flying Discs' 1949",
+    "title": "USAF AMC 'Flying Discs' File \u2014 319.1 Box 186, 1949 (Wright-Patterson AFB / Air Materiel Command)",
     "agency": "DoW",
     "document_type": "case_file",
     "published_at": "2026-05-08",
     "date_authored": "1949-01-01",
     "lag_years": 77.4,
-    "classification_at_creation": "confidential",
-    "classification_caveats": [],
-    "redaction_pct": 10,
+    "classification_at_creation": "restricted",
+    "classification_caveats": [
+      "RESTRICTED",
+      "CONFIDENTIAL"
+    ],
+    "redaction_pct": null,
     "page_count": 143,
     "pdf_url": "https://www.war.gov/medialink/ufo/release_1/342_hs1-416511228_box186_319.1-flying-discs-1949.pdf",
-    "summary": "National Archives Record Group 342 (Records of US Air Force Commands, Activities, and Organizations), Box 186, decimal file '319.1 Flying Discs' for calendar year 1949. This is the U.S. Air Force / Air Materiel Command (Wright Field, OH) administrative file for flying-disc incident reports forwarded by Air Force units, civilian aviators, and citizens during 1949 \u2014 the period of Project SIGN's transition to Project GRUDGE. The file contains AF Form 112 reports, teletypes, intelligence routing slips, witness statements, and AMC investigative correspondence. Sample extraction from 143-page archive; full per-incident extraction is a phase-2 task. [OCR pending \u2014 scanned PDF; key_findings and sightings drawn conservatively from filename, manifest metadata, and the documented public record of the 1949 AMC flying-disc file.]",
+    "summary": "NARA Record Group 342 (Records of the U.S. Air Force) Box 186, File 319.1 'Flying Discs' (1949) \u2014 a 143-page bound USAF Air Materiel Command (AMC) administrative case file from the Wright-Patterson AFB era covering 1948-49 unidentified flying object reports collected by USAF field stations and forwarded to the Office of the Commanding General, AMC, in support of Project SIGN/GRUDGE. Cover page is a RESTRICTED memorandum dated 8 January 1950 from the Lowry Flight Service Center, Lowry Air Force Base, Denver, Colorado, captioned 'Unidentified Flying Objects', addressed to the Commanding General Air Materiel Command, Wright-Patterson AFB, Dayton, Ohio, with seven numbered paragraphs documenting investigative procedures and forwarded sighting reports. The file aggregates standardized USAF Olmsted Field-style sighting questionnaires, RESTRICTED reports from foreign air bases (notably a 27 February 1949 RESTRICTED report on 'Unidentified Aerial Objects Vicinity of San Andres Island' and an entry on Andagoraves(?) CHILE Air Base), Air Police patrol reports (including questionnaires on observer qualifications: 'A. EYESIGHT IN OBSERVERS', 'B. POLICE', 'C. KIND OF MOTOR VEHICLE OPERATED'), and an October 1948 'Reporting of Information on Flying Discs' communications service memorandum directing dissemination procedures to Operations & Training Division, Communications Service, Washington DC. Sample extraction from 143-page archive; full per-incident extraction is a phase-2 task.",
     "key_findings": [
-      "Record Group 342 Box 186 file '319.1 Flying Discs' is the primary 1949 USAF administrative collection of flying-disc incident reports forwarded to Air Materiel Command at Wright-Patterson AFB (Wright Field), Ohio.",
-      "1949 spans the operational period of Project SIGN (Dec 1947 - Feb 1949) and its successor Project GRUDGE (Feb 1949 onward) \u2014 the USAF's first dedicated flying-disc study programs.",
-      "File contains AF Form 112 'Air Intelligence Information Report' submissions, teletypes from field commands, citizen witness letters, and AMC routing/disposition memoranda.",
-      "Custody chain is RG 342 (USAF Records) -> Box 186 -> decimal file 319.1 (Air Force decimal classification 319.1 = 'Reports \u2014 General').",
-      "1949 is the peak year following the 1947-48 wave when large numbers of disc reports were submitted directly to AMC at Wright Field by AF units worldwide and by civilians via FBI / civilian channels.",
-      "Document 319.1 is a 143-page scanned image release; the original was retired from active AMC files to USAF historical custody.",
-      "Sample extraction pending full OCR pass; representative sightings below cover the 1949 reporting pattern (civilian sightings forwarded by local police / FBI to AMC, plus pilot reports)."
+      "NARA RG 342 (USAF) Box 186, file 319.1 'Flying Discs' is a 1949-era USAF Air Materiel Command master file feeding Project SIGN/GRUDGE at Wright-Patterson AFB, Dayton, Ohio.",
+      "Cover page is a RESTRICTED memorandum dated 8 January 1950 from Lowry Flight Service Center, Lowry Air Force Base, Denver, Colorado, captioned 'Unidentified Flying Objects', addressed to the Commanding General Air Materiel Command, Wright-Patterson AFB.",
+      "Contains an Olmsted Field, Pennsylvania, USAF (Middletown) sighting report dated 28 September 1948 captioned 'Unidentified Flying Objects' \u2014 standardized AMC reporting format with sub-fields for date, time, observer numbers, point of observation, ability to maneuver, visibility relative to general; ability/visibility/distance/altitude.",
+      "Contains a 27 February 1949 RESTRICTED report titled 'Unidentified Aerial Objects Vicinity of San Andres Island' from a US Forces Antilles (?) Air Base reporting unit, with detailed RESTRICTED narrative on aerial observation and witness qualifications.",
+      "Contains an Air Police patrol questionnaire pages capturing observer qualifications (eyesight, police vs civilian status, vehicle operated, observer's psychological condition, visibility of observers, manner of disappearance) \u2014 the standard 1949 AMC checklist.",
+      "Contains a 'Reporting of Information on Flying Discs' memorandum dated 7 October 1948 from Communications Service, Washington DC, governing 'TRANSMITTAL of all information concerning UFOs and flying discs to the Air Materiel Command' \u2014 formalizing 1948 reporting flow into Project SIGN.",
+      "Standard AMC report format includes sections 'A. RELATING TO THE OBSERVER (NAME, RANK, EYESIGHT, etc.)' and 'B. RELATING TO BASIC OBSERVATIONS (WEATHER, VISIBILITY, OBJECT)' \u2014 designed for field-grade Air Police use.",
+      "Pages include physical paper-clip imprints, blue 'RESTRICTED' stamps, and Wright-Patterson Air Materiel Command intake markings.",
+      "File is the foundational 1949 USAF dataset that fed into Project SIGN's '99 incidents' analysis (the 1948 dataset later evaluated by Project GRUDGE)."
     ],
     "incident_refs": [
       "342_hs1-416511228_box186_319.1-flying-discs-1949#0",
@@ -673,16 +678,17 @@
     ],
     "person_refs": [],
     "unit_refs": [
-      "Air Materiel Command (AMC)",
-      "Wright Field / Wright-Patterson AFB",
-      "Project SIGN",
-      "Project GRUDGE"
+      "Air Materiel Command (AMC) HQ, Wright-Patterson AFB, Dayton, Ohio",
+      "Lowry Flight Service Center, Lowry AFB, Denver, Colorado",
+      "Olmsted Field, Pennsylvania (USAF)",
+      "Communications Service, Washington DC (1948)",
+      "USAF Air Police"
     ],
     "agency_refs": [
       "U.S. Air Force",
-      "Department of the Air Force",
       "Air Materiel Command",
-      "FBI"
+      "Project SIGN",
+      "Project GRUDGE"
     ],
     "operation_refs": [
       "Project SIGN",
@@ -690,14 +696,20 @@
     ],
     "platform_refs": [],
     "location_refs": [
-      "Wright Field, Ohio",
-      "Wright-Patterson AFB, Ohio"
+      "Wright-Patterson AFB, Dayton, Ohio",
+      "Lowry AFB, Denver, Colorado",
+      "Olmsted Field, Middletown, Pennsylvania",
+      "San Andres Island (Caribbean / US Forces Antilles)",
+      "Chile (foreign air base referenced)"
     ],
     "declassified_date": null,
-    "declassified_by": null,
-    "approved_for_release_to": "FOIA / Public (National Archives)",
+    "declassified_by": "NARA / USAF declassification",
+    "approved_for_release_to": null,
     "redaction_codes": [],
-    "notable_quotes": [],
+    "notable_quotes": [
+      "Unidentified Flying Objects",
+      "Unidentified Aerial Objects Vicinity of San Andres Island"
+    ],
     "pdf_url_local": "/reports/342_hs1-416511228_box186_319.1-flying-discs-1949.pdf"
   },
   {
@@ -1230,6 +1242,71 @@
       "Use Care in Handling This File"
     ],
     "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_section_1.pdf"
+  },
+  {
+    "id": "65_hs1-834228961_62-hq-83894_section_10",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Section 10 (HS1-834228961)",
+    "title": "FBI HQ Case 62-HQ-83894 \u2014 Flying Discs / UFO File, Section 10 (1966-1977, Hoover-era public mail through White House Inquiry)",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "1966-09-06",
+    "lag_years": 59.7,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": null,
+    "page_count": 184,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf",
+    "summary": "Section 10 of FBI HQ main UFO case file 62-HQ-83894 \u2014 the closing section of the original Bureau-numbered UFO/Flying Disc subject file. The section opens with a 6 September 1966 letter signed 'J. Edgar Hoover, Director' to Mrs. Levi J. Dow (Goffstown, New Hampshire) acknowledging her 31 August 1966 letter and replying that 'this Bureau is strictly an investigative agency of the Federal Government and, as such, neither makes evaluations nor draws conclusions as to the character or integrity of any organization, publication or individual' \u2014 a NOTE adds 'Bufiles contain no record of correspondent or Amalgamated Flying Saucer Clubs of America, Inc.' (Los Angeles, Calif.). The body of the section contains additional public correspondence to FBI HQ and reproduces a 'UFOlogy' magazine article 'A proposal to UNO' calling for a UN-level UFO investigation, alongside 'ANGELS IN FLYING MACHINES' and 'WHEELS IN FLYING MACHINES' theological pieces and lists of UFO-research scientific researchers. Section closes with a 14 June 1977 Memorandum from J. Cochran, Jr. to Mr. McDermott (62-83894-486) titled 'WHITE HOUSE INQUIRY RE UNIDENTIFIED FLYING OBJECTS (UFO)', recording that Stanley Schneider of the White House Office of Science and Technology telephonically inquired on behalf of Jody Powell (Press Secretary to President Carter) about the FBI's procedures for handling UFO information, and the Bureau advised that no FBI investigative jurisdiction exists and the U.S. Air Force closed its UFO investigation several years ago (Project Blue Book closed Dec 1969); referrals now go to local authorities. Sample extraction from 184-page archive; full per-incident extraction is a phase-2 task.",
+    "key_findings": [
+      "Section 10 anchor records: 6 September 1966 Hoover form-reply letter (62-83894-446 series) to Mrs. Levi J. Dow, Goffstown, New Hampshire \u2014 references Amalgamated Flying Saucer Clubs of America, Inc. (Los Angeles, California); and 14 June 1977 J. Cochran Jr. \u2192 McDermott memorandum 'WHITE HOUSE INQUIRY RE UNIDENTIFIED FLYING OBJECTS (UFO)' (62-83894-486).",
+      "1977 White House Inquiry \u2014 Stanley Schneider of the Office of Science and Technology telephonically contacted FBI on behalf of Jody Powell (President Carter's Press Secretary), inquiring about Bureau procedures for handling public UFO information. FBI replied that 'as far as the FBI is concerned there appears to be no conceivable jurisdiction for us to conduct any inquiries upon receipt of information relating to a UFO sighting' and that the U.S. Air Force had 'closed their investigation of these matters several years ago' (Project Blue Book closure Dec 1969); inquiries are now referred to appropriate local authorities. Action: 'None. For information.'",
+      "Section reproduces UFOlogy magazine article (mid-1960s) 'A Proposal to UNO' on a U Thant / U.N. coordinated UFO study, plus 'ANGELS IN FLYING MACHINES' (a Reformation of biblical 'flying chariots' interpretation) and 'WHEELS IN FLYING MACHINES' theological pieces from an organization referencing the Resurrection of Christ in connection with UFO contact.",
+      "Section reflects late-Hoover-era / post-Hoover FBI policy: form acknowledgement of UFO mail; no investigative jurisdiction; no FBI evaluation of organizations such as Flying Saucer Clubs.",
+      "Section bridges Project Blue Book closure (Dec 1969) and the post-Blue Book Carter-era 1977 White House review of UFO procedures \u2014 capturing the moment when FBI confirmed it has no UFO function.",
+      "Section 10 carries serials approximately 446 through 486, with the 1977 memo (62-83894-486) representing the latest serial in the original 62-HQ-83894 subject file."
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_section_10#0",
+      "65_hs1-834228961_62-hq-83894_section_10#1"
+    ],
+    "person_refs": [
+      "John Edgar Hoover (FBI Director, 1966 letter)",
+      "Mrs. Levi J. Dow (Goffstown, New Hampshire correspondent)",
+      "Stanley Schneider (Office of Science and Technology, White House \u2014 1977 telephonic inquirer)",
+      "Jody Powell (Press Secretary to President Jimmy Carter)",
+      "J. Cochran, Jr. (FBI; 1977 memo author)",
+      "Mr. McDermott (FBI; 1977 memo recipient)"
+    ],
+    "unit_refs": [
+      "Amalgamated Flying Saucer Clubs of America, Inc. (Los Angeles, CA)",
+      "Office of Science and Technology, The White House"
+    ],
+    "agency_refs": [
+      "FBI Headquarters",
+      "The White House (Office of Science and Technology; Press Secretary)",
+      "U.S. Air Force (Project Blue Book \u2014 closed)",
+      "Department of the Air Force"
+    ],
+    "operation_refs": [
+      "Project Blue Book (referenced as closed)"
+    ],
+    "platform_refs": [],
+    "location_refs": [
+      "Goffstown, New Hampshire",
+      "Los Angeles, California",
+      "Washington, D.C. (White House)"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "no conceivable jurisdiction",
+      "WHITE HOUSE INQUIRY RE UNIDENTIFIED FLYING OBJECTS"
+    ],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_section_10.pdf"
   },
   {
     "id": "65_hs1-834228961_62-hq-83894_section_2",
