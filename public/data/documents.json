@@ -111,6 +111,59 @@
     "pdf_url_local": "/reports/059uap00012.pdf"
   },
   {
+    "id": "059uap00013",
+    "source": "DoW-PURSUE",
+    "external_id": "23 MEXICO 2544",
+    "title": "AMEMBASSY Mexico Cable \u2014 Mexico Weekly Political Blotter, Sep 11-15, 2023 (includes UAP testimony item)",
+    "agency": "DoS",
+    "document_type": "cable",
+    "published_at": "2026-05-08",
+    "date_authored": "2023-09-16",
+    "lag_years": 2.6,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 7,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/059uap00013.pdf",
+    "summary": "U.S. Embassy Mexico weekly political blotter cable (DTG 160150Z SEP 23) covering domestic Mexican political developments. Includes a brief item noting that the Mexican Congress heard UAP testimony on September 12, 2023, from Jaime Maussan and former US Navy pilot Ryan Graves; alleged 'alien corpses' were displayed and pilot encounter videos were shown. Background/contextual document; contains no aerial-object observations by US personnel.",
+    "key_findings": [
+      "Mexican Congress held a UAP hearing September 12, 2023, debating language for an Aerial Space Protection Law that would formally acknowledge UAP/alien life.",
+      "Witnesses included Mexican journalist Jaime Maussan and former US Navy pilot Ryan Graves.",
+      "Maussan presented two alleged non-human corpses; Graves later called the presentation an 'unsubstantiated stunt' that took attention away from genuine pilot UAP encounters.",
+      "Cable released in full at UNCLASSIFIED by John Powers, Acting Director, US Department of State, 2/25/2026.",
+      "Document is DoS contextual material, not a US aircrew observation."
+    ],
+    "incident_refs": [],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "DoS",
+      "AMEMBASSY MEXICO",
+      "USNORTHCOM",
+      "USSOUTHCOM",
+      "NSC",
+      "DNI",
+      "CIA",
+      "DIA",
+      "DHS",
+      "DOJ"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Mexico City, Mexico"
+    ],
+    "declassified_date": "2026-02-25",
+    "declassified_by": "John Powers, Acting-Director, US Department of State",
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "Mexican Congress Hears Testimony on Alien Life",
+      "Graves lamented the display took away from his and other pilots' experiences with UAP"
+    ],
+    "pdf_url_local": "/reports/059uap00013.pdf"
+  },
+  {
     "id": "dos-uap-d1-cable-1-papua-new-guinea-january-1985",
     "source": "DoW-PURSUE",
     "external_id": "85 PORT MORESBY 199 / CSP-2025-00040 / B-00002707027",
@@ -375,6 +428,151 @@
     "pdf_url_local": "/reports/dow-uap-d12-mission-report-iraq-may-2022.pdf"
   },
   {
+    "id": "dow-uap-d14-mission-report-iraq-may-2022",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 25-0104 (Misrep undefined-9319618)",
+    "title": "USCENTCOM MISREP \u2014 50 ATKS / 432 AEW ISR Mission ISO OP SPARTAN SHIELD, 24 October 2023 (filename references Iraq May 2022 \u2014 content is UAE/October 2023)",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2023-10-24",
+    "lag_years": 2.5,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "NOFORN"
+    ],
+    "redaction_pct": 35,
+    "page_count": 9,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d14-mission-report-iraq-may-2022.pdf",
+    "summary": "MQ-9 (50 ATKS / 432 AEW) ISR mission ISO OP SPARTAN SHIELD departing Al Dhafra (OMAM) 240015ZOCT23, recovering OMAM 242058Z. During the mission, two separate UAP were observed: at 0241Z vicinity 39RXK68 (kinetic velocity 320 mph, thermal showed cold) and at 0322Z vicinity 39RXK68 (kinetic velocity 440 mph). Iranian Air Defense issued a professional guardcall at 0145Z stating 'maintain safe distance from border'. Filename references 'Iraq May 2022' but content honored.",
+    "key_findings": [
+      "First UAP observation: 0241Z on 24 OCT 2023 vicinity 39RXK68/65; aircraft at FL243 / 162 KTAS, trajectory 280; kinetic velocity 320 mph; thermal showed cold; UAP physical state Solid; observer assessment Benign.",
+      "Second UAP observation: 0322Z on 24 OCT 2023 vicinity 39RXK68/65; same aircraft profile; kinetic velocity 440 mph; UAP physical state Solid.",
+      "Iranian Air Defense issued professional guardcall at 0145Z stating 'maintain safe distance from border'; standard coalition response, no mission impact.",
+      "Mission supported NAVCENT ISO OP SPARTAN SHIELD; IMINT conducted IVO 40RBP52/68 from 0155Z to 1837Z.",
+      "Total mission time 20h43m; 17h17m on station.",
+      "Filename 'iraq-may-2022' contradicts document \u2014 actual takeoff OMAM (UAE) 240015ZOCT23. Content honored per extraction rules."
+    ],
+    "incident_refs": [
+      "dow-uap-d14-mission-report-iraq-may-2022#0",
+      "dow-uap-d14-mission-report-iraq-may-2022#1"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "50 ATKS",
+      "432 AEW",
+      "609 CAOC",
+      "PAROC",
+      "ISRD/ACF/UnitSupport"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "ACC",
+      "NAVCENT",
+      "AARO"
+    ],
+    "operation_refs": [
+      "OPERATION SPARTAN SHIELD"
+    ],
+    "platform_refs": [
+      "MQ-9 (AN/DAS-1 TGT pod, AH/GMESH)"
+    ],
+    "location_refs": [
+      "Al Dhafra AB (OMAM), UAE",
+      "vicinity 39RXK68/65",
+      "vicinity 40RBP00/97 (guardcall)",
+      "Persian Gulf area"
+    ],
+    "declassified_date": "2025-09-12",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4c",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "OBSERVED 1X UAP IVO 39RXK68/65",
+      "THERMAL SHOWED COLD",
+      "MAINTAIN SAFE DISTANCE FROM BORDER"
+    ],
+    "pdf_url_local": "/reports/dow-uap-d14-mission-report-iraq-may-2022.pdf"
+  },
+  {
+    "id": "dow-uap-d16-mission-report-syria-july-2022",
+    "source": "DoW-PURSUE",
+    "external_id": "MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S",
+    "title": "USCENTCOM MISREP \u2014 TF Chosin ISR Mission, Syria, 30-31 July 2022",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2022-07-31",
+    "lag_years": 3.8,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "NOFORN"
+    ],
+    "redaction_pct": 35,
+    "page_count": 7,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d16-mission-report-syria-july-2022.pdf",
+    "summary": "ISR/Armed Recce mission ISO TF Chosin from Muwaffaq Salti AB (OJMS), Jordan into Syria 30-31 July 2022. During tasking the aircraft observed 1 UAP at 310239ZJUL22 vicinity 37SFU27/74 in KP9 \u2014 UAP transited north-to-south in less than a minute. Long-duration ISR mission included multiple ADM follows, technicals, and runway scans. Total mission time 20h57m.",
+    "key_findings": [
+      "MQ-9 (89 ATKS / 432 AEW) observed 1 UAP at 0239Z on 31 JUL 2022 vicinity 37SFU27/74; event lasted under one minute, object travelled north to south.",
+      "Friendly aircraft was at 19,359 ft and 116 KTS at time of UAP observation; no RF signatures detected.",
+      "Mission flown ISO Operation Inherent Resolve, supporting TF Chosin in armed reconnaissance, FMV/SIGINT collection.",
+      "20.9 mission hours, 17.2 IMINT hours, 18.7 SIGINT hours; full motion video exploited by DGS1.",
+      "Multiple ADM follows including 30-ADM convoy and a possible mounted artillery / AAA observation.",
+      "Weather was not a factor."
+    ],
+    "incident_refs": [
+      "dow-uap-d16-mission-report-syria-july-2022#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "89 ATKS",
+      "432 AEW",
+      "609 CAOC",
+      "603 AOC"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AFCENT",
+      "AARO",
+      "TF CHOSIN"
+    ],
+    "operation_refs": [
+      "OPERATION INHERENT RESOLVE"
+    ],
+    "platform_refs": [
+      "MQ-9 (inferred)"
+    ],
+    "location_refs": [
+      "Muwaffaq Salti AB (OJMS), Jordan",
+      "Syria (KP9)",
+      "Dayr az Zar"
+    ],
+    "declassified_date": "2025-10-08",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4c",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "OBSERVED AN UAP EVENT IVO 37SFU27[74] IN KP 9. THE UAP OCCURED IN LESS THAN A MINUTE, WITH THE UAP MOVING FROM N TO S."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d16-mission-report-syria-july-2022.pdf"
+  },
+  {
     "id": "dow-uap-d18-mission-report-iraq-december-2022",
     "source": "DoW-PURSUE",
     "external_id": "MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S",
@@ -590,6 +788,223 @@
     "pdf_url_local": "/reports/dow-uap-d20-mission-report-southern-united-states-2020.pdf"
   },
   {
+    "id": "dow-uap-d23-mission-report-united-arab-emirates-october-2023",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 25-0094 thru 25-0099 / JS-250710-TM8S (Misrep undefined-7561279)",
+    "title": "USEUCOM MISREP \u2014 50 ATKS / 432 AEW ISR Mission ISO OP HUMMER SICKLE, Eastern Mediterranean, 29-30 May 2022 (filename references UAE October 2023 \u2014 content is Sigonella/EUCOM/May 2022)",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2022-05-30",
+    "lag_years": 4.0,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 35,
+    "page_count": 9,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf",
+    "summary": "MQ-9 (50 ATKS / 432 AEW) ISR mission ISO 603 AOC / OP HUMMER SICKLE departing Sigonella AB (LICZ), Italy 291355ZMAY22, recovering LRCT 301025Z. While conducting target development over the Eastern Mediterranean (op area 41EMD), aircrew observed 1 possible small UAP at 0117Z vicinity 37SBV28 flying north-to-northeast \u2014 followed as long as possible, screener could not get positive ID. Aircraft was also reacted to by 1-3 aircraft including 1 possible RFAF Su-30 at 2147Z. Filename misleading \u2014 this is a EUCOM Eastern Med mission targeting Syrian/Russian assets in May 2022, not UAE October 2023.",
+    "key_findings": [
+      "Aircrew observed 1 possible small UAP at 0117Z on 30 MAY 2022 vicinity 37SBV28 flying north-to-northeast over Eastern Mediterranean.",
+      "Friendly aircraft at FL240 / 142 KIAS at 36SXD99 at time of observation; UAP followed 'as long as possible'; screener could not get positive ID.",
+      "Aircrew was reacted to at 2147Z by 1-3 aircraft including 1x possible RFAF Su-30 (Russian) which approached within ~5 NM, flew directly under the orbit (FL190 vs FL243) for ~2 minutes; no mission impact.",
+      "Aircrew also observed 1 probable Su-27/35 landing IVO Bassel Al Assad airfield (36SYE68/22) at 0011Z.",
+      "Mission collected on 39 targets including Syrian Navy Ops areas, OPIR DSAs, OSIC Latakia Naval MON DSAs, coastal defense sites, and ports.",
+      "Filename 'united-arab-emirates-october-2023' contradicts document \u2014 actual content is Sigonella departure, EUCOM/603 AOC, May 2022, Eastern Mediterranean. Content honored per extraction rules."
+    ],
+    "incident_refs": [
+      "dow-uap-d23-mission-report-united-arab-emirates-october-2023#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "50 ATKS",
+      "432 AEW",
+      "609 CAOC",
+      "603 AOC",
+      "12 AF PAROC"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "USEUCOM",
+      "ACC",
+      "AARO"
+    ],
+    "operation_refs": [
+      "OPERATION HUMMER SICKLE"
+    ],
+    "platform_refs": [
+      "MQ-9 (AN/DAS-4 TGT pod, AH/SAR)"
+    ],
+    "location_refs": [
+      "Sigonella AB (LICZ), Italy",
+      "LRCT (recovery)",
+      "Eastern Mediterranean (41EMD op area)",
+      "Latakia / Bassel Al Assad area, Syria",
+      "vicinity 37SBV28"
+    ],
+    "declassified_date": "2025-10-08",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4c",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "ONE POSSIBLE SMALL UAP WAS OBSERVED",
+      "OBSERVED A UAP AT 0117Z FLY NORTH TO NORTH EAST AND FOLLOWED AS LONG AS POSSIBLE. SCREENER COULD NOT GET A POSITIVE ID ON THE UAP.",
+      "REACTED TO BY 1-3 ACFT, INCLUDING 1X POSS RFAF SU-30, THAT GOT APPROXIMATELY 5NM FROM"
+    ],
+    "pdf_url_local": "/reports/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf"
+  },
+  {
+    "id": "dow-uap-d25-mission-report-greece-january-2024",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 25-0100 thru 25-0103 / JS-250710-TM8S",
+    "title": "USCENTCOM MISREP \u2014 AFSOC ISR Mission out of Larissa (LGLR), 25 January 2024",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2024-01-25",
+    "lag_years": 2.3,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 30,
+    "page_count": 7,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d25-mission-report-greece-january-2024.pdf",
+    "summary": "AFSOC ISR sortie (33 SOS / 27 SOW) departing Larissa AB (LGLR), Greece 250109Z, conducting FMV/SIGINT collection. While in transit at 0509Z, aircrew observed 1 UAP \u2014 a round/diamond-shaped object with a non-maneuverable 'tail/probe', visible only on SWIR camera, moving ~434 KTS for ~2 minutes. UAP event serial 250509ZJAN2024-CENTCOM 001.",
+    "key_findings": [
+      "Aircrew observed 1 UAP at 0509Z on 25 JAN 2024 while in transit; object diamond-shaped with non-maneuvering 'probe/tail' at bottom.",
+      "UAP visible only on SWIR camera; estimated speed ~434 KTS (~499 mph); event lasted approximately 2 minutes.",
+      "Friendly aircraft at FL250, 176 KTS, trajectory 162; observer assessment 'Benign'; no RF or intelligent control determined.",
+      "UAP altitude estimated FL200; trajectory W; maintained steady flight path with altitude profile changes.",
+      "Mission flown out of LGLR (Larissa AB, Greece); 8h29m on station; FMV exploited by GET.",
+      "UAP Event Serial Number: 250509ZJAN2024-CENTCOM 001."
+    ],
+    "incident_refs": [
+      "dow-uap-d25-mission-report-greece-january-2024#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "33 SOS",
+      "27 SOW",
+      "56 SOIS",
+      "609 CAOC",
+      "609 AOC Det 1",
+      "603 AOC"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AFSOC",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "AFSOC ISR aircraft (AN/DAS-4 TGT pod, Link 16)"
+    ],
+    "location_refs": [
+      "Larissa AB (LGLR), Greece",
+      "vicinity 35SQT44 / 35SPT63"
+    ],
+    "declassified_date": "2025-10-24",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(1)",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "ROUND DIAMOND SHAPE WITH STRAIGHT, NON MANUEVERABLE 'TAIL'",
+      "THE UAP ONLY APPEARED ON THE SWIR CAMERA. THE EVENT LASTED APPROX 2 MINUTES",
+      "MAINTAINED STEADY FLIGHT PATH, INCREASED AND DECREASED ALTITUDE PROFILE, DID NOT CHANGE TRAJECTORY"
+    ],
+    "pdf_url_local": "/reports/dow-uap-d25-mission-report-greece-january-2024.pdf"
+  },
+  {
+    "id": "dow-uap-d27-mission-report-united-arab-emirates-october-2023",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 25-0100 thru 25-0103 / JS-250710-TM8S (Misrep undefined-10055709)",
+    "title": "USCENTCOM MISREP \u2014 AFSOC ISR sortie out of OMAM (UAE), 6-7 June 2024",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2024-06-07",
+    "lag_years": 1.9,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "NOFORN"
+    ],
+    "redaction_pct": 30,
+    "page_count": 8,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf",
+    "summary": "AFSOC 3 SOS ISR sortie ISO OPERATION ENDURING SENTINEL departing OMAM (UAE) 062100ZJUN24, recovering OMAM 070713Z. Mission did not arrive on station due to weather. During RTB at 0457Z on 07 JUN 2024, aircrew detected 1 UAP \u2014 described as a glowing hot spherical object with a vertical cylindrical pole/bar attached on the bottom, possibly a reflection in the water \u2014 flying straight just over the water at 140 knots. (Filename references October 2023 but document content is dated June 2024.)",
+    "key_findings": [
+      "Aircrew observed 1 UAP at 0457Z on 07 JUN 2024 vicinity 40RFM60 / last seen 40QFM92; glowing hot spherical object with vertical unwavering cylindrical pole/bar on the bottom.",
+      "UAP flying straight just over the water at 140 knots; possible reflection visible in the water.",
+      "Friendly aircraft at 23,999 ft MSL / 163 KTS, trajectory 294; observer assessment Benign.",
+      "UAP Event Serial 060457ZJUN2024-CENTCOM; UAP physical state Solid; advanced capabilities NO.",
+      "Mission did not arrive on station due to weather (RTB at 0405Z); two NIB tasks for dhow scans were conducted.",
+      "Filename indicates 'October 2023' but document content is June 2024 \u2014 content honored over filename."
+    ],
+    "incident_refs": [
+      "dow-uap-d27-mission-report-united-arab-emirates-october-2023#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "3 SOS",
+      "27 SOW",
+      "56 SOIS",
+      "379 AEW",
+      "609 CAOC",
+      "609 AOC Det 1"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AFSOC",
+      "AARO"
+    ],
+    "operation_refs": [
+      "OPERATION ENDURING SENTINEL"
+    ],
+    "platform_refs": [
+      "AFSOC ISR aircraft (AN/DAS-1 TGT pod, AH/GMESH/SF, Link 16)"
+    ],
+    "location_refs": [
+      "OMAM, UAE",
+      "vicinity 40RFM60 / 40QFM92"
+    ],
+    "declassified_date": "2025-10-24",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(1)",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "GLOWING HOT SPHERICAL UNIDENTIFIED OBJECT WITH A VERTICAL UNWAVERING CYLINDRICAL POLE/BAR ATTACHED ON THE BOTTOM",
+      "FLYING STRAIGHT JUST OVER THE WATER AT SPEED OF 140KNOTS",
+      "POSS REFLECTION FROM THE OBJECT IN THE WATER"
+    ],
+    "pdf_url_local": "/reports/dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf"
+  },
+  {
     "id": "dow-uap-d28-mission-report-east-china-sea-2024",
     "source": "DoW-PURSUE",
     "external_id": "USCENTCOM MDR 25-0100 thru 25-0103 / JS-250710-TM8S",
@@ -665,6 +1080,198 @@
     "pdf_url_local": "/reports/dow-uap-d28-mission-report-east-china-sea-2024.pdf"
   },
   {
+    "id": "dow-uap-d3-mission-report-arabian-gulf-2020",
+    "source": "DoW-PURSUE",
+    "external_id": "Misrep 8799515",
+    "title": "USCENTCOM MISREP \u2014 Arabian Gulf, 2020 (heavily redacted)",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2020-01-01",
+    "lag_years": 6.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 80,
+    "page_count": 7,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d3-mission-report-arabian-gulf-2020.pdf",
+    "summary": "Heavily redacted USCENTCOM AFCENT MISREP describing observation of 4 UAP at approximately 1736Z. UAP appeared in the aircraft's field of view beneath cloud cover (1x at 17:36:22, 2x side-by-side at 17:36:30, 1x at 17:36:49). Cloud cover obstructed follow-up. Most mission timing, location and platform fields are redacted under (b)(1)1.4a.",
+    "key_findings": [
+      "Aircrew observed 4 UAP at approximately 1736Z; 1x at 17:36:22, 2x side-by-side at 17:36:30, 1x at 17:36:49.",
+      "Cloud cover obstructed the platform from following the objects and obtaining a clear visual.",
+      "Mission MAJCOM AFCENT; service tasked Air Force; declassification date listed as 20480603.",
+      "No advanced capabilities/materials reported; UAP advanced caps = NO.",
+      "Document heavily redacted; date, callsign, exact location, altitude all under (b)(1)1.4a."
+    ],
+    "incident_refs": [
+      "dow-uap-d3-mission-report-arabian-gulf-2020#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "USCENTCOM",
+      "AFCENT",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Arabian Gulf area (per filename)"
+    ],
+    "declassified_date": "2025-10-08",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4c",
+      "(b)(1)",
+      "(b)(3)",
+      "(b)(6)",
+      "130b"
+    ],
+    "notable_quotes": [
+      "4X UAP OBSERVED FLYING IN [redacted] FOV. CLOUD COVERAGE OBSTRUCTED [redacted] FROM FOLLOWING AND GETTING A CLEAR VISUAL."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d3-mission-report-arabian-gulf-2020.pdf"
+  },
+  {
+    "id": "dow-uap-d33-mission-report-greece-october-2023",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 26-0019 (Misrep 9329374)",
+    "title": "USCENTCOM MISREP \u2014 AFSOC ISR sortie out of Larissa (LGLR), 26-27 October 2023",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2023-10-27",
+    "lag_years": 2.5,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 30,
+    "page_count": 7,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d33-mission-report-greece-october-2023.pdf",
+    "summary": "AFSOC 33 SOS / 27 SOW ISR sortie departing Larissa AB (LGLR), Greece 262339Z, recovering OJMS 271309Z. While transiting at 0035Z on 27 OCT 2023, aircrew observed 1 possible UAP \u2014 seemingly circular, flying just above the ocean surface, executing multiple sharp 90-degree turns at ~80 mph, lost from feed at 0038Z.",
+    "key_findings": [
+      "Aircrew observed 1 UAP at 0035Z on 27 OCT 2023 vicinity 35SKD95/53; UAP flew just above ocean surface and executed multiple sharp 90-degree turns.",
+      "Estimated kinetic velocity 80 mph; UAP physical state 'Solid'; UAP signatures NONE.",
+      "Friendly aircraft trajectory SW; observer assessment 'Benign'; intelligent control assessed NO.",
+      "UAP lost from feed at 0038Z (~3 minute event).",
+      "Mission flown ISO target development; 13h30m total mission, 6h29m FMV."
+    ],
+    "incident_refs": [
+      "dow-uap-d33-mission-report-greece-october-2023#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "33 SOS",
+      "27 SOW",
+      "56 SOIS",
+      "609 CAOC",
+      "603 AOC"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AFSOC",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "AFSOC ISR aircraft (AN/DAS-4 TGT pod, Link 16)"
+    ],
+    "location_refs": [
+      "Larissa AB (LGLR), Greece",
+      "Muwaffaq Salti AB (OJMS), Jordan",
+      "vicinity 35SKD95/53"
+    ],
+    "declassified_date": "2026-01-22",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "OBSERVED 1X POSS UAP",
+      "SEEMINGLY CIRCULAR, TOO SMALL TO MAKE OUT DETAILS",
+      "FLYING JUST ABOVE THE SURFACE OF THE OCEAN WATER. THE UAP TOOK MULTIPLE 90 DEGREE TURNS"
+    ],
+    "pdf_url_local": "/reports/dow-uap-d33-mission-report-greece-october-2023.pdf"
+  },
+  {
+    "id": "dow-uap-d35-mission-report-greece-october-2023",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 26-0019 (Misrep 9337873)",
+    "title": "USCENTCOM MISREP \u2014 AFSOC ISR sortie out of Larissa (LGLR), 28-29 October 2023",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2023-10-29",
+    "lag_years": 2.5,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 30,
+    "page_count": 7,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d35-mission-report-greece-october-2023.pdf",
+    "summary": "AFSOC 33 SOS / 27 SOW ISR sortie departing Larissa AB (LGLR), Greece 281504Z, returning LGLR 291105Z. While returning to base at 0811Z on 29 OCT 2023, aircrew observed 1 possible UAP \u2014 seemingly circular, flying just above the ocean surface heading toward land at ~30 mph; lost from feed shortly after.",
+    "key_findings": [
+      "Aircrew observed 1 UAP at 0811Z on 29 OCT 2023 vicinity 35SMV33/05 while returning to base; circular object flying just above ocean surface toward land.",
+      "Estimated kinetic velocity 30 mph; UAP physical state 'Solid'; signatures NONE.",
+      "Observer assessment 'Benign'; intelligent control assessed NO; advanced capabilities UNK.",
+      "Mission flown ISO target development; 20h01m total mission, 9h24m FMV.",
+      "Aircraft loadout: 2x AGM-114R9E, 2x AGM-114R2; AN/DAS-4 TGT pod."
+    ],
+    "incident_refs": [
+      "dow-uap-d35-mission-report-greece-october-2023#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "33 SOS",
+      "27 SOW",
+      "56 SOIS",
+      "609 CAOC",
+      "609 AOC Det 1",
+      "603 AOC"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "AFSOC",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "AFSOC ISR aircraft (AN/DAS-4 TGT pod, Link 16, AGM-114)"
+    ],
+    "location_refs": [
+      "Larissa AB (LGLR), Greece",
+      "vicinity 35SMV33/05"
+    ],
+    "declassified_date": "2026-01-22",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "OBSERVED 1X POSS UAP",
+      "SEEMINGLY CIRCULAR, TOO SMALL TO MAKE OUT DETAILS",
+      "WAS RTB WHEN THEY SPOTTED A UAP FLYING JUST ABOVE THE SURFACE OF THE OCEAN WATER. THE UAP FLEW STRAIGHT ABOVE THE OCEAN TOWARDS LANDS."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d35-mission-report-greece-october-2023.pdf"
+  },
+  {
     "id": "dow-uap-d38-range-fouler-debrief-middle-east-may-2020",
     "source": "DoW-PURSUE",
     "external_id": "USCENTCOM MDR 26-0019",
@@ -714,6 +1321,58 @@
       "It appeared to make erratic moments above the water."
     ],
     "pdf_url_local": "/reports/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf"
+  },
+  {
+    "id": "dow-uap-d4-mission-report-arabian-gulf-2020",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "Mission Report \u2014 Arabian Gulf 2020 (UAP Observation, MGRS 34SDG)",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2020-01-01",
+    "lag_years": 6.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 95,
+    "page_count": 5,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d4-mission-report-arabian-gulf-2020.pdf",
+    "summary": "Heavily-redacted USCENTCOM mission report from the Arabian Gulf 2020 UAP series. Body redacted under 1.4(a); GENTEXT/UAP block on final page records a single observation at 1258Z of a possible UAP at MGRS grid 34SDG9041417044, estimated at 321 knots, that increased speed and changed direction toward the east.",
+    "key_findings": [
+      "At 1258Z, observer reported a possible UAP IVO MGRS 34SDG9041417044 (Arabian Gulf area).",
+      "UAP velocity estimated at 321 knots; brief observation precluded altitude estimation.",
+      "UAP increased speed and changed direction toward the east during the observation.",
+      "Body of MISREP almost entirely redacted under classification exemption 1.4(a).",
+      "Pilot identity redacted under (b)(6) (personal privacy)."
+    ],
+    "incident_refs": [
+      "dow-uap-d4-mission-report-arabian-gulf-2020#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "USCENTCOM"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Arabian Gulf",
+      "MGRS 34SDG9041417044"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [
+      "1.4(a)",
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "AT 1258Z, OBSERVED POSS UAP IVO 34SDG9041417044.",
+      "VELOCITY ESTIMATED AT 321 KNOTS. UAP INCREASED SPEED AND CHANGED DIRECTION TOWARDS THE EAST."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d4-mission-report-arabian-gulf-2020.pdf"
   },
   {
     "id": "dow-uap-d42-range-fouler-debrief-japan-2023",
@@ -827,6 +1486,59 @@
     "pdf_url_local": "/reports/dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf"
   },
   {
+    "id": "dow-uap-d5-mission-report-arabian-gulf-2020",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "Mission Report \u2014 Arabian Gulf 2020 (Two UAP Observations, MGRS 34SCE / 35TQK)",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2020-01-01",
+    "lag_years": 6.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 94,
+    "page_count": 6,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d5-mission-report-arabian-gulf-2020.pdf",
+    "summary": "Heavily-redacted USCENTCOM Arabian Gulf 2020 MISREP. Two GENTEXT/UAP entries: (1) 1354Z single UAP at MGRS 34SCE7566990098 cruising 40 knots between FL160-FL170 with constant speed; (2) 2243Z two possible UAPs at MGRS 35TQK1580995057 estimated at 278 knots that increased speed and turned south.",
+    "key_findings": [
+      "At 1354Z, observer logged 1 UAP IVO MGRS 34SCE7566990098 at FL160-FL170 with constant velocity of 40 knots.",
+      "At 2243Z, observer logged 2 possible UAPs IVO MGRS 35TQK1580995057, estimated at 278 knots, which increased speed and changed direction southbound.",
+      "Both events occurred in the Arabian Gulf area of operations during a single mission window.",
+      "Body of MISREP almost entirely redacted under classification exemption 1.4(a)."
+    ],
+    "incident_refs": [
+      "dow-uap-d5-mission-report-arabian-gulf-2020#0",
+      "dow-uap-d5-mission-report-arabian-gulf-2020#1"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "USCENTCOM"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Arabian Gulf",
+      "MGRS 34SCE7566990098",
+      "MGRS 35TQK1580995057"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [
+      "1.4(a)",
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "AT 1354Z, OBSERVED 1X UAP IVO 34SCE7566990098. VELOCITY WAS 40 KNOTS AT FL160 TO FL170.",
+      "AT 2243Z, OBSERVED 2X POSS UAPS IVO 35TQK1580995057. VELOCITY WAS ESTIMATED AT 278 KNOTS. UAPS INCREASED SPEED AND CHANGED DIRECTION TOWARDS THE SOUTH."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d5-mission-report-arabian-gulf-2020.pdf"
+  },
+  {
     "id": "dow-uap-d50-email-correspondence-indopacom-april-2025",
     "source": "DoW-PURSUE",
     "external_id": null,
@@ -883,6 +1595,163 @@
       "US AIRCRAFT OBSERVED 1X POSS UAP FOR 23 SECONDS AT 0007Z."
     ],
     "pdf_url_local": "/reports/dow-uap-d50-email-correspondence-indopacom-april-2025.pdf"
+  },
+  {
+    "id": "dow-uap-d51-email-correspondence-pacific-time-zone-march-2023",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "Email Correspondence \u2014 UAP Sighting Pacific Time Zone, March 2023 (UNCLASS Summary)",
+    "agency": "DoW",
+    "document_type": "email",
+    "published_at": "2026-05-08",
+    "date_authored": "2023-03-01",
+    "lag_years": 3.2,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "NOFORN"
+    ],
+    "redaction_pct": 55,
+    "page_count": 6,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf",
+    "summary": "Email correspondence between OUSD(I&S) Information Disclosure Analyst and AFOSI Counterintelligence Collections / Intelligence Oversight PM regarding declassification (derivative classification review) of an UNCLASS summary describing a civilian UAP sighting in the Pacific Time Zone, March 2023. Approval to use the summary at UNCLASS level was granted.",
+    "key_findings": [
+      "AFOSI OSI CI Collections/Intelligence Oversight PM approved derivative classification review allowing use of the UNCLASS summary in lieu of full IIR declassification.",
+      "Civilian observer reported a large blue featureless triangular object hovering near a national security facility in the Pacific Time Zone in March 2023.",
+      "Object reportedly emitted whitish-blue light from multiple points along its perimeter and moved in a 'jerking' or 'jumping' manner inconsistent with smooth jet propulsion.",
+      "Observation was approximately 8 minutes at night, recorded on a personal cellular device.",
+      "Original IIR was classified SECRET//NOFORN; summary was approved for release at UNCLASSIFIED."
+    ],
+    "incident_refs": [
+      "dow-uap-d51-email-correspondence-pacific-time-zone-march-2023#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "AFOSI"
+    ],
+    "agency_refs": [
+      "AFOSI",
+      "OUSD(I&S)"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Pacific Time Zone (CONUS)"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [
+      "1.4(a)",
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "large blue featureless triangular object with a solid, unwavering silhouette emitting powerful 'whitish blue' light",
+      "'backing up' in a 'jerking' or 'jumping' manner inconsistent with 'smooth' jet propulsion"
+    ],
+    "pdf_url_local": "/reports/dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf"
+  },
+  {
+    "id": "dow-uap-d52-email-correspondance-na-august-2024",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "PAROC Email Correspondence \u2014 UNCLASS Tear Line for 31 OCT 24 UAP Sighting",
+    "agency": "DoW",
+    "document_type": "email",
+    "published_at": "2026-05-08",
+    "date_authored": "2024-10-31",
+    "lag_years": 1.5,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "NOFORN"
+    ],
+    "redaction_pct": 70,
+    "page_count": 2,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d52-email-correspondance-na-august-2024.pdf",
+    "summary": "Internal DoD email correspondence between an Information Disclosure Analyst and a PAROC Intel Data Analysis Technician (15 AF / DET 1) regarding declassification of a UAP tear line. Thread requests inclusion of the year (2024) in the approved unclass tear line describing a U.S. aircraft observation of a possible oval/orb-shaped UAP on 31 OCT 24.",
+    "key_findings": [
+      "UNCLASS tear line approved for release: 31 OCT 24 U.S. Aircraft observed a possible UAP, oval/orb shaped, likely moving at low speed.",
+      "U.S. Aircraft maintained eyes on the possible UAP for over 2 hours.",
+      "PAROC (15 AF / DET 1) Intel Data Analysis Technician drafted the tear line release language.",
+      "Information Disclosure Analyst requested approval to include the year 2024 in the previously approved month/day-only tear line.",
+      "Email body otherwise heavily redacted under (b)(6) (personal information)."
+    ],
+    "incident_refs": [
+      "dow-uap-d52-email-correspondance-na-august-2024#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "15 AF / DET 1",
+      "PAROC"
+    ],
+    "agency_refs": [
+      "DoW"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "U.S. Aircraft"
+    ],
+    "location_refs": [],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "31 OCT 24, U.S Aircraft observed a possible UAP. It appeared to be oval/orb shaped, likely moving at a low speed.",
+      "The U.S Aircraft had eyes on the poss UAP for over 2 hours."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d52-email-correspondance-na-august-2024.pdf"
+  },
+  {
+    "id": "dow-uap-d54-mission-report-mediterranean-sea-na",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "Mission Report \u2014 Mediterranean Sea (Triangular Metallic UAP, RTB at 1319Z)",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": null,
+    "lag_years": null,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "NOFORN"
+    ],
+    "redaction_pct": 92,
+    "page_count": 7,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d54-mission-report-mediterranean-sea-na.pdf",
+    "summary": "Heavily-redacted MISREP from the Mediterranean Sea. During RTB at 1319Z, observing aircraft was transiting at 24,989 ft MSL and 168 knots over 363453N 0255943E (eastern Mediterranean) when aircrew observed a single UAP described as triangular and metallic.",
+    "key_findings": [
+      "At 1319Z during RTB, aircrew observed 1 UAP at coordinates 363453N 0255943E (central/eastern Mediterranean Sea).",
+      "Observing aircraft was at 24,989 ft MSL flying 168 knots at the time of observation.",
+      "UAP described as triangular and metallic in shape.",
+      "Body of MISREP almost entirely redacted under classification exemption 1.4(a).",
+      "Mediterranean Sea theater; specific unit/platform redacted."
+    ],
+    "incident_refs": [
+      "dow-uap-d54-mission-report-mediterranean-sea-na#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Mediterranean Sea",
+      "363453N 0255943E"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [
+      "1.4(a)",
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "1X UAP DETECTED WITH DESCRIPTIVE INFORMATION SUCH AS BEING A TRIANGLUAR AND METALLIC UAP.",
+      "DURING RTB AT 1319Z, OBSERVED 1X UAP WHILE TRANSITING OVER 363453N 0255943E FLYING AT AN ALTITUDE OF 24,989FT MSL AND SPEED OF 168KTS."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d54-mission-report-mediterranean-sea-na.pdf"
   },
   {
     "id": "dow-uap-d55-mission-report-syria-november-2016",
@@ -1114,6 +1983,275 @@
     "pdf_url_local": "/reports/dow-uap-d58-range-fouler-debrief-na-october-2020.pdf"
   },
   {
+    "id": "dow-uap-d61-mission-report-persian-gulf-august-2020",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 26-0019 (Misrep 4685903)",
+    "title": "USCENTCOM MISREP \u2014 482 ATKS / 432 AEW Armed Recce, Arabian Gulf / Strait of Hormuz / Gulf of Oman, 26-27 August 2020",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2020-08-27",
+    "lag_years": 5.7,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 35,
+    "page_count": 7,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf",
+    "summary": "MQ-9 (482 ATKS / 432 AEW) armed reconnaissance from OKAS supporting NAVCENT 26-27 AUG 2020 over the Arabian Gulf, Strait of Hormuz, and Gulf of Oman. At 1527Z aircrew observed a formation of unknown flying objects traveling NE-NW along the coast vicinity 39RVM81/99 \u2014 tracked ~2 minutes before lost in cloud cover. Mission also logged a professional Iranian Air Defense guardcall at 0532Z and observed an IL-76 Candid at Abu Musa Island airfield.",
+    "key_findings": [
+      "MQ-9 aircrew observed a formation of unknown flying objects traveling NE-NW along the coast at 1527Z; tracked ~2 minutes before light cloud cover obscured PID.",
+      "Aircrew unable to regain PID on the formation after losing it in clouds.",
+      "Iranian Air Defense issued a professional standard guardcall at 0532Z while aircraft at FL150 vicinity 40RCP78; standard response, no mission impact.",
+      "Aircrew observed 1x possible IL-76 Candid at Abu Musa Island airfield (40RCP02) at 0700Z.",
+      "Aircrew observed 1x probable Naser WAP alongside an M/T vessel (both DIW) with 2x ADMs on rear deck.",
+      "Mission supported NAVCENT operation IVO Arabian Gulf characterizing Iran/IRGCN vessels and UAS activity. 21 mission hours, 17.9 IMINT hours."
+    ],
+    "incident_refs": [
+      "dow-uap-d61-mission-report-persian-gulf-august-2020#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "482 ATKS",
+      "432 AEW",
+      "609 CAOC",
+      "12 AF Det 3 PAROC"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "ACC",
+      "NAVCENT",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "MQ-9 (AN/DAS-4 TGT pod, AH/GMESH)"
+    ],
+    "location_refs": [
+      "OKAS (departure/recovery)",
+      "Arabian Gulf",
+      "Strait of Hormuz",
+      "Gulf of Oman",
+      "Abu Musa Island AFLD",
+      "Greater Tunb naval port"
+    ],
+    "declassified_date": "2026-01-22",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "OBSERVED 1X UNK FORMATION",
+      "OBSERVED A FORMATION OF FLYING OBJECTS TRAVELING NE-NW ALONG THE COAST",
+      "LIGHT CLOUD COVERAGE PREVENTED CONTINUOUS TRACKING OF UAP EVENT"
+    ],
+    "pdf_url_local": "/reports/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf"
+  },
+  {
+    "id": "dow-uap-d64-mission-report-iran-november-2020",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 26-0028 (Misrep 5039166)",
+    "title": "USCENTCOM MISREP \u2014 482 ATKS Armed Recce, Arabian Gulf / Strait of Hormuz / Gulf of Oman, 2-3 November 2020",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2020-11-03",
+    "lag_years": 5.5,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 30,
+    "page_count": 7,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d64-mission-report-iran-november-2020.pdf",
+    "summary": "MQ-9 (482 ATKS / 432 AEW) armed reconnaissance from OKAS supporting NAVCENT 2-3 NOV 2020 over the Arabian Gulf, Strait of Hormuz, and Gulf of Oman. At 2143Z and 2148Z aircrew observed two separate UAP via FMV near Iranian coast (39RWK area). Iranian Air Defense issued a standard professional guardcall at 1012Z. Mission 20h42m total.",
+    "key_findings": [
+      "First UAP observation: 2143Z on 02 NOV 2020 vicinity 39RWK58/[redacted], bearing 080T, altitude unknown; aircraft at FL220 / 105 KIAS heading 110T.",
+      "Second UAP observation: 2148Z, additional UAP traveling NW vicinity 39RWK60/[redacted]; aircraft at FL220 / 107 KIAS heading 110T.",
+      "Iranian Air Defense guardcall received at 1012Z while at FL210 vicinity 39RUN; standard response given, no mission impact.",
+      "Mission supported NAVCENT operation IVO Arabian Gulf characterizing Iran/IRGCN vessels and UAS activity.",
+      "Open-water UUV scans 1910-2210Z produced no UUV identification.",
+      "Weather: haze precluded IMINT collection during portions of the mission."
+    ],
+    "incident_refs": [
+      "dow-uap-d64-mission-report-iran-november-2020#0",
+      "dow-uap-d64-mission-report-iran-november-2020#1"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "482 ATKS",
+      "432 AEW",
+      "379 AEW",
+      "609 CAOC",
+      "12 AF PAROC"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "ACC",
+      "NAVCENT",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "MQ-9 (AN/DAS-4 TGT pod, AH/GMESH/VORTEX)"
+    ],
+    "location_refs": [
+      "OKAS (departure/recovery)",
+      "Arabian Gulf",
+      "Strait of Hormuz",
+      "Gulf of Oman",
+      "vicinity 39RWK (Iranian coast area)"
+    ],
+    "declassified_date": "2026-03-16",
+    "declassified_by": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(1)",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "OBSERVED 1X UNIDENTIFIED AERIAL PHENOMENON IVO 39RWK58/[redacted] ALTITUDE UNKNOWN WITH A BEARING OF 080 T",
+      "OBSERVED AN ADDITIONAL UAP TRAVELING NW IVO 39RWK60/[redacted]"
+    ],
+    "pdf_url_local": "/reports/dow-uap-d64-mission-report-iran-november-2020.pdf"
+  },
+  {
+    "id": "dow-uap-d7-mission-report-arabian-gulf-2020",
+    "source": "DoW-PURSUE",
+    "external_id": null,
+    "title": "Mission Report \u2014 Arabian Gulf 2020 (Balloon-like UAP, FL310, 48FW reference)",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2020-01-01",
+    "lag_years": 6.4,
+    "classification_at_creation": "secret",
+    "classification_caveats": [],
+    "redaction_pct": 92,
+    "page_count": 6,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d7-mission-report-arabian-gulf-2020.pdf",
+    "summary": "Heavily-redacted MISREP from the Arabian Gulf 2020 UAP series. GENTEXT/UAP block describes a weapons-quality 1 radar track of a UAP traveling with the prevailing winds at 31,000 ft MSL on heading 323. Aircrew achieved a 'next-to-shoot' track and visually identified the UAP via TFLIR; description matches a balloon and resembles a UAP previously reported by 48FW.",
+    "key_findings": [
+      "Aircrew obtained a Weapons Quality 1 (WQ1) radar track on a UAP at 31,000 ft MSL traveling with the winds, IVO heading 323.",
+      "Aircrew progressed to a 'next-to-shoot' on the track and visually identified the object via TFLIR.",
+      "UAP described as looking like a balloon, similar to a previously reported UAP from 48 FW (Lakenheath wing).",
+      "Body of MISREP almost entirely redacted under classification exemption 1.4(a).",
+      "Cross-references prior 48FW UAP report \u2014 suggests recurring balloon-class object pattern in theater."
+    ],
+    "incident_refs": [
+      "dow-uap-d7-mission-report-arabian-gulf-2020#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "48 FW"
+    ],
+    "agency_refs": [
+      "USCENTCOM"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Arabian Gulf"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [
+      "1.4(a)",
+      "(b)(6)"
+    ],
+    "notable_quotes": [
+      "OBSERVED A WEAPONS QUALITY 1 TRACK OF A UAP TRAVELING WITH THE WINDS AT 31,000 FT MSL IVO 323'S.",
+      "LOOKS LIKE A BALLOON, SIMILAR TO PREVIOUSLY REPORTED UAP FROM 48FW.",
+      "WAS ABLE TO MAKE A NEXT TO SHOOT ON THE TRACK AND VISUALLY ID THE UAP IN THE TFLIR."
+    ],
+    "pdf_url_local": "/reports/dow-uap-d7-mission-report-arabian-gulf-2020.pdf"
+  },
+  {
+    "id": "dow-uap-d75-mission-report-gulf-of-aden-july-2024",
+    "source": "DoW-PURSUE",
+    "external_id": "USCENTCOM MDR 25-0072 (Misrep 10194673)",
+    "title": "USCENTCOM MISREP \u2014 124 ATKS / 132 Wing ISR Mission, Gulf of Aden, 14 July 2024",
+    "agency": "DoW",
+    "document_type": "MISREP",
+    "published_at": "2026-05-08",
+    "date_authored": "2024-07-14",
+    "lag_years": 1.8,
+    "classification_at_creation": "secret",
+    "classification_caveats": [
+      "REL TO USA, FVEY"
+    ],
+    "redaction_pct": 35,
+    "page_count": 8,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf",
+    "summary": "MQ-9 (124 ATKS / 132 Wing) ISR mission supporting NAVCENT and AFCENT on 14 JUL 2024 in the Gulf of Aden area. While conducting target development at 0517Z vicinity 38P MT 53/17, aircrew observed 1 UAP that flew a straight flight path at the same altitude \u2014 followed until distance became too far to follow. UAP speed reportedly faster than the friendly aircraft.",
+    "key_findings": [
+      "Aircrew observed 1 UAP at 0517Z on 14 JUL 2024 vicinity 38P MT 53/17; UAP travelled NW with first/last coords 38P MT 53/17 \u2192 38P MT 22/49.",
+      "UAP flew a straight flight path at the same altitude; speed faster than the friendly platform; aircraft followed until distance became too far.",
+      "UAP physical state and altitude redacted as 1.4g; observer assessment Benign; intelligent control UNKNOWN.",
+      "Mission supported NAVCENT operation (target development at 38P MT 51/11) and was retasked to AFCENT (38P MV 24/81).",
+      "Weather not a factor; FMV exploited."
+    ],
+    "incident_refs": [
+      "dow-uap-d75-mission-report-gulf-of-aden-july-2024#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [
+      "124 ATKS",
+      "132 Wing",
+      "432 AEW",
+      "379 AEW",
+      "609 CAOC"
+    ],
+    "agency_refs": [
+      "USCENTCOM",
+      "ACC",
+      "NAVCENT",
+      "AFCENT",
+      "AARO"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "MQ-9 (FMV)"
+    ],
+    "location_refs": [
+      "Gulf of Aden area",
+      "vicinity 38P MT 51/11",
+      "vicinity 38P MT 53/17",
+      "vicinity 38P MV 24/81"
+    ],
+    "declassified_date": "2025-06-02",
+    "declassified_by": "MG Brandon R. Tegtmeier, USCENTCOM Chief of Staff (recommended)",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [
+      "1.4a",
+      "1.4g",
+      "(b)(3)",
+      "(b)(6)",
+      "3.5c",
+      "130b"
+    ],
+    "notable_quotes": [
+      "OBSERVED 1X UAP AT 140517ZJUL24 IVO 38P MT 53/17",
+      "STRAIGHT FLIGHT PATH AT SAME ALTI",
+      "UAP'S SPEED WAS FASTER THAN THE [aircraft] FLYING SPEED",
+      "FOLLOWED THE UAP TILL THE DISTANCE BECAME TOO FAR TO FOLLOW"
+    ],
+    "pdf_url_local": "/reports/dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf"
+  },
+  {
     "id": "dow-uap-pr20",
     "source": "DoW-PURSUE",
     "external_id": "USCENTCOM MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S",
@@ -1311,6 +2449,58 @@
       "The light went out and the object vanished."
     ],
     "pdf_url_local": "/reports/serial-4-redacted_redacted.pdf"
+  },
+  {
+    "id": "serial_5_redacted_redacted",
+    "source": "DoW-PURSUE",
+    "external_id": "FD-302",
+    "title": "FBI FD-302 \u2014 September 2023 UAP Witness Interview",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-08",
+    "date_authored": "2023-10-01",
+    "lag_years": 2.6,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 40,
+    "page_count": 2,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/serial 5 redacted_redacted.pdf",
+    "summary": "FBI Form FD-302 documenting a September 2023 witness interview about a UAP sighting. Witness, en route to a LiDAR test site at approximately 9:00 am, observed a stationary bright white light over the horizon that began moving to the right and then disappeared after about 10 seconds. Interview was conducted via FaceTime video by an FBI Special Agent.",
+    "key_findings": [
+      "Sighting occurred September 2023 around 9:00 am while witness convoy (F150, GMC AT4, sprinter van) drove east to a LiDAR test site.",
+      "Witness saw a bright white light over the horizon that was initially stationary, then moved right and disappeared after about 10 seconds.",
+      "Light estimated 10 to 20 miles away; remained constant size throughout observation; visible through top right of windshield.",
+      "Witness did not notice any interference with his vehicle.",
+      "Other occupants in the convoy also reported seeing the light at the first test site.",
+      "Witness theorized the light may have been a meteor coming straight toward them and burning up in the atmosphere.",
+      "Interview conducted via FaceTime video by FBI Special Agent in October 2023."
+    ],
+    "incident_refs": [
+      "serial_5_redacted_redacted#0"
+    ],
+    "person_refs": [],
+    "unit_refs": [],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [
+      "F150",
+      "GMC AT4",
+      "sprinter van"
+    ],
+    "location_refs": [
+      "United States"
+    ],
+    "declassified_date": null,
+    "declassified_by": null,
+    "approved_for_release_to": null,
+    "redaction_codes": [],
+    "notable_quotes": [
+      "saw a bright light over the horizon. The light was stationary in the air, then started moving to the right and then disappeared.",
+      "thought the light might have been a meteor coming straight toward them and burning up in the atmosphere."
+    ],
+    "pdf_url_local": "/reports/serial_5_redacted_redacted.pdf"
   },
   {
     "id": "usper-statement-redacted",
