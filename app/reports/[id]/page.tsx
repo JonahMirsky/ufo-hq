@@ -113,43 +113,116 @@ export default async function ReportReader({ params }: { params: Promise<{ id: s
           className="grid gap-6"
           style={{ gridTemplateColumns: "minmax(0, 3fr) minmax(0, 2fr)" }}
         >
-          {/* PDF embed */}
-          <div className="lg:sticky" style={{ position: "sticky", top: 80, alignSelf: "flex-start" }}>
-            <Panel id="PDF-01" title="Source Document" subtitle={`${doc.page_count}p · ${doc.redaction_pct}% redacted`}>
+          {/* Source PDF panel */}
+          <div style={{ position: "sticky", top: 80, alignSelf: "flex-start" }}>
+            <Panel id="PDF-01" title="Source Document">
               <div
                 style={{
                   background: "var(--bg-void)",
                   borderRadius: "var(--r-sm)",
-                  overflow: "hidden",
-                  height: "78vh",
-                  minHeight: "500px",
+                  border: "1px solid var(--border-faint)",
+                  padding: "32px 24px",
+                  display: "flex",
+                  flexDirection: "column",
+                  alignItems: "center",
+                  textAlign: "center",
+                  gap: "16px",
+                  minHeight: "320px",
+                  justifyContent: "center",
                 }}
               >
-                <iframe
-                  src={doc.pdf_url}
-                  style={{ width: "100%", height: "100%", border: "none", background: "white" }}
-                  title={doc.title}
-                />
-              </div>
-              <div
-                className="font-mono mt-2"
-                style={{
-                  fontSize: "9px",
-                  letterSpacing: "0.18em",
-                  textTransform: "uppercase",
-                  color: "var(--fg-muted)",
-                }}
-              >
+                <div
+                  className="font-mono"
+                  style={{
+                    fontSize: "9px",
+                    letterSpacing: "0.32em",
+                    textTransform: "uppercase",
+                    color: "var(--fg-muted)",
+                  }}
+                >
+                  PDF · {doc.page_count} page{doc.page_count === 1 ? "" : "s"}
+                  {doc.redaction_pct > 0 && ` · ${doc.redaction_pct}% redacted`}
+                </div>
+                <div
+                  className="font-display"
+                  style={{
+                    fontSize: "20px",
+                    fontWeight: 500,
+                    lineHeight: 1.3,
+                    color: "var(--fg-primary)",
+                    maxWidth: "320px",
+                  }}
+                >
+                  {doc.title}
+                </div>
                 <a
                   href={doc.pdf_url}
                   target="_blank"
                   rel="noopener"
-                  style={{ color: "var(--fg-secondary)", textDecoration: "underline" }}
+                  className="btn btn-primary"
+                  style={{ marginTop: "8px" }}
                 >
-                  open in new tab ↗
-                </a>{" "}
-                · source: {new URL(doc.pdf_url).host}
+                  OPEN AT SOURCE ↗
+                </a>
+                <div
+                  className="font-mono"
+                  style={{
+                    fontSize: "9px",
+                    letterSpacing: "0.18em",
+                    textTransform: "uppercase",
+                    color: "var(--fg-muted)",
+                    marginTop: "4px",
+                  }}
+                >
+                  served by {new URL(doc.pdf_url).host} · we don&apos;t host PDFs
+                </div>
               </div>
+
+              {/* Redaction visualization */}
+              {doc.redaction_pct > 0 && (
+                <div className="mt-4">
+                  <div
+                    className="font-mono mb-2"
+                    style={{
+                      fontSize: "9px",
+                      letterSpacing: "0.22em",
+                      textTransform: "uppercase",
+                      color: "var(--fg-muted)",
+                    }}
+                  >
+                    Redaction density
+                  </div>
+                  <div
+                    style={{
+                      height: "12px",
+                      borderRadius: "2px",
+                      background: "var(--bg-elevated)",
+                      overflow: "hidden",
+                      position: "relative",
+                    }}
+                  >
+                    <div
+                      style={{
+                        width: `${doc.redaction_pct}%`,
+                        height: "100%",
+                        background: "var(--status-anomaly)",
+                        opacity: 0.7,
+                      }}
+                    />
+                  </div>
+                  <div
+                    className="font-mono mt-1 flex justify-between"
+                    style={{
+                      fontSize: "9px",
+                      color: "var(--fg-muted)",
+                      letterSpacing: "0.12em",
+                    }}
+                  >
+                    <span>{doc.redaction_pct}% redacted</span>
+                    <span>{100 - doc.redaction_pct}% visible</span>
+                  </div>
+                </div>
+              )}
             </Panel>
           </div>
 
