@@ -1926,6 +1926,62 @@
     "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_serial_130.pdf"
   },
   {
+    "id": "65_hs1-834228961_62-hq-83894_serial_153",
+    "source": "DoW-PURSUE",
+    "external_id": "62-HQ-83894 Vol. 1 Serial 153",
+    "title": "FBI HQ Case 62-HQ-83894 Serial 153 \u2014 'Flying Saucers' Observed Over Oak Ridge, Tennessee, July 1947",
+    "agency": "FBI",
+    "document_type": "case_file",
+    "published_at": "2026-05-09",
+    "date_authored": "1947-07-01",
+    "lag_years": 78.9,
+    "classification_at_creation": "unclassified",
+    "classification_caveats": [],
+    "redaction_pct": 0,
+    "page_count": 9,
+    "pdf_url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_153.pdf",
+    "summary": "FBI Headquarters case 62-HQ-83894 serial 153 \u2014 physical evidence file containing two original photographs taken by W.R. Presley of 218 Illinois Avenue, Oak Ridge, Tennessee, during July 1947, plus a photostatic copy of the Knoxville News-Sentinel article reporting them. One of the first photographed 'flying saucer' incidents in the United States, occurring during the Kenneth Arnold-era wave and over a sensitive nuclear weapons site (Oak Ridge / Manhattan Project). Cross-referenced from Knoxville Field Office file #65-11 under the Internal Security \u2013 X (counter-intelligence) classification.",
+    "key_findings": [
+      "Two original photographic prints enclosed: a control image of the Oak Ridge neighborhood (with no anomalous object) and a near-identical frame in which a bright disk-shaped object is visible in the upper sky.",
+      "Photographer W.R. Presley took the disk-bearing frame as the last exposure on a roll, claiming he had been photographing his family and turned to capture the mountain scenery \u2014 disk only visible after development.",
+      "Newspaper clipping from the Knoxville News-Sentinel (July 1947) headlined 'Flying Saucer Photographed at Oak Ridge'; first reported flying-disc photograph over Oak Ridge.",
+      "Classified by the FBI under 'INTERNAL SECURITY \u2013 X' \u2014 the counter-intelligence flag used at the time for incidents at sensitive nuclear-weapons sites.",
+      "Case file routed: Knoxville Field Office (#65-11) \u2192 FBI HQ (62-HQ-83894 Vol. 1 Serial 153).",
+      "Declassification authority: FBI Automatic Declassification Guide, issued May 24, 2007.",
+      "Serial 153 is filed only as physical exhibits \u2014 the photographs and clipping themselves, not a narrative report (covering memos appear in adjacent serials in Vol. 1)."
+    ],
+    "incident_refs": [
+      "65_hs1-834228961_62-hq-83894_serial_153#0"
+    ],
+    "person_refs": [
+      "W.R. Presley (photographer / civilian witness)"
+    ],
+    "unit_refs": [
+      "FBI Knoxville Field Office",
+      "FBI Headquarters"
+    ],
+    "agency_refs": [
+      "FBI"
+    ],
+    "operation_refs": [],
+    "platform_refs": [],
+    "location_refs": [
+      "Oak Ridge, Tennessee",
+      "218 Illinois Avenue, Oak Ridge, TN",
+      "Knoxville, Tennessee"
+    ],
+    "declassified_date": "2007-05-24",
+    "declassified_by": "FBI Automatic Declassification Guide",
+    "approved_for_release_to": "AARO",
+    "redaction_codes": [],
+    "notable_quotes": [
+      "FLYING SAUCERS OBSERVED OVER OAK RIDGE AREA / INTERNAL SECURITY - X",
+      "Two photographs of reputedly 'flying saucers' seen at Oak Ridge, Tennessee, during July 1947.",
+      "Sure. Sure. You're right. It is a Flying Saucer. A lot of folks have reported seeing the things. This, however, is the first time that one has ever been photographed over Oak Ridge."
+    ],
+    "pdf_url_local": "/reports/65_hs1-834228961_62-hq-83894_serial_153.pdf"
+  },
+  {
     "id": "65_hs1-834228961_62-hq-83894_serial_164",
     "source": "DoW-PURSUE",
     "external_id": "62-HQ-83894 Serial 164",

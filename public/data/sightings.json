@@ -2528,6 +2528,43 @@
     "outcome": "FBI radio section identified the device as obsolete radio components, not a flying disc."
   },
   {
+    "id": "65_hs1-834228961_62-hq-83894_serial_153#0",
+    "doc_id": "65_hs1-834228961_62-hq-83894_serial_153",
+    "source": "DoW-PURSUE",
+    "occurred_at": "1947-07-01T00:00:00Z",
+    "reported_at": "2026-05-09",
+    "location_text": "Oak Ridge, Tennessee (vicinity 218 Illinois Avenue)",
+    "country_code": "US",
+    "lat": null,
+    "lng": null,
+    "duration_seconds": null,
+    "shape": "disk",
+    "shape_raw": "Bright disk-shaped object visible in the upper sky in one frame, absent in the control frame moments earlier; described in the period press as a 'flying saucer'.",
+    "size_estimate_m": null,
+    "speed_mph": null,
+    "altitude_ft": null,
+    "color": "white",
+    "witness_count": 1,
+    "witness_role": "civilian photographer (W.R. Presley)",
+    "is_aviator": false,
+    "near_military_mi": 0,
+    "near_nuclear_mi": 0,
+    "maneuver_tags": [],
+    "evidence_types": [
+      "photographic",
+      "visual"
+    ],
+    "media_captured": [
+      "original photographic print"
+    ],
+    "has_media": true,
+    "summary": "Civilian photographer W.R. Presley of Oak Ridge, Tennessee captured a bright disk-shaped object on the final frame of a roll of family photographs taken at his home, July 1947. The control frame from moments earlier shows no object; the next frame shows a luminous disc against the sky over the Oak Ridge nuclear-weapons facility. Both prints filed as physical exhibits in FBI Headquarters case 62-HQ-83894 Serial 153 alongside the Knoxville News-Sentinel article reporting the photograph.",
+    "classification": "unresolved",
+    "resolution_category": null,
+    "weather": "clear daylight, mountains visible on horizon",
+    "outcome": "filed as physical evidence; no resolution recorded in this serial"
+  },
+  {
     "id": "65_hs1-834228961_62-hq-83894_serial_220#0",
     "doc_id": "65_hs1-834228961_62-hq-83894_serial_220",
     "source": "DoW-PURSUE",

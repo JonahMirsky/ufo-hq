@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-05-08T21:49:40.919510Z",
+  "generated_at": "2026-05-10T00:24:33.312166Z",
   "headline": {
-    "TM_01_total_sightings": 178,
-    "TM_02_total_documents": 115,
-    "TM_02_total_pages": 4144,
+    "TM_01_total_sightings": 179,
+    "TM_02_total_documents": 116,
+    "TM_02_total_pages": 4153,
     "TM_03_date_range": "1944\u20132025",
     "TM_03_years_covered": 82,
-    "TM_04_unresolved_pct": 83.7,
+    "TM_04_unresolved_pct": 83.8,
     "TM_05_top_shape": "disk",
-    "TM_05_top_shape_count": 35,
+    "TM_05_top_shape_count": 36,
     "TM_06_most_active_year": 1999,
     "TM_06_most_active_year_count": 23,
     "TM_07_active_hotspot": "US",
-    "TM_07_active_hotspot_count": 63,
+    "TM_07_active_hotspot_count": 64,
     "TM_08_top_speed_mph": 4000,
     "TM_09_most_cited": "FBI",
-    "TM_09_most_cited_count": 36,
-    "extra_aviator_pct": 50.6
+    "TM_09_most_cited_count": 37,
+    "extra_aviator_pct": 50.3
   },
   "by_year": {
     "1944": 13,
     "1945": 3,
-    "1947": 15,
+    "1947": 16,
     "1948": 16,
     "1949": 5,
     "1950": 3,
@@ -54,7 +54,7 @@
     "2025": 13
   },
   "by_decade": {
-    "1940s": 52,
+    "1940s": 53,
     "1950s": 14,
     "1960s": 8,
     "1970s": 9,
@@ -64,7 +64,7 @@
     "2020s": 58
   },
   "by_shape": {
-    "disk": 35,
+    "disk": 36,
     "light": 27,
     "formation": 27,
     "orb": 23,
@@ -76,7 +76,7 @@
     "boomerang": 1
   },
   "by_country": {
-    "US": 63,
+    "US": 64,
     "FR": 8,
     "SY": 8,
     "DE": 5,
@@ -97,13 +97,13 @@
   },
   "by_agency_docs": {
     "DoW": 49,
-    "FBI": 47,
+    "FBI": 48,
     "NASA": 8,
     "DoS": 7,
     "Other": 4
   },
   "by_doctype": {
-    "case_file": 50,
+    "case_file": 51,
     "MISREP": 30,
     "transcript": 7,
     "memo": 6,
@@ -117,9 +117,9 @@
     "slide_deck": 1
   },
   "by_evidence_type": {
-    "visual": 157,
+    "visual": 158,
     "video": 36,
-    "photographic": 31,
+    "photographic": 32,
     "infrared": 17,
     "radar": 6,
     "audio": 4,
@@ -145,7 +145,7 @@
     "rapid_climb": 1
   },
   "by_color": {
-    "white / silver": 44,
+    "white / silver": 45,
     "dark / black": 26,
     "red / crimson": 18,
     "multi-color": 11,
@@ -166,7 +166,7 @@
   },
   "altitude_max_ft": 158400,
   "witness_histogram": {
-    "1": 34,
+    "1": 35,
     "2": 26,
     "3": 17,
     "4\u20135": 3,
@@ -176,7 +176,7 @@
   },
   "witness_split": {
     "aviator": 90,
-    "civilian": 88
+    "civilian": 89
   },
   "media_types": {
     "fmv": 24,
@@ -194,6 +194,7 @@
     "newspaper clipping retained in fbi file": 1,
     "two photo prints labeled scene a and scene b (confidential)": 1,
     "galveston news article 12 july 1949": 1,
+    "original photographic print": 1,
     "newspaper photograph": 1,
     "four ground depressions": 1,
     "three burned circular marks": 1,
@@ -213,7 +214,7 @@
     "tflir": 1,
     "hasselblad photographs (frame 70 and others)": 1
   },
-  "has_media_count": 85,
+  "has_media_count": 86,
   "top_operations": {
     "OPERATION INHERENT RESOLVE": 9,
     "Project SIGN": 4,
@@ -259,6 +260,6 @@
   "lag_distribution": {
     "median_years": 26.4,
     "max_years": 81.1,
-    "count": 113
+    "count": 114
   }
 }
