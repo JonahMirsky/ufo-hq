@@ -1,11 +1,10 @@
 import Link from "next/link";
 
 const NAV = [
-  { href: "/", label: "OVERVIEW" },
   { href: "/media", label: "MEDIA" },
-  { href: "/reports", label: "REPORTS" },
-  { href: "/timeline", label: "TIMELINE" },
   { href: "/intel", label: "INTEL" },
+  { href: "/timeline", label: "TIMELINE" },
+  { href: "/reports", label: "REPORTS" },
   { href: "/search", label: "SEARCH" },
   { href: "/about", label: "ABOUT" },
 ];
