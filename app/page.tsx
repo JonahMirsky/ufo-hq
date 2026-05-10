@@ -1,7 +1,10 @@
 import { TopNav } from "../components/TopNav";
 import { loadMetrics } from "../lib/data";
+import type { Metrics } from "../lib/types";
 
-const KPI_ORDER: { key: string; label: string; tone?: "am" | "cy"; suffix?: string }[] = [
+type HeadlineKey = keyof Metrics["headline"];
+
+const KPI_ORDER: { key: HeadlineKey; label: string; tone?: "am" | "cy"; suffix?: string }[] = [
   { key: "TM_02_total_documents", label: "Documents", tone: "am" },
   { key: "TM_01_total_sightings", label: "Sightings", tone: "cy" },
   { key: "TM_02_total_pages", label: "Pages" },
